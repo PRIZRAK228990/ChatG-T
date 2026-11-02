@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "butcher:raw_lamb_sirloin"
+    },
+    "result": "butcher:lamb_sirloin",
+    "experience": 1.0,
+    "cookingtime": 200
+  }

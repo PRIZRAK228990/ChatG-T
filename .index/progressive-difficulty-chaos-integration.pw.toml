@@ -1,0 +1,18 @@
+filename = 'Progressive Difficulty Chaos Integration-1.0.1-1.20.1.jar'
+name = 'Progressive Difficulty: Chaos Integration'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1-1.20.1'
+
+[download]
+hash = '2bf31fa5e08df5663580494ad9f50380c98cfbda7f8f1542a59a198d2eb57e873294ece96892303761dfc2b72fbcd125d4daeaf7e731d3a2bdc9756453cb7136'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NG36O5es/versions/Pvr4jvF4/Progressive Difficulty Chaos Integration-1.0.1-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NG36O5es'
+version = 'Pvr4jvF4'

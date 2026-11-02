@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "common": {
+      "max_strikes": 2,
+	  "impact": 1,
+	  "armor_negation": 5,
+	  "speed_bonus": -0.3
+    }
+  },
+  "collider": {
+    "number": 5,
+    "size": [
+      0.3,
+      0.3,
+      0.5
+    ],
+    "center": [
+      0.0,
+      0.0,
+      -0.4
+    ]
+  },
+  "type": "ba_tweaks:hammer"
+}

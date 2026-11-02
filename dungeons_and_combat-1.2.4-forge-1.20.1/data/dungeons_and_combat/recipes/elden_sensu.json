@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:horuso_feather"
+    },
+    "b": {
+      "item": "dungeons_and_combat:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:elden_sensu_dagger",
+    "count": 1
+  }
+}

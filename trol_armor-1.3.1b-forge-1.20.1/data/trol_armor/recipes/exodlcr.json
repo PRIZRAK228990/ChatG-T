@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tialloy"
+    },
+    "b": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "c": {
+      "item": "trol_armor:cable"
+    }
+  },
+  "result": {
+    "item": "trol_armor:exodlc",
+    "count": 3
+  }
+}

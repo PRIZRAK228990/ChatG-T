@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "minecraft:green_dye"
+  },
+  "result": {
+    "item": "dungeons_and_combat:mantle_of_the_demon_king_helmet"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tialloy"
+    },
+    "b": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "c": {
+      "item": "trol_armor:pan"
+    }
+  },
+  "result": {
+    "item": "trol_armor:tis",
+    "count": 1
+  }
+}

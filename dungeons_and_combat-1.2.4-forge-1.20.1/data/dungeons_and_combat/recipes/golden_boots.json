@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:golden_boots"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "item": "dungeons_and_combat:golden_boots"
+  }
+}

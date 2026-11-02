@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:ernos_fang"
+    },
+    "b": {
+      "item": "dungeons_and_combat:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_barbarian_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "dev.xkmc.cataclysm_mux",
+        "artifact": "cataclysm_mux"
+      },
+      "version": {
+        "range": "[0.0.6,)",
+        "artifactVersion": "0.0.6"
+      },
+      "path": "META-INF/jarjar/cataclysm_mux-0.0.6.jar",
+      "isObfuscated": false
+    }
+  ]
+}

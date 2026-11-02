@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    },
+    "b": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "c": {
+      "item": "trol_armor:fabric"
+    }
+  },
+  "result": {
+    "item": "trol_armor:ltv_leggings",
+    "count": 1
+  }
+}

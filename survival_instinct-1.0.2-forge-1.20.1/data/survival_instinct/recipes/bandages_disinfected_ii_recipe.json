@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "survival_instinct:homemade_bandage"
+    },
+    "b": {
+      "item": "survival_instinct:alcohol_wipes"
+    }
+  },
+  "result": {
+    "item": "survival_instinct:bandage",
+    "count": 1
+  }
+}

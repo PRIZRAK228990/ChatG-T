@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bucket_of_cheese"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:whole_cheese",
+    "count": 2
+  }
+}

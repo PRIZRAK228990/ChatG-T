@@ -1,0 +1,43 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:goat_corpse_item"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 28,
+                "min": 9
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 19,
+                "min": 5
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 18,
+                "min": 8
+            },
+            "item": "biomancy:elastic_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 31,
+                "min": 10
+            },
+            "item": "biomancy:mineral_fragment"
+        }
+    ]
+
+}

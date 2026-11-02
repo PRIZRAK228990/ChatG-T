@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: l2hostility
+Specification-Vendor: xkmc
+Specification-Version: 1
+Implementation-Title: L2Hostility
+Implementation-Version: 2.5.19
+Implementation-Vendor: xkmc
+Implementation-Timestamp: 2026-03-26T13:20:02+0800
+MixinConfigs: l2hostility.mixins.json
+

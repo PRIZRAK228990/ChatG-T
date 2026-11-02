@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "iceandfire:dragonbone"
+    },
+    "b": {
+      "item": "iceandfire:dragonscales_gray"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:gray_dragon_shield",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "tag": "forge:string"
+    },
+    "L": {
+      "tag": "forge:leather"
+    },
+    "S": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "SIS",
+    "LLL"
+  ],
+  "result": {
+    "item": "backpacked:backpack"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " aa",
+    " ba",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "aquaculture:neptunium_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:neptunium_trident",
+    "count": 1
+  }
+}

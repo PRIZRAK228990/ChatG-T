@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:crimson_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:ebony_dagger"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:crimson_ingot"
+  },
+  "result": {
+    "item": "dungeons_and_combat:crimson_sickle"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:turtle_empty_shell"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 64,
+                "min": 25
+            },
+            "item": "biomancy:tough_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 39,
+                "min": 17
+            },
+            "item": "biomancy:mineral_fragment"
+        }
+    ]
+    }

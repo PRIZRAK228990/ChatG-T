@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "iceandfire:armor_gray_leggings"
+  },
+  "addition": {
+    "item": "iceandfire:dragonscales_gray"
+  },
+  "result": {
+    "item": "dungeons_and_combat:black_dragon_leggings"
+  }
+}

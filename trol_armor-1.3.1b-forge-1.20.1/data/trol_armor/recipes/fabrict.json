@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:fabric"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "trol_armor:police_leggings",
+    "count": 1
+  }
+}

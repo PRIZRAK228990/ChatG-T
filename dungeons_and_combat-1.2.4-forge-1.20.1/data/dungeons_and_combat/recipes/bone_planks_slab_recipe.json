@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bone_planks"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bone_planks_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:hoglinmeat"
+    },
+    "result": "butcher:cookedhoglinmeat",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

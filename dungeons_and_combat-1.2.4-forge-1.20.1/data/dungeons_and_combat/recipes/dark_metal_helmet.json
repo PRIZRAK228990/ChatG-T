@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "born_in_chaos_v1:dark_metal_armor_helmet"
+  },
+  "addition": {
+    "item": "born_in_chaos_v1:pieceofdarkmetal"
+  },
+  "result": {
+    "item": "dungeons_and_combat:dark_metal_helmet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fleshy_cloth"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bloody_cult_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:molten_blazing_greathammer"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:bottled_acid_fire"
+  },
+  "result": {
+    "item": "dungeons_and_combat:acid_molten_blazing_greathammer"
+  }
+}

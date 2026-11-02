@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    },
+    "b": {
+      "item": "trol_armor:fabric"
+    }
+  },
+  "result": {
+    "item": "trol_armor:lv_1c_chestplate",
+    "count": 1
+  }
+}

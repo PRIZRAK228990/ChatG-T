@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:stone"
+    },
+    "b": {
+      "item": "minecraft:yellow_dye"
+    },
+    "c": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "trol_armor:shelter",
+    "count": 1
+  }
+}

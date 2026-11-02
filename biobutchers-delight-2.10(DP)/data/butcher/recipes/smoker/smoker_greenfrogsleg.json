@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:frogsleg"
+    },
+    "result": "butcher:cooked_green_frogs_leg",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

@@ -1,0 +1,18 @@
+filename = 'punchy-2.7e-forge-1.20.1.jar'
+name = 'Punchy! - First person animations'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Punchy 2.7e (Forge) - 1.20.1'
+
+[download]
+hash = '230dfe5389708499cd9653a6a40e0291dafb7275'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8801809
+project-id = 1374153

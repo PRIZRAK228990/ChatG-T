@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "dungeons_and_combat:silver_ore",
+  "step": "underground_ores"
+}

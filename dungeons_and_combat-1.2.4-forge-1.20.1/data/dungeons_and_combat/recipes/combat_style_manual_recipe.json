@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:book"
+    },
+    "b": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:combat_style_manual",
+    "count": 1
+  }
+}

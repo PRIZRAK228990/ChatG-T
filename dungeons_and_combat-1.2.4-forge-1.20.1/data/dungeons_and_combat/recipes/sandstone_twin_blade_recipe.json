@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " aa",
+    "abc",
+    "ac "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:sandstone_ingot"
+    },
+    "b": {
+      "item": "minecraft:sandstone"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:sandstone_twin_blade",
+    "count": 1
+  }
+}

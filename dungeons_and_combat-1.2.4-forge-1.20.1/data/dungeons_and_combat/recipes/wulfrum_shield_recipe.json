@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "tohiro_ores:wulfrum_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:wulfrum_shield",
+    "count": 1
+  }
+}

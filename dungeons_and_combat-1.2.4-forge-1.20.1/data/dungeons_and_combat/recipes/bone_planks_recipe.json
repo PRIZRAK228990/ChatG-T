@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bone_planks",
+    "count": 2
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "malum:spirit_infusion",
+  "extra_items": [
+    {
+      "count": 16,
+      "item": "malum:twisted_rock"
+    },
+    {
+      "count": 4,
+      "item": "malum:living_flesh"
+    },
+    {
+      "count": 1,
+      "item": "malum:fused_consciousness"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:iron_axe"
+  },
+  "output": {
+    "item": "malstone:wallow_axe"
+  },
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 64
+    },
+    {
+      "type": "eldritch",
+      "count": 48
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:igneous_ore_netherrack",
+    "dungeons_and_combat:bronze_lamp",
+    "dungeons_and_combat:bronze_tiles_wall",
+    "dungeons_and_combat:bronze_tiles_slab",
+    "dungeons_and_combat:bronze_tiles_stairs",
+    "dungeons_and_combat:bronze_brick_wall",
+    "dungeons_and_combat:bronze_brick_slab",
+    "dungeons_and_combat:bronze_brick_stairs",
+    "dungeons_and_combat:bronze_tiles",
+    "dungeons_and_combat:bronze_brick",
+    "dungeons_and_combat:bronze_block",
+    "dungeons_and_combat:igneous_block",
+    "dungeons_and_combat:igneous_blackstone_brick_wall",
+    "dungeons_and_combat:igneous_blackstone_brick_slab",
+    "dungeons_and_combat:igneous_blackstone_brick_stairs",
+    "dungeons_and_combat:igneous_blackstone_brick",
+    "dungeons_and_combat:steel_block",
+    "dungeons_and_combat:igneous_ore"
+  ]
+}

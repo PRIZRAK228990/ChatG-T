@@ -1,0 +1,35 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:pig_corpse_item"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 72,
+                "min": 25
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 32,
+                "min": 9
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 48,
+                "min": 16
+            },
+            "item": "biomancy:elastic_fibers"
+        }
+    ]
+
+}

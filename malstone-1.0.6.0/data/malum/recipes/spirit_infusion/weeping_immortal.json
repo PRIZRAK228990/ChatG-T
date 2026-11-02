@@ -1,0 +1,34 @@
+{
+  "type": "malum:spirit_infusion",
+  "extra_items": [
+    {
+      "count": 1,
+      "item": "malum:malignant_lead"
+    },
+    {
+      "count": 1,
+      "item": "malum:fused_consciousness"
+    },
+    {
+      "count": 32,
+      "item": "malum:twisted_rock"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "malum:ornate_ring"
+  },
+  "output": {
+    "item": "malstone:weeping_immortal"
+  },
+  "spirits": [
+    {
+      "type": "arcane",
+      "count": 16
+    },
+    {
+      "type": "eldritch",
+      "count": 8
+    }
+  ]
+}

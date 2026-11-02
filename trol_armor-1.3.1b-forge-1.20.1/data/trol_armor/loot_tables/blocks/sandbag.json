@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "trol_armor:blocks/sandbag",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "trol_armor:sandbag"
+        }
+      ]
+    }
+  ]
+}

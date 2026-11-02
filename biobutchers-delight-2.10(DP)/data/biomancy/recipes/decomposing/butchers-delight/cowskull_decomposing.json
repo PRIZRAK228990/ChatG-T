@@ -1,0 +1,26 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelight:skullcow"
+    },
+    "nutrientsCost": 1,
+    "processingTime": 500,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max":20,
+                "min": 12
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 5,
+                "min": 2
+            },
+            "item": "biomancy:mineral_fragment"
+        }
+    ]
+}

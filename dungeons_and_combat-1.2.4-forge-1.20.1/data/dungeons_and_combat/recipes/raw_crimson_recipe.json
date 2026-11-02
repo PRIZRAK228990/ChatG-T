@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:blood_vial"
+    },
+    "b": {
+      "item": "dungeons_and_combat:ebony_scrap"
+    },
+    "c": {
+      "item": "minecraft:raw_iron"
+    },
+    "d": {
+      "item": "dungeons_and_combat:divine_blood_vial"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:raw_crimson",
+    "count": 1
+  }
+}

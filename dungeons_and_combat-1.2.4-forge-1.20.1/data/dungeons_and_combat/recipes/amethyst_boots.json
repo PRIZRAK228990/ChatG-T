@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "iceandfire:armor_amythest_boots"
+  },
+  "addition": {
+    "item": "iceandfire:dragonscales_amythest"
+  },
+  "result": {
+    "item": "dungeons_and_combat:amethyst_dragon_boots"
+  }
+}

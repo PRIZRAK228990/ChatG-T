@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: projectzombieclasses
+Specification-Vendor: Mellovin510
+Specification-Version: 1
+Implementation-Title: projectzombieclasses
+Implementation-Version: 1.3.1
+Implementation-Vendor: Mellovin510
+Implementation-Timestamp: 2026-08-26T12:00:31+0200
+

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:raw_pork_loin"
+    },
+    "result": "butcher:pork_loin",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

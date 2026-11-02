@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "dev.xkmc.l2damagetracker",
+        "artifact": "l2damagetracker"
+      },
+      "version": {
+        "range": "[0.4.4,)",
+        "artifactVersion": "0.4.4"
+      },
+      "path": "META-INF/jarjar/l2damagetracker-0.4.4.jar",
+      "isObfuscated": false
+    }
+  ]
+}

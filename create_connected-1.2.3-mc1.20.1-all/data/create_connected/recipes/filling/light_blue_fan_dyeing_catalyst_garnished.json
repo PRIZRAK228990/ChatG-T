@@ -1,0 +1,28 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "create_connected:feature_enabled",
+      "feature": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "garnished"
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1000,
+      "fluid": "garnished:light_blue_mastic_resin",
+      "nbt": {}
+    },
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_connected:light_blue_fan_dyeing_catalyst"
+    }
+  ]
+}

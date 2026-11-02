@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "l2complements:eternium_ingot"
+  },
+  "base": {
+    "item": "l2weaponry:iron_plate_shield"
+  },
+  "result": {
+    "item": "l2weaponry:eternium_plate_shield"
+  },
+  "template": {
+    "item": "l2complements:eternal_upgrade_smithing_template"
+  }
+}

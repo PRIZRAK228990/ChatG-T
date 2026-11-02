@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bronze_brick"
+    },
+    "b": {
+      "item": "dungeons_and_combat:bronze_engine_core"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_lamp",
+    "count": 4
+  }
+}

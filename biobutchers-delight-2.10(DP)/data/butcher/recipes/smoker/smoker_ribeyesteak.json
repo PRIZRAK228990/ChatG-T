@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:raw_ribeye_steak"
+    },
+    "result": "butcher:rib_steak",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

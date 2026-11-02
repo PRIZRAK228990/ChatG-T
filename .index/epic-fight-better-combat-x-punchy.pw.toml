@@ -1,0 +1,18 @@
+filename = 'punchy-epicfight-compat-1.0.0.jar'
+name = 'Epic Fight & Better Combat x Punchy!'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'punchy-epicfight-compat-1.0.0.jar'
+
+[download]
+hash = '98862c23f5a3764197c7ba60604ed4426e27c007'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8491303
+project-id = 1491744

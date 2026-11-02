@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: create_connected
+Specification-Vendor: Lysine
+Specification-Version: 1
+Implementation-Title: create_connected
+Implementation-Version: 1.2.3-mc1.20.1
+Implementation-Vendor: Lysine
+Implementation-Timestamp: 2026-06-21T11:09:58+0800
+MixinConfigs: create_connected.mixins.json
+

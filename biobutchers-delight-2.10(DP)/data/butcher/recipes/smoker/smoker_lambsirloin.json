@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:raw_lamb_sirloin"
+    },
+    "result": "butcher:lamb_sirloin",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

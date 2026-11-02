@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+#issueTrackerURL = ""
+license = "Insert License Here"
+
+[[mods]]
+modId = "createcobblestone"
+version = "1.5.0+forge-1.20.1-155"
+displayName = "Create cobblestone"
+authors = "MrStickyPiston"
+description = '''
+Adds a block generating cobblestone using SU, stopping cobblestone generators from eating your frames.
+'''
+logoFile = "icon.png"
+
+[[dependencies.createcobblestone]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.createcobblestone]]
+modId = "minecraft"
+mandatory = true
+versionRange = "1.20.1"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.createcobblestone]]
+modId="create"
+mandatory=true
+versionRange="[6.0.1,6.1)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:ebony_ore",
+    "dungeons_and_combat:ebony_block",
+    "dungeons_and_combat:raw_crimson_block",
+    "dungeons_and_combat:raw_titanium_block",
+    "dungeons_and_combat:titanium_block",
+    "dungeons_and_combat:blazing_block",
+    "dungeons_and_combat:titanium_deepslate_ore",
+    "dungeons_and_combat:titanium_ore"
+  ]
+}

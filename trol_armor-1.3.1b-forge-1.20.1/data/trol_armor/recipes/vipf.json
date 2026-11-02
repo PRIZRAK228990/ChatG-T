@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trol_armor:vipb"
+    },
+    {
+      "item": "minecraft:netherite_boots"
+    }
+  ],
+  "result": {
+    "item": "trol_armor:trauma_team_boots",
+    "count": 1
+  }
+}

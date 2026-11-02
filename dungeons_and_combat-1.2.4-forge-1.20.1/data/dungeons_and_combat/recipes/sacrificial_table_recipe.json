@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:skull_head"
+    },
+    "b": {
+      "item": "dungeons_and_combat:fleshy_cloth"
+    },
+    "c": {
+      "item": "dungeons_and_combat:crimson_brick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:sacrificial_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/silver"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "dungeons_and_combat:orange"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:silver_orange",
+    "count": 1
+  }
+}

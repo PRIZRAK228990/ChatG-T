@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:bone_planks_button",
+    "dungeons_and_combat:bone_planks_pressure_plate",
+    "dungeons_and_combat:elden_oak_planks_trap_door",
+    "dungeons_and_combat:elden_oak_planks_door",
+    "dungeons_and_combat:elden_oak_planks_button",
+    "dungeons_and_combat:elden_oak_planks_pressure_plate",
+    "dungeons_and_combat:elden_oak_planks_fence_gate",
+    "dungeons_and_combat:elden_oak_planks_fence",
+    "dungeons_and_combat:elden_oak_planks_slab",
+    "dungeons_and_combat:elden_oak_planks",
+    "dungeons_and_combat:elden_oak_planks_stairs",
+    "dungeons_and_combat:elden_oak_wood",
+    "dungeons_and_combat:elden_oak_log",
+    "dungeons_and_combat:skull_chest",
+    "dungeons_and_combat:bone_planks_trap_door",
+    "dungeons_and_combat:bone_planks_door",
+    "dungeons_and_combat:bone_planks_fence_gate",
+    "dungeons_and_combat:bone_planks_fence",
+    "dungeons_and_combat:bone_planks_slab",
+    "dungeons_and_combat:bone_planks_stairs",
+    "dungeons_and_combat:bone_planks"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:sandstone_hoe",
+    "dungeons_and_combat:ebony_hoe",
+    "dungeons_and_combat:blessed_gold_hoe",
+    "dungeons_and_combat:pitchfork_lance",
+    "dungeons_and_combat:molten_dark_steel_hoe",
+    "dungeons_and_combat:crimson_hoe",
+    "dungeons_and_combat:titanium_hoe",
+    "dungeons_and_combat:silver_hoe",
+    "dungeons_and_combat:steel_hoe",
+    "dungeons_and_combat:copper_hoe",
+    "dungeons_and_combat:pitchfork_spear"
+  ]
+}

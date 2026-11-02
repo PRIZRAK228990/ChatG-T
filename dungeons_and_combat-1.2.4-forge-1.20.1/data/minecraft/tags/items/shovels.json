@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:sandstone_shovel",
+    "dungeons_and_combat:ebony_shovel",
+    "dungeons_and_combat:blessed_gold_shovel",
+    "dungeons_and_combat:the_gravedigger_sword",
+    "dungeons_and_combat:molten_dark_steel_shovel",
+    "dungeons_and_combat:crimson_shovel",
+    "dungeons_and_combat:titanium_shovel",
+    "dungeons_and_combat:silver_shovel",
+    "dungeons_and_combat:steel_shovel",
+    "dungeons_and_combat:copper_shovel",
+    "dungeons_and_combat:the_gravedigger_greataxe"
+  ]
+}

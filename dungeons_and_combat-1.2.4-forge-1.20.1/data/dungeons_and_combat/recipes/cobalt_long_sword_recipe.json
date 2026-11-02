@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "tohiro_ores:cobalt_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:cobalt_long_sword",
+    "count": 1
+  }
+}

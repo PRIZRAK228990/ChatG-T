@@ -1,0 +1,53 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "GNU GPL 3.0"
+issueTrackerURL = ""
+
+[[mods]]
+modId = "lrtactical_tweak"
+version = "1.3.6"
+displayName = "LRTactical Tweak"
+authors = "Szo9K4"
+description = '''Compatibility tweak for LesRaisins Tactical Equipments with sound and HUD fixes, configurable integrations, damage-free flash and repeated Molotov hitmarkers, configurable grenade indicators, and cooldown-free fast grenade swap.'''
+
+[[dependencies.lrtactical_tweak]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lrtactical_tweak]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lrtactical_tweak]]
+modId = "lrtactical"
+mandatory = true
+versionRange = "[0.4.3,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lrtactical_tweak]]
+modId = "tacz"
+mandatory = true
+versionRange = "[1.1.7,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lrtactical_tweak]]
+modId = "tacztweaks"
+mandatory = false
+versionRange = "[2.13.2,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lrtactical_tweak]]
+modId = "explosiveenhancement"
+mandatory = false
+versionRange = "[1.1.0,)"
+ordering = "AFTER"
+side = "BOTH"

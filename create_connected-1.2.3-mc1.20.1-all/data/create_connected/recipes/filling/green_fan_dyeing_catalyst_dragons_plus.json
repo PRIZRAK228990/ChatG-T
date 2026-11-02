@@ -1,0 +1,28 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "create_connected:feature_enabled",
+      "feature": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dragons_plus"
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": 1000,
+      "fluid": "create_dragons_plus:green_dye",
+      "nbt": {}
+    },
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_connected:green_fan_dyeing_catalyst"
+    }
+  ]
+}

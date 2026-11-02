@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:sandstone_tiles_slab",
+    "dungeons_and_combat:bronze_tiles_slab",
+    "dungeons_and_combat:bronze_brick_slab",
+    "dungeons_and_combat:elden_oak_planks_slab",
+    "dungeons_and_combat:igneous_blackstone_brick_slab",
+    "dungeons_and_combat:bone_planks_slab",
+    "dungeons_and_combat:crimson_tiles_slab",
+    "dungeons_and_combat:crimson_brick_slab",
+    "dungeons_and_combat:cobblestone_brick_slab"
+  ]
+}

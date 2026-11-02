@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: lrtactical_tweak
+Specification-Vendor: Szo9K4
+Specification-Version: 1
+Implementation-Title: lrtactical-tweak
+Implementation-Version: 1.3.6
+Implementation-Vendor: Szo9K4
+Implementation-Timestamp: 2026-08-18T14:13:41+0700
+MixinConfigs: lrtactical_tweak.mixins.json
+

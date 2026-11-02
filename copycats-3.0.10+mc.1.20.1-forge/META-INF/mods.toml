@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/copycats-plus/copycats/issues"
+[[mods]]
+   modId="copycats"
+   version="3.0.10+mc.1.20.1-forge"
+   displayName="Create: Copycats+"
+   updateJSONURL="https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json"
+   displayURL="https://github.com/copycats-plus/copycats"
+   logoFile="copycats_icon.png"
+   credits="The Create: Addon Hub Discord"
+   authors="Lysine, Bennyboy1695, Redcat_XVIII"
+   description='''All the copycats you've ever wanted, combined into a single mod!'''
+
+[[dependencies.copycats]]
+   modId="forge"
+   mandatory=true
+   versionRange="[47,)"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.copycats]]
+   modId="minecraft"
+   mandatory=true
+   versionRange="[1.20.1,1.21)"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.copycats]]
+   modId="create"
+   mandatory=true
+   versionRange="[6.0.7,)"
+   ordering="NONE"
+   side="BOTH"

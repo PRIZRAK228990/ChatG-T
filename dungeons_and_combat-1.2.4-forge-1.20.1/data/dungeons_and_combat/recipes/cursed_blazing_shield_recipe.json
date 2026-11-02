@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:blazing_shield"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:cursed_soul"
+  },
+  "result": {
+    "item": "dungeons_and_combat:cursed_blazing_shield"
+  }
+}

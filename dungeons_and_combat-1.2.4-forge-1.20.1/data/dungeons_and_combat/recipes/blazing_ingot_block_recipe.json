@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:blazing_block"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blazing_ingot",
+    "count": 9
+  }
+}

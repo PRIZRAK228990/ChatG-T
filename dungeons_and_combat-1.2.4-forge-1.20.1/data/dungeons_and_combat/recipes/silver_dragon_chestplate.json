@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "iceandfire:armor_silver_chestplate"
+  },
+  "addition": {
+    "item": "iceandfire:dragonscales_silver"
+  },
+  "result": {
+    "item": "dungeons_and_combat:silver_dragon_chestplate"
+  }
+}

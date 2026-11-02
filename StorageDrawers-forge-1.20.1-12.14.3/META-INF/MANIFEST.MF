@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: Storage Drawers
+Specification-Vendor: Texelsaur
+Specification-Version: 12.14.3
+Implementation-Title: forge
+Implementation-Version: 12.14.3
+Implementation-Vendor: Texelsaur
+Implementation-Timestamp: 2025-09-13T20:32:08-0400
+Timestamp: 1757809928543
+Built-On-Java: 17.0.1+12-LTS-39 (Oracle Corporation)
+Built-On-Minecraft: 1.20.1
+

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "b": {
+      "item": "trol_armor:cable"
+    }
+  },
+  "result": {
+    "item": "trol_armor:armor_117_chestplate",
+    "count": 1
+  }
+}

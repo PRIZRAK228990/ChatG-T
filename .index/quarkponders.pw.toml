@@ -1,0 +1,21 @@
+filename = 'QuarkPonders-1.3_Forge-1.20.1.jar'
+name = 'QuarkPonders'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Quark Ponders 1.3 Forge 1.20.1'
+
+[download]
+hash = '7f86dc3b2a7547776213d15e4310efef7a77b382'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7203171
+project-id = 1290960
+
+[[x-prismlauncher-dependencies]]
+addonId = '243121'
+type = 'REQUIRED'

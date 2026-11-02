@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cure:fox_weed_paste"
+    },
+    {
+      "item": "cure:syringe"
+    },
+    {
+      "item": "cure:fox_weed_paste"
+    }
+  ],
+  "result": {
+    "item": "cure:vaccine",
+    "count": 1
+  }
+}

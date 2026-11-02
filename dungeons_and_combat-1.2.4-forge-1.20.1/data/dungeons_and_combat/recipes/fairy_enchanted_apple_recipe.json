@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fairy_dust"
+    },
+    "b": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:enchanted_fairy_dust_apple",
+    "count": 1
+  }
+}

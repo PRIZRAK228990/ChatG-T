@@ -1,0 +1,35 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:hoglin_drained_corpse_item"
+    },
+    "nutrientsCost": 10,
+    "processingTime": 3600,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 25,
+                "min": 8
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 53,
+                "min": 13
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 81,
+                "min": 30
+            },
+            "item": "biomancy:elastic_fibers"
+        }
+    ]
+
+}

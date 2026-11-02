@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "bab",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:molten_bone"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blazing_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:molten_blazing_chestplate",
+    "count": 1
+  }
+}

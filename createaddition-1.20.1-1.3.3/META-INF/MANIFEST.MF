@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: createaddition
+Specification-Vendor: createadditionsareus
+Specification-Version: 1
+Implementation-Title: createaddition
+Implementation-Version: 1.20.1-1.3.3
+Implementation-Vendor: createaddition
+Implementation-Timestamp: 2025-11-10T17:59:11+0100
+MixinConfigs: createaddition.mixins.json
+

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:cursed_soul"
+    },
+    "b": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:desolate_dirt",
+    "count": 1
+  }
+}

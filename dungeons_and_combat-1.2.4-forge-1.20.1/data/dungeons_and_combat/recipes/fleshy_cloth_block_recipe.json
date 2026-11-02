@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fleshy_cloth"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:fleshy_cloth_block",
+    "count": 4
+  }
+}

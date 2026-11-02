@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  m",
+    " s ",
+    "p  "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:rods/wooden"
+    },
+    "m": {
+      "tag": "forge:ingots/gold"
+    },
+    "p": {
+      "tag": "magistuarmory:poles"
+    }
+  },
+  "result": {
+    "item": "magistuarmory:gold_pike",
+    "count": 1
+  }
+}

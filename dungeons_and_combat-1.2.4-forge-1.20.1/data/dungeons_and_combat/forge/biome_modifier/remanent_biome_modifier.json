@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "forest",
+    "taiga",
+    "dark_forest"
+  ],
+  "spawners": {
+    "type": "dungeons_and_combat:remanent",
+    "weight": 12,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

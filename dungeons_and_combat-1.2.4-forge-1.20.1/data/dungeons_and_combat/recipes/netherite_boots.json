@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_boots"
+  },
+  "addition": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "item": "dungeons_and_combat:netherite_boots"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:fabric"
+    },
+    "b": {
+      "item": "trol_armor:pan"
+    }
+  },
+  "result": {
+    "item": "trol_armor:ltv_boots",
+    "count": 1
+  }
+}

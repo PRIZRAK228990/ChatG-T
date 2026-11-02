@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:igneous"
+    },
+    "b": {
+      "item": "dungeons_and_combat:molten_smithing_template"
+    },
+    "c": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:molten_smithing_template",
+    "count": 2
+  }
+}

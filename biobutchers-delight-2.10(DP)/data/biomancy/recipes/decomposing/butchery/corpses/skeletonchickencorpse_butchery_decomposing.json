@@ -1,0 +1,36 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:chicken_skeleton_item"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 12,
+                "min": 2
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 25,
+                "min": 2
+            },
+            "item": "biomancy:mineral_fragment"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 5,
+                "min": 1
+            },
+            "item": "biomancy:hormone_secretion"
+        }
+     
+    ]
+
+}

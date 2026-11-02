@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: tacz-tweaks
+Implementation-Version: 2.14.2
+MixinConfigs: tacztweaks.mixins.json
+

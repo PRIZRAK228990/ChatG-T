@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbc"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "trol_armor:carbonsteel",
+    "count": 1
+  }
+}

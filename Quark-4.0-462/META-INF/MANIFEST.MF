@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: quark
+Specification-Vendor: vazkii
+Specification-Version: 1
+Implementation-Title: quark
+Implementation-Version: 4.0-462
+Implementation-Vendor: vazkii
+Implementation-Timestamp: 2025-04-16T02:33:45+0000
+MixinConfigs: quark.mixins.json,quark_integrations.mixins.json
+

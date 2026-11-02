@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:jungle_slab"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "S S"
+  ],
+  "result": {
+    "count": 4,
+    "item": "backpacked:jungle_backpack_shelf"
+  },
+  "show_notification": true
+}

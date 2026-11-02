@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 10,
+  "cookingtime": 40,
+  "ingredient": {
+    "item": "minecraft:coal_block"
+  },
+  "result": "trol_armor:pan"
+}

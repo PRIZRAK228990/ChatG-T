@@ -1,0 +1,43 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelight:deadllama"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 64,
+                "min": 15
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 21,
+                "min": 8
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 16,
+                "min": 5
+            },
+            "item": "biomancy:elastic_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 48,
+                "min": 16
+            },
+            "item": "biomancy:mineral_fragment"
+        }
+    ]
+
+}

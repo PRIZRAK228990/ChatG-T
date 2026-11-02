@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:villager_meat"
+    },
+    "result": "butcher:cooked_villager_meat",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

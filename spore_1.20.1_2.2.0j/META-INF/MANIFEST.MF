@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: Spore 1.20.1
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+Implementation-Timestamp: 2026-06-29T13:36:11-0700
+

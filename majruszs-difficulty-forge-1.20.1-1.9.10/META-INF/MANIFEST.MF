@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: majruszsdifficulty
+Specification-Vendor: Majrusz
+Specification-Version: 4
+Implementation-Title: Majrusz's Progressive Difficulty
+Implementation-Version: 1.9.10
+Implementation-Vendor: Majrusz
+Implementation-Timestamp: 2024-04-26T18:58:58+0200
+MixinConfigs: majruszsdifficulty-common.mixins.json,majruszsdifficulty-f
+ orge.mixins.json
+

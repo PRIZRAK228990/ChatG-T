@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:light_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:wooden_battle_staff"
+  },
+  "addition": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "item": "dungeons_and_combat:wooden_staff"
+  }
+}

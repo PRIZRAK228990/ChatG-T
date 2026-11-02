@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "b b",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "dungeons_and_combat:linen_cloth"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:linen_bundle",
+    "count": 1
+  }
+}

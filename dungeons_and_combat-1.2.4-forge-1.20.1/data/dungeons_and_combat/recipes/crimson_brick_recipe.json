@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone_bricks"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blood_vial"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:crimson_brick",
+    "count": 8
+  }
+}

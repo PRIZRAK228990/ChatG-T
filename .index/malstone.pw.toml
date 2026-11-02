@@ -1,0 +1,21 @@
+filename = 'malstone-1.0.6.0.jar'
+name = 'Malstone'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.6.0'
+
+[download]
+hash = '9d27435c6c7368c67d15fc190b7f17286c95f6d4ae363a0a0a8750b31ad31a89a01fdaac9bb3cd46bb82d17f1e04b04c5c514afdea37eb3501b11537b140d0d6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gCIbzByR/versions/nKTlZizP/malstone-1.0.6.0.jar'
+
+[update.modrinth]
+mod-id = 'gCIbzByR'
+version = 'nKTlZizP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jgzwYsAN'
+type = 'REQUIRED'

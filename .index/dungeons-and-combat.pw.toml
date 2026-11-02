@@ -1,0 +1,25 @@
+filename = 'dungeons_and_combat-1.2.4-forge-1.20.1.jar'
+name = 'Dungeons And Combat'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dungeons_and_combat-1.2.4-forge-1.20.1.jar'
+
+[download]
+hash = '4b08c97972e1561efd61aed2c6d5a8c339b20ec3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7193486
+project-id = 1128235
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

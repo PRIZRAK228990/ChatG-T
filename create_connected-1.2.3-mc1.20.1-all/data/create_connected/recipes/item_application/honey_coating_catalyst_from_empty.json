@@ -1,0 +1,26 @@
+{
+  "type": "create:item_application",
+  "conditions": [
+    {
+      "type": "create_connected:feature_enabled",
+      "feature": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_more_catalysts"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "item": "create:honey_bucket"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_connected:fan_honey_coating_catalyst"
+    }
+  ]
+}

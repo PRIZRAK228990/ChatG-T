@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#simplyswords:adamantite",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:aquarium",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:banglum",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:bronze",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:celestium",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:copper",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:carmot",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:durasteel",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:kyber",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:metallurgium",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:mythril",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:orichalcum",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:osmium",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:palladium",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:prometheum",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:quadrillum",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:runite",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:star_platinum",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:steel",
+      "required": false
+    },
+    {
+      "id": "#simplyswords:stormyx",
+      "required": false
+    }
+  ]
+}

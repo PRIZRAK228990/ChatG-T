@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+issueTrackerURL="https://github.com/jaquadro/StorageDrawers/issues"
+displayURL="https://minecraft.curseforge.com/projects/storagedrawers"
+authors="Texelsaur"
+license="MIT"
+
+[[mods]]
+    modId="storagedrawers"
+    version="12.14.3"
+    displayName="Storage Drawers"
+    description='''Interactive compartment storage for your workshops'''
+
+[[dependencies.storagedrawers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.storagedrawers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 2,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "dungeons_and_combat:raw_silver"
+  },
+  "result": "dungeons_and_combat:silver_ingot"
+}

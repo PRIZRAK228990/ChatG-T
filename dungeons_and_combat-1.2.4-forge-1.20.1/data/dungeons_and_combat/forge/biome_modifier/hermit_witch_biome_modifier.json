@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "swamp",
+    "dark_forest",
+    "forest",
+    "taiga",
+    "snowy_taiga"
+  ],
+  "spawners": {
+    "type": "dungeons_and_combat:hermit_witch",
+    "weight": 14,
+    "minCount": 1,
+    "maxCount": 2
+  }
+}

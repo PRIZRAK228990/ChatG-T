@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a",
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:slimy_tongue"
+    },
+    "b": {
+      "item": "dungeons_and_combat:steel_ingot"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:slimy_knife",
+    "count": 1
+  }
+}

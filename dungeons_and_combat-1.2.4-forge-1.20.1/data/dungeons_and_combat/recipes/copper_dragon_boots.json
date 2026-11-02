@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "iceandfire:armor_copper_boots"
+  },
+  "addition": {
+    "item": "iceandfire:dragonscales_copper"
+  },
+  "result": {
+    "item": "dungeons_and_combat:copper_dragon_boots"
+  }
+}

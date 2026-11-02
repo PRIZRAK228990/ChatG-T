@@ -1,0 +1,27 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelightfoods:llamma_ribs"
+    },
+    "nutrientsCost": 1,
+    "processingTime": 140,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 5,
+                "min": 3
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 7,
+                "min": 4
+            },
+            "item": "biomancy:bone_fragments"
+        }
+
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:raw_lamb_shoulder"
+    },
+    "result": "butcher:lamb_shoulder",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

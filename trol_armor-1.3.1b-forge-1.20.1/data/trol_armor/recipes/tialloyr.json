@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    },
+    "b": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "c": {
+      "item": "trol_armor:pe"
+    }
+  },
+  "result": {
+    "item": "trol_armor:tialloy",
+    "count": 1
+  }
+}

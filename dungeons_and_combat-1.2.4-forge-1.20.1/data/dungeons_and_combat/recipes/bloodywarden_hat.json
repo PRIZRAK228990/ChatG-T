@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:tombwarden_helmet"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:fleshy_cloth"
+  },
+  "result": {
+    "item": "dungeons_and_combat:bloodywarden_helmet"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:pig_skin"
+    },
+    "result": "butcher:porkscratchings",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

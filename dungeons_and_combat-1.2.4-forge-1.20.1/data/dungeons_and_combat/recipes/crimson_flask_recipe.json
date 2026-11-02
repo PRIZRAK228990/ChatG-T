@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:estus_flask"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blood_vial"
+    },
+    "c": {
+      "item": "dungeons_and_combat:blessed_gold_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:crimson_flask",
+    "count": 1
+  }
+}

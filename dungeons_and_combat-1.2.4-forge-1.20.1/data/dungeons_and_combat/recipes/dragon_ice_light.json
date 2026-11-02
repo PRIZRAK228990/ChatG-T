@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:light_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:dragon_greatsword_ice"
+  },
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "result": {
+    "item": "dungeons_and_combat:dragon_sword_ice"
+  }
+}

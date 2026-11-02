@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:blessed_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:sandstone_axe_war"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:blessed_gold_ingot"
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_gold_axe_war"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blessed_smithing_template"
+    },
+    "c": {
+      "item": "minecraft:sandstone"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_smithing_template",
+    "count": 2
+  }
+}

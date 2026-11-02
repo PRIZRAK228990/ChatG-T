@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bronze_brick_slab"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_tiles",
+    "count": 1
+  }
+}

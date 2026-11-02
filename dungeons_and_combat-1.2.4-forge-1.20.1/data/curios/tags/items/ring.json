@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:ring_of_the_eternal_resting",
+    "dungeons_and_combat:hell_ring",
+    "dungeons_and_combat:ring_of_life",
+    "dungeons_and_combat:molten_ring"
+  ]
+}

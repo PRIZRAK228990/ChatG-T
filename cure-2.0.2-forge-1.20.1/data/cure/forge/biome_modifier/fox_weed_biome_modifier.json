@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "forest",
+    "windswept_forest",
+    "flower_forest",
+    "bamboo_jungle",
+    "sparse_jungle",
+    "old_growth_birch_forest"
+  ],
+  "features": "cure:fox_weed",
+  "step": "vegetal_decoration"
+}

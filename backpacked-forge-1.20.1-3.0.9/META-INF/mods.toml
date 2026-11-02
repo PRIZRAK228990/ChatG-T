@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="GNU Lesser General Public License v2.1"
+issueTrackerURL="https://github.com/MrCrayfish/Backpacked/issues"
+
+[[mods]]
+modId="backpacked"
+version="3.0.9"
+displayName="Backpacked"
+updateJSONURL="https://mrcrayfish.com/modupdatejson?id=backpacked"
+displayURL="https://mrcrayfish.com/mods?id=backpacked"
+logoFile="backpacked_logo.png"
+logoBlur=false
+authors="MrCrayfish"
+description="A vanilla-friendly backpack mod, featuring an unlock-based progression system, special augments that can be applied to backpacks to enhance gameplay, and a data-driven cosmetic system to unlock new backpack styles."
+
+[[dependencies."backpacked"]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies."backpacked"]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies."backpacked"]]
+    modId="framework"
+    mandatory=true
+    versionRange="[0.8.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[modproperties."backpacked"]
+    catalogueImageIcon="backpacked_icon.png"
+    configuredBackground="minecraft:textures/block/stone.png"

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "dungeons_and_combat:molten_blazing_boots"
+  },
+  "addition": {
+    "item": "dungeons_and_combat:cursed_soul"
+  },
+  "result": {
+    "item": "dungeons_and_combat:cursed_molten_blazing_boots"
+  }
+}

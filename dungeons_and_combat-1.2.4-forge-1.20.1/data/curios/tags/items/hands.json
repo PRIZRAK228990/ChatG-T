@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:blessed_bandages",
+    "dungeons_and_combat:flaming_gloves",
+    "dungeons_and_combat:steel_shoulder",
+    "dungeons_and_combat:scorpion_claw",
+    "dungeons_and_combat:sunleia_hand"
+  ]
+}

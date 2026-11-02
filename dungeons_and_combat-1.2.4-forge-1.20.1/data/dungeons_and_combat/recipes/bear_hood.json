@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:ernos_fur"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bear_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Git-Hash: "e5947616ee54cabea325ea61ce2e9be107f61225"
+MixinConfigs: railways-common.mixins.json,railways.mixins.json
+

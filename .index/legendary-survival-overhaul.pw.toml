@@ -1,0 +1,18 @@
+filename = 'legendarysurvivaloverhaul-1.20.1-2.4.7.jar'
+name = 'Legendary Survival Overhaul'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-2.4.7'
+
+[download]
+hash = '3727b4254f8610292cf2f878d0e3284b34c08d3b1e22cb12d83f98fa8e19d3ab96d198bf7576fbcdebf429bae6bd4c8c650fd6924fd2b046b278e16d33296703'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TQr3t8Sb/versions/BsBOQNzX/legendarysurvivaloverhaul-1.20.1-2.4.7.jar'
+
+[update.modrinth]
+mod-id = 'TQr3t8Sb'
+version = 'BsBOQNzX'

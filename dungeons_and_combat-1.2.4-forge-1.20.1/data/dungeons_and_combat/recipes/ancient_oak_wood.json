@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:elden_oak_log"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:elden_oak_wood",
+    "count": 4
+  }
+}

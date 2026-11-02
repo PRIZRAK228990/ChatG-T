@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tialloy"
+    },
+    "b": {
+      "item": "trol_armor:carbonsteel"
+    }
+  },
+  "result": {
+    "item": "trol_armor:mk_1_leggings",
+    "count": 1
+  }
+}

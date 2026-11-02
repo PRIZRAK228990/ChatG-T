@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 6,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "survival_instinct:raw_steellium_block"
+  },
+  "result": "survival_instinct:steellium_block"
+}

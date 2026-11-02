@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest",
+    "warped_forest",
+    "soul_sand_valley"
+  ],
+  "features": "dungeons_and_combat:igneous_ore_netherrack",
+  "step": "underground_ores"
+}

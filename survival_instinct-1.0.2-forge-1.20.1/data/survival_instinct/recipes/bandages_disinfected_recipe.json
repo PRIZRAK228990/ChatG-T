@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "survival_instinct:cloth"
+    },
+    {
+      "item": "survival_instinct:cloth"
+    },
+    {
+      "item": "survival_instinct:alcohol_wipes"
+    }
+  ],
+  "result": {
+    "item": "survival_instinct:bandage",
+    "count": 1
+  }
+}

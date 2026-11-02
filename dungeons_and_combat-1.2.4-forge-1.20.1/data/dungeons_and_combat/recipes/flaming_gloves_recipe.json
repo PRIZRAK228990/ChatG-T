@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " ab",
+    "aca",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:igneous"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blazing_ingot"
+    },
+    "c": {
+      "item": "dungeons_and_combat:blazing_core"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:flaming_gloves",
+    "count": 1
+  }
+}

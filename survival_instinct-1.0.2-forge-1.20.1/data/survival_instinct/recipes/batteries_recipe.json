@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:disassembler"
+    },
+    {
+      "tag": "forge:batteries_container"
+    }
+  ],
+  "result": {
+    "item": "survival_instinct:batteries",
+    "count": 2
+  }
+}

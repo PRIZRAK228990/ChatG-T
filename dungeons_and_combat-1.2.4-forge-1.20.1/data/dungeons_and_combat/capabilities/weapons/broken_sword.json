@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "common": {
+      "max_strikes": 1,
+	  "speed_bonus": 0.8,
+	  "impact": 0.8
+    }
+  },
+  "collider": {
+    "number": 5,
+    "size": [
+      0.2,
+      0.2,
+      0.4
+    ],
+    "center": [
+      0.0,
+      0.0,
+      -0.45
+    ]
+  },
+  "type": "epicfight:dagger"
+}

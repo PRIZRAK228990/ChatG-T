@@ -1,0 +1,35 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelight:deadhoglin"
+    },
+    "nutrientsCost": 10,
+    "processingTime": 6000,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 100,
+                "min": 20
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 70,
+                "min": 15
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 60,
+                "min": 20
+            },
+            "item": "biomancy:elastic_fibers"
+        }
+    ]
+
+}

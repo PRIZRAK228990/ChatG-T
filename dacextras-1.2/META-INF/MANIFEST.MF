@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: dacextras
+Specification-Vendor: skydude_
+Specification-Version: 1
+Implementation-Title: dacextras
+Implementation-Version: 1.2
+Implementation-Vendor: skydude_
+Implementation-Timestamp: 2025-10-09T20:41:38-0400
+MixinConfigs: dacextras.mixins.json
+

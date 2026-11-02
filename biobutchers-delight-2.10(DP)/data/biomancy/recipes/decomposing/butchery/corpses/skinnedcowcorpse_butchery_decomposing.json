@@ -1,0 +1,34 @@
+{
+"type": "biomancy:decomposing",
+"ingredient": {
+    "item": "butcher:skinned_cow_corpse_item"
+},
+"nutrientsCost": 5,
+"processingTime": 2400,
+"results": [
+    {
+        "countRange": {
+            "type": "uniform",
+            "max": 64,
+            "min": 20
+        },
+        "item": "biomancy:flesh_bits"
+    },
+    {
+        "countRange": {
+            "type": "uniform",
+            "max": 42,
+            "min": 10
+        },
+        "item": "biomancy:bone_fragments"
+    },
+    {
+        "countRange": {
+            "type": "uniform",
+            "max": 48,
+            "min": 15
+        },
+        "item": "biomancy:elastic_fibers"
+    }
+]
+}

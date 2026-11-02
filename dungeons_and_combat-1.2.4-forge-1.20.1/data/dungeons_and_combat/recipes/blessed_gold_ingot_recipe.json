@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "dungeons_and_combat:sandstone_ingot"
+    },
+    "c": {
+      "item": "dungeons_and_combat:solar_emblem"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_gold_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: l2complements
+Specification-Vendor: xkmc
+Specification-Version: 1
+Implementation-Title: L2Complements-1.20
+Implementation-Version: 2.6.1
+Implementation-Vendor: xkmc
+Implementation-Timestamp: 2026-02-11T07:05:30+0800
+MixinConfigs: l2complements.mixins.json
+

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ab ",
+    "b b",
+    " bc"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:blessed_gold_ingot"
+    },
+    "b": {
+      "item": "dungeons_and_combat:linen_cloth"
+    },
+    "c": {
+      "item": "dungeons_and_combat:horus_klauen"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:klauen_necklace",
+    "count": 1
+  }
+}

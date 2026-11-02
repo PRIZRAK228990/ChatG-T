@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.lrtactical_tweak.title": "LRTactical Tweak",
+  "config.lrtactical_tweak.client.show_action_bar_indicator": "Action Bar Indicator",
+  "config.lrtactical_tweak.client.grenade_indicator_color": "Grenade Indicator Color",
+  "config.lrtactical_tweak.common.enable_fast_grenade_swap": "Fast Grenade Swap",
+  "config.lrtactical_tweak.client.grenade_indicator_inset_left": "Grenade Indicator Left Inset",
+  "config.lrtactical_tweak.client.grenade_indicator_inset_top": "Grenade Indicator Top Inset",
+  "config.lrtactical_tweak.client.grenade_indicator_inset_right": "Grenade Indicator Right Inset",
+  "config.lrtactical_tweak.client.grenade_indicator_inset_bottom": "Grenade Indicator Bottom Inset"
+}

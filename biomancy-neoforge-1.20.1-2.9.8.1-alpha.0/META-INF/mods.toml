@@ -1,0 +1,44 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT & CC-BY-NC-4.0"
+issueTrackerURL = "https://github.com/Elenterius/Biomancy/issues"
+
+[[mods]]
+modId = "biomancy"
+version = "2.9.8.1-alpha.0"
+displayName = "Biomancy"
+updateJSONURL = "https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json"
+displayURL = "https://modrinth.com/mod/biomancy"
+logoFile = "text_logo_small.png"
+logoBlur = false
+credits = "The Shroome, kd8lvt, Shorepion, lordketer, Tarnisheart, Kitteh6660, Jasdan, ZeoMaddox, ItsLumine, RuskieThe3rd, M4rc3ll0 and many more people from the Biomancy Discord."
+authors = "Elenterius, RhinoW"
+description = '''Biopunk and Flesh Magic inspired tech-magic mod that has a fleshy art theme.'''
+
+[[dependencies.biomancy]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.1.3,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.biomancy]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.biomancy]]
+modId = "geckolib"
+mandatory = true
+versionRange = "[4.7,)"
+ordering = "BEFORE"
+side = "BOTH"
+
+[[dependencies.biomancy]]
+modId = "jei"
+mandatory = false
+versionRange = "[15.2.0,)"
+ordering = "BEFORE"
+side = "BOTH"

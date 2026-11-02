@@ -1,0 +1,34 @@
+{
+  "type": "malum:spirit_infusion",
+  "extra_items": [
+    {
+      "count": 8,
+      "item": "malum:null_slate"
+    },
+    {
+      "count": 4,
+      "item": "malum:living_flesh"
+    },
+    {
+      "count": 1,
+      "item": "malum:fused_consciousness"
+    }
+  ],
+  "input": {
+    "count": 2,
+    "item": "malum:malignant_pewter_plating"
+  },
+  "output": {
+    "item": "malstone:breaking_the_weapon"
+  },
+  "spirits": [
+    {
+      "type": "arcane",
+      "count": 32
+    },
+    {
+      "type": "eldritch",
+      "count": 16
+    }
+  ]
+}

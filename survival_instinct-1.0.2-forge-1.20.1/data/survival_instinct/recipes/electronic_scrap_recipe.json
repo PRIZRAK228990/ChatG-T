@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:hammer"
+    },
+    {
+      "tag": "forge:electric_scrap"
+    }
+  ],
+  "result": {
+    "item": "survival_instinct:electronic_scrap",
+    "count": 3
+  }
+}

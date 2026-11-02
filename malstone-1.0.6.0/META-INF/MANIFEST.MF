@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: malstone
+Specification-Vendor: Ytgld
+Specification-Version: 1
+Implementation-Title: malstone
+Implementation-Version: 1.0.6.0
+Implementation-Vendor: Ytgld
+Implementation-Timestamp: 2026-05-29T16:28:10+0800
+MixinConfigs: malstone.mixins.json
+

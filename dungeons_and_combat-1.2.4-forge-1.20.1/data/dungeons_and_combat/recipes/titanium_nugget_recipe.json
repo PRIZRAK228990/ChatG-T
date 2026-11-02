@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:titanium_nugget",
+    "count": 9
+  }
+}

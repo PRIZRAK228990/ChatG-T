@@ -1,0 +1,228 @@
+{
+    "values": [
+        {
+          "id": "butchersdelightfoods:beefribs",
+          "required": false
+        },
+        {
+            "id": "butchersdelightfoods:beeftenderloin",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:goat_loin",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:goat_shank",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:goatrack",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:ham",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:legcow",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:llama_leg",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:llama_loin",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:llamma_ribs",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:porkloin",
+            "required": false
+          },
+            {
+            "id": "butchersdelightfoods:porkribs",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:sheeploin",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:sheeprack",
+            "required": false
+          },
+          {
+            "id": "butchersdelightfoods:sheepshank",
+            "required": false
+          },
+          {
+            "id": "butcher:rawllamameat",
+            "required": false
+          },
+          {
+            "id": "butcher:villager_meat",
+            "required": false
+          },
+          {
+            "id": "butcher:hoglinmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:batmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:frogsleg",
+            "required": false
+          },
+          {
+            "id": "butcher:gray_frog_leg",
+            "required": false
+          },
+          {
+            "id": "butcher:orange_frog_leg",
+            "required": false
+          },
+          {
+            "id": "butcher:rawfoxmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:rawpandameat",
+            "required": false
+          },
+          {
+            "id": "butcher:rawbearmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:rawdolphinmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:mincedbeef",
+            "required": false
+          },
+          {
+            "id": "butcher:mincedlamb",
+            "required": false
+          },
+          {
+            "id": "butcher:turtle_meat",
+            "required": false
+          },
+          {
+            "id": "butcher:tentacle",
+            "required": false
+          },
+          {
+            "id": "butcher:rawcamelmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:raweldermeat",
+            "required": false
+          },
+          {
+            "id": "butcher:rawdragonmeat",
+            "required": false
+          },
+          {
+            "id": "butcher:frog_heart",
+            "required": false
+          },
+          {
+            "id": "butcher:intestines",
+            "required": false
+          },
+          {
+            "id": "butcher:lungs",
+            "required": false
+          },
+          {
+            "id": "butcher:liver",
+            "required": false
+          },
+          {
+            "id": "butcher:kidney",
+            "required": false
+          },
+          {
+            "id": "butcher:stomach",
+            "required": false
+          },
+          {
+            "id": "butcher:glowtentacle",
+            "required": false
+          },
+          {
+            "id": "butcher:rawcreepermeat",
+            "required": false
+          },
+          {
+            "id": "butcher:rawcodfilet",
+            "required": false
+          },
+          {
+            "id": "butcher:rawsalmon",
+            "required": false
+          },
+          {
+            "id": "butcher:rawcreeperleg",
+            "required": false
+          },
+          {
+            "id": "butcher:pillagermeat",
+            "required": false
+          },
+          {
+            "id": "butcher:spiderleg",
+            "required": false
+          },
+          {
+            "id": "butcher:cavespiderleg",
+            "required": false
+          },
+          {
+            "id": "butcher:villagerbrain",
+            "required": false
+          },
+          {
+            "id": "born_in_chaos_v1:monster_flesh",
+            "required": false
+          },
+          {
+            "id": "born_in_chaos_v1:rotten_fish",
+            "required": false
+          },
+          {
+            "id": "born_in_chaos_v1:sea_terror_eye",
+            "required": false
+          },
+          {
+            "id": "born_in_chaos_v1:bloody_gadfly_eye",
+            "required": false
+          },
+          {
+            "id": "born_in_chaos_v1:corpse_maggot",
+            "required": false
+          },
+          {
+            "id": "ihfr:raw_flesh",
+            "required": false
+          },
+          {
+            "id": "ihfr:gangrenous_wing",
+            "required": false
+          },
+          {
+            "id": "ihfr:catterpillar_flesh",
+            "required": false
+          }  
+    ]
+    }

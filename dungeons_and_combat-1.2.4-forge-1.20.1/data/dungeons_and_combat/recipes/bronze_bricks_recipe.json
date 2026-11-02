@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_brick",
+    "count": 4
+  }
+}

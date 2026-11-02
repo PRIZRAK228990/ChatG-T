@@ -1,0 +1,30 @@
+filename = 'The-Hordes-1.20.1-1.6.3i-all.jar'
+name = 'The Hordes'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.6.3g'
+
+[download]
+hash = 'a6baf363a395a1f8489f257dc9eccbe4bc04773276388136f4286324bb0726b014f8890a33dce0f49fc3c189a166fabbd42a3bd713ebf75a6397dd4e62fda716'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O3HDffUR/versions/WMyMpstF/The-Hordes-1.20.1-1.6.3i-all.jar'
+
+[update.modrinth]
+mod-id = 'O3HDffUR'
+version = 'WMyMpstF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iAlZk5aS'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'G6VHtQr4'
+type = 'REQUIRED'
+version = 'UekJfJ7l'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trol_armor:lowexo_chestplate"
+    },
+    {
+      "item": "trol_armor:exodlc"
+    }
+  ],
+  "result": {
+    "item": "trol_armor:exo_chestplate",
+    "count": 1
+  }
+}

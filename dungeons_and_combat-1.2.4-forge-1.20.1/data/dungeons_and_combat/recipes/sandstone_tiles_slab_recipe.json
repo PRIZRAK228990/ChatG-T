@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:sandstone_tiles"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:sandstone_tiles_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    " ba",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:steel_ingot"
+    },
+    "b": {
+      "item": "dungeons_and_combat:scorpion_tail"
+    },
+    "c": {
+      "item": "dungeons_and_combat:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:processed_antidote",
+    "count": 1
+  }
+}

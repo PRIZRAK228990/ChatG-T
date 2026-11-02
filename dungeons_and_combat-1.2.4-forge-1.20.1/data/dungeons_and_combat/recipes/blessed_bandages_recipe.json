@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:linen_cloth"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blood_vial"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_bandages",
+    "count": 1
+  }
+}

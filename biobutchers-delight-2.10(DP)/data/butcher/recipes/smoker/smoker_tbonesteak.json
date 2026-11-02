@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:raw_tbone_steak"
+    },
+    "result": "butcher:tbonesteak",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

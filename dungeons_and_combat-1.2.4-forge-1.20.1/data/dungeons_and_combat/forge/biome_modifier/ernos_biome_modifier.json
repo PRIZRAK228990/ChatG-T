@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "dark_forest",
+    "forest",
+    "taiga",
+    "snowy_taiga"
+  ],
+  "spawners": {
+    "type": "dungeons_and_combat:ernos",
+    "weight": 15,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

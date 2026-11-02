@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "dbd"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:ammit_fang"
+    },
+    "b": {
+      "item": "dungeons_and_combat:blessed_gold_ingot"
+    },
+    "c": {
+      "item": "dungeons_and_combat:solar_emblem"
+    },
+    "d": {
+      "item": "dungeons_and_combat:blessed_dust"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:blessed_beetle",
+    "count": 1
+  }
+}

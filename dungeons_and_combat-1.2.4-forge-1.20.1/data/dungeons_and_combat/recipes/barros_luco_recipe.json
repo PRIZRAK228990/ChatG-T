@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "item": "dungeons_and_combat:cheese"
+    },
+    "c": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:barros_luco",
+    "count": 1
+  }
+}

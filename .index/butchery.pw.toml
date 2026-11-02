@@ -1,0 +1,18 @@
+filename = 'butchery-5.2-forge-1.20.1.jar'
+name = 'Butchery'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.2'
+
+[download]
+hash = '8a84cc02703801234c3233f0ed0555e026254bd4965c4b3ec235c9bee28e606d43157b9f2ea487efda32fc35f1296a47f297fe4e0c27e48b68bacd414dbdfbc8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YfOmC9t/versions/cLCALXJ6/butchery-5.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '6YfOmC9t'
+version = 'cLCALXJ6'

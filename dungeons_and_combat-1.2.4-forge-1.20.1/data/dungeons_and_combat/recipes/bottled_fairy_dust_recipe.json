@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fairy_dust"
+    },
+    "b": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "c": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bottled_fairy_dust",
+    "count": 1
+  }
+}

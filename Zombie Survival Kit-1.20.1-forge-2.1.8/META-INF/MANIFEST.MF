@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: zombiekit
+Specification-Vendor: Scarasol, Kyoko, ç½ä¹è°·, é¿ç¦,
+  lan2418, è½©å½±LHXQing, Konn_gara
+Specification-Version: 1
+Implementation-Title: zombie-kit-forge-1.20.1
+Implementation-Version: 2.1.8
+Implementation-Vendor: Scarasol, Kyoko, ç½ä¹è°·, é¿ç¦
+ , lan2418, è½©å½±LHXQing, Konn_gara
+Implementation-Timestamp: 2025-11-20T16:55:17+0800
+MixinConfigs: zombiekit.mixins.json
+

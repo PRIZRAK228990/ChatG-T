@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pe"
+    }
+  },
+  "result": {
+    "item": "trol_armor:eods_helmet",
+    "count": 1
+  }
+}

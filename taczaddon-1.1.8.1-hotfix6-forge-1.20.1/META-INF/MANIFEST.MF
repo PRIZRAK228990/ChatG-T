@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: taczaddon
+Specification-Vendor: Mafuyu404
+Specification-Version: 1
+Implementation-Title: TACZ-addon
+Implementation-Vendor: Mafuyu404
+Implementation-Timestamp: 2026-08-23T21:29:35+0800
+MixinConfigs: taczaddon.mixins.json,taczaddon.tacz.mixins.json
+

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:fang_necklace",
+    "dungeons_and_combat:thirsty_necklace",
+    "dungeons_and_combat:klauen_necklace",
+    "dungeons_and_combat:ernos_fang_necklace",
+    "dungeons_and_combat:nullfire_amulet",
+    "dungeons_and_combat:blessed_amulet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bab",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fleshy_cloth"
+    },
+    "b": {
+      "item": "dungeons_and_combat:ebony_scrap"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bloodymancer_chestplate",
+    "count": 1
+  }
+}

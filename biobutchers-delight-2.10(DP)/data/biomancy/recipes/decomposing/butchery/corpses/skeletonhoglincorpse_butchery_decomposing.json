@@ -1,0 +1,35 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:hoglin_skeleton_corpse_item"
+    },
+    "nutrientsCost": 10,
+    "processingTime": 3600,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 73,
+                "min": 25
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 42,
+                "min": 13
+            },
+            "item": "biomancy:hormone_secretion"  
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 49,
+                "min": 11
+            },
+            "item": "biomancy:mineral_fragment"  
+        }
+    ]
+
+}

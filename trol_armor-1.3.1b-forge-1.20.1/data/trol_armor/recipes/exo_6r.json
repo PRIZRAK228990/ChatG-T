@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "trol_armor:exodlc"
+    },
+    {
+      "item": "trol_armor:lowexo_leggings"
+    }
+  ],
+  "result": {
+    "item": "trol_armor:exo_leggings",
+    "count": 1
+  }
+}

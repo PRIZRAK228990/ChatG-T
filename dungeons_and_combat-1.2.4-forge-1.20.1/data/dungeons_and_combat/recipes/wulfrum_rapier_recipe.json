@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a",
+    " a",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "tohiro_ores:wulfrum_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:wulfrum_rapier",
+    "count": 1
+  }
+}

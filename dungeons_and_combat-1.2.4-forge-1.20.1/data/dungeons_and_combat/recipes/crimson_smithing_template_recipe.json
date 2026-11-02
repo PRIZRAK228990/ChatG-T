@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:ritual_bone"
+    },
+    "b": {
+      "item": "dungeons_and_combat:crimson_smithing_template"
+    },
+    "c": {
+      "item": "dungeons_and_combat:crimson_brick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:crimson_smithing_template",
+    "count": 2
+  }
+}

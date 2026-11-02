@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fairy_wing"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:fairy_dust",
+    "count": 4
+  }
+}

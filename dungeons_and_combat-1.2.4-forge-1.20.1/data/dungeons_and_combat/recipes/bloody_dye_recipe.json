@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bc ",
+    "bb "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:horuso_feather"
+    },
+    "b": {
+      "item": "dungeons_and_combat:ebony_ingot"
+    },
+    "c": {
+      "item": "dungeons_and_combat:blood_vial"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bloody_dye",
+    "count": 1
+  }
+}

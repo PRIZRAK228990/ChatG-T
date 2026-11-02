@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:tentacle"
+    },
+    "result": "butcher:calamari",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

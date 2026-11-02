@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:steel_ingot"
+    },
+    "b": {
+      "item": "dungeons_and_combat:mimic_eye"
+    },
+    "c": {
+      "item": "dungeons_and_combat:bone_planks"
+    },
+    "d": {
+      "item": "dungeons_and_combat:cursed_soul"
+    },
+    "e": {
+      "item": "dungeons_and_combat:slimy_tongue"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:mimy_chest_spawn_egg",
+    "count": 1
+  }
+}

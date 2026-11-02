@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+MixinConfigs: createcobblestone-common.mixins.json,createcobblestone.mix
+ ins.json
+

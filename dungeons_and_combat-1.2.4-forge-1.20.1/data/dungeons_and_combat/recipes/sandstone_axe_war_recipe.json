@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "abc",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:sandstone_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "minecraft:sandstone"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:sandstone_axe_war",
+    "count": 1
+  }
+}

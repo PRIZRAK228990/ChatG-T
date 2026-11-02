@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "dungeons_and_combat:tohi_smithing_template"
+  },
+  "base": {
+    "item": "iceandfire:armor_white_helmet"
+  },
+  "addition": {
+    "item": "iceandfire:dragonscales_white"
+  },
+  "result": {
+    "item": "dungeons_and_combat:white_dragon_helmet"
+  }
+}

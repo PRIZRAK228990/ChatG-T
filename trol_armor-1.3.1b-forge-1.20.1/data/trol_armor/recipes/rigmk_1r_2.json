@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tis"
+    },
+    "b": {
+      "item": "trol_armor:tialloy"
+    }
+  },
+  "result": {
+    "item": "trol_armor:rigmk_1_chestplate",
+    "count": 1
+  }
+}

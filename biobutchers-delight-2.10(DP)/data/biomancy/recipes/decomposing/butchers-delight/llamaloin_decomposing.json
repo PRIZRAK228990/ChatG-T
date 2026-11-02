@@ -1,0 +1,34 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelightfoods:llama_loin"
+    },
+    "nutrientsCost": 1,
+    "processingTime": 140,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 10,
+                "min": 4
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 2,
+                "min": 1
+            },
+            "item": "biomancy:bone_fragments"
+        },
+         {
+            "countRange": {
+                "type": "uniform",
+                "max": 3,
+                "min": 1
+            },
+            "item": "biomancy:elastic_fibers"
+        }
+    ]
+}

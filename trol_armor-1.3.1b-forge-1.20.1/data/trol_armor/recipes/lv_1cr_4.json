@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    }
+  },
+  "result": {
+    "item": "trol_armor:lv_1c_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Affero General Public License v3.0"
+issueTrackerURL="https://github.com/hlysine/create_connected/issues"
+
+[[mods]]
+    modId="create_connected"
+    version="1.2.3-mc1.20.1"
+    displayName="Create: Connected"
+    updateJSONURL="https://raw.githubusercontent.com/hlysine/create_connected/main/update.json"
+    displayURL="https://github.com/hlysine/create_connected"
+    logoFile="create_connected_icon.png"
+    credits="GitHub contributors, the Create mod Discord and redditors"
+    authors="Lysine"
+    description='''Quality-of-life blocks that you wish existed in Create.'''
+
+[[dependencies.create_connected]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.create_connected]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.create_connected]]
+    modId="create"
+    mandatory=true
+    versionRange="[6.0.8,)"
+    ordering="NONE"
+    side="BOTH"

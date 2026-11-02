@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tialloy"
+    },
+    "b": {
+      "item": "trol_armor:tis"
+    }
+  },
+  "result": {
+    "item": "trol_armor:rigmk_1_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,2113 @@
+Manifest-Version: 1.0
+Specification-Title: Backpacked
+Specification-Vendor: MrCrayfish
+Specification-Version: 1.20.1-3.0.9
+Implementation-Title: forge
+Implementation-Version: 1.20.1-3.0.9
+Implementation-Vendor: MrCrayfish
+Implementation-Timestamp: 2026-04-03T02:47:12+0000
+Timestamp: 1775184432602
+Built-On-Java: 17.0.18+8 (Eclipse Adoptium)
+Built-On-Minecraft: 1.20.1
+MixinConfigs: backpacked.forge.mixins.json,backpacked.common.mixins.json
+
+Name: assets/backpacked/models/backpacked/standard_straps.json
+SHA-256-Digest: crBcfYuEdiEGOiV0K8aYxOb5nWNK4/9CyAcciX0l108=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageUnlockBackpack.cl
+ ass
+SHA-256-Digest: 29zpG/MFT5Pr5m4PJ1E5xfFyRgBX10xtciipcB5lyaU=
+
+Name: com/mrcrayfish/backpacked/mixin/common/CropBlockMixin.class
+SHA-256-Digest: PrlTIO1KzIZWVWxuHoSyUPypAK+SqXBOnKJFJoZstvo=
+
+Name: data/backpacked/advancements/recipes/decorations/backpack_dock.jso
+ n
+SHA-256-Digest: MIz8QEtjYXrNwAkc/Uxag58lWn8/FsgvUITRSriQs3c=
+
+Name: com/mrcrayfish/backpacked/Bootstrap.class
+SHA-256-Digest: 0G7exNu4uY36fCz/Ij/MfLKWPd7OhT0XpnzYmhw3J2I=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/ItemGrid.class
+SHA-256-Digest: S/6hBAgnSaKvmdO5QBwKNzqXZU1E1akYvGP3k3i1ogo=
+
+Name: com/mrcrayfish/backpacked/core/ModBlocks.class
+SHA-256-Digest: BeA+T3nzpnkbh+EE+HRLgcQuNKSHvuZrCihhqLUTszc=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ WaveformValue$WaveformFunction.class
+SHA-256-Digest: JNoM7KyN8F9ozMkI6uMqQbLhgFqFhXgeOMq2Vj5/A8Q=
+
+Name: com/mrcrayfish/backpacked/client/Icons.class
+SHA-256-Digest: JKoeu2kYwTao73gD43rXJwy7vZuJs/tftZyyKjjPsrY=
+
+Name: com/mrcrayfish/backpacked/common/PlaceSoundControls.class
+SHA-256-Digest: N3uAtitdG6B56PQAS+D5CoThcLuyAP6VPUG0aa2xn+I=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/Stepper$IntRang
+ e.class
+SHA-256-Digest: KeGHdFkaOgPqb2wiMwR0o4bdvsb1C9Jx+/aicFHs0dY=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/TestValueCondition$Comparison.class
+SHA-256-Digest: /qkE0bqxpO+jppv9S6OWE/6OkW1DiGk/Nl4DrZINVds=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ DropdownMenu$Builder.class
+SHA-256-Digest: k8LEWCjVNnaNFFtoFgKvQC+monoPC2MXIl4zsLwiHXY=
+
+Name: assets/backpacked/models/block/oak_backpack_shelf.json
+SHA-256-Digest: JotFuic+Rj28sIrwVp2BFIfLcdZM4knr7kZ0PDOHm7o=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackManagementMe
+ nu.class
+SHA-256-Digest: ls84zxXQ+Xb1O5etdMgDz9zFqrIDJgVKpGCVfBNd/eo=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageRequestManagement
+ .class
+SHA-256-Digest: LfggWWjuUwlQQpw+Tou9Y058amcqOyWSCBykmNRvfak=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/ConditionTypes.class
+SHA-256-Digest: xLzY3TYU5LkJ4gLGyLWiDhb8QDZEgsvgXeYpHly47R0=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncUnlockSlot.cl
+ ass
+SHA-256-Digest: 9SfY++hIybvpzIZdwQ3PWkavIlBbSfXpevjf/bKs48g=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/BackpackScre
+ en.class
+SHA-256-Digest: TjzbfNzLejE7YGyCHlf4D/6cPA4B3figQ+FXB22GyP0=
+
+Name: com/mrcrayfish/backpacked/common/predicates/BlockSnapshotPredicate
+ .class
+SHA-256-Digest: gxrbJH9ZbtEuTcPaJFih4WzIBG7aT2eRbNlYLTl+B34=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/TestValueCondition.class
+SHA-256-Digest: mxx7UTcHXVroYZXpHh9g8ES4zIIJsywHUQaQ/8Fi8bE=
+
+Name: com/mrcrayfish/backpacked/datagen/RecipeGen.class
+SHA-256-Digest: QlIKGfD8ZbVpZ9W1arjae2opuQ+bU6cZzl5vjRIyEwY=
+
+Name: data/backpacked/backpacked/wandering_bag.json
+SHA-256-Digest: 4B7eSdnvrM7Aro7CFzhif90FvD7lqFPeT3SVXzCRhMI=
+
+Name: assets/backpacked/lang/en_us.json
+SHA-256-Digest: 0slV68rz59JssmGEUjbwwY2V2EMkOfRUHSbC7xyNkBU=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/TranslateMatrixFunction.class
+SHA-256-Digest: yWpfh9C2TRq6/mnk4pL0XXgEbx1gAXQ+e1Zv/Kibbkc=
+
+Name: com/mrcrayfish/backpacked/datagen/CommonRecipeGen.class
+SHA-256-Digest: y8+5E7t3fsIK4+tshYlPIKndjrK7ifA1YkHI9rwuX2Y=
+
+Name: data/backpacked/loot_tables/blocks/spruce_backpack_shelf.json
+SHA-256-Digest: CVurXBm+DfD1yIDuquSCLITM3IWpEZxrSKrl4g7dnK0=
+
+Name: com/mrcrayfish/backpacked/packs/AddonRepositorySource.class
+SHA-256-Digest: 4tat3Aev5RlNbMJOMkGbo1i8ytokgjJD7ugKLagpLZM=
+
+Name: com/mrcrayfish/backpacked/blockentity/BackpackDockBlockEntity$Item
+ StackContainer.class
+SHA-256-Digest: PhcEoufeen6JzXdlFgMUWgrL0m0hy6S0Di9Fu3D9SOk=
+
+Name: data/backpacked/loot_tables/blocks/crimson_backpack_shelf.json
+SHA-256-Digest: uuEz5R8yJE0IDtLdNTxrx5ZkSmHbido4nMAHeBuzcFA=
+
+Name: assets/backpacked/lang/es_es.json
+SHA-256-Digest: Y7ikgjnW+htZJnWR6Pqo3PQTVUviYibPi+VikFDPLrk=
+
+Name: assets/backpacked/textures/backpack/piglin_pack.png
+SHA-256-Digest: NPkGqaC53fzVrV0GYZKJD2QUjYF7WjddMxIR2skfS20=
+
+Name: com/mrcrayfish/backpacked/util/ReflectedMethod.class
+SHA-256-Digest: 5OtNC1dhKGKz1v1nEuT6dZBHLPAVKhDlh3QxUypLaSE=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/CustomScr
+ een.class
+SHA-256-Digest: J0+Jh+bsMK1YIem7/eNqkzUWwVnlZL5c685awreHeLc=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$Inventory$Size.class
+SHA-256-Digest: 5MKPYPa4b9C7njt5gPzozTmpX11lxl3VOY+DKLJrB7Q=
+
+Name: com/mrcrayfish/backpacked/Config$Server$WanderingTrader.class
+SHA-256-Digest: xf1X/R7mrGLIU3XRUNCbZcZLASB0QRMrI9NFY79kh/4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ Value$Type.class
+SHA-256-Digest: qRSaDSc4/hRe2joQdQcGnv294FEExHhMcEsBRFhlPGA=
+
+Name: assets/backpacked/models/item/warped_backpack_shelf.json
+SHA-256-Digest: DukrZhkvsk5QUvi14gKmh201zBjn1gKgAaRIz4zWT38=
+
+Name: assets/backpacked/models/backpacked/classic.json
+SHA-256-Digest: GPiID4bD//XIfqktyuTGlva4qyznDZpwNq2e/WdYrSc=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/Advanc
+ edRenderer.class
+SHA-256-Digest: 1ds6vsucuAbzyxagcUjrTnfPKXBtWcI4C2ZPWk3V/78=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageRenameBackpack.cl
+ ass
+SHA-256-Digest: BrfAyHAOYfcS8jx35CsTgxVzgEBWRYsRHQLX4W7oyJA=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/TextInput
+ Menu.class
+SHA-256-Digest: gjFRRcJg5ufcc2lK4Hn086vqrHOxEknctLwEC+1F1sU=
+
+Name: com/mrcrayfish/backpacked/client/LabelAndDescription.class
+SHA-256-Digest: obXJb6hFC4gqq/w/D6EPIxlYRtoMAUkf2uYQ97LHiCI=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/CraftItemChallenge
+ $CraftedItemPredicate.class
+SHA-256-Digest: Y08130nunwp+b6ZygYmoDFRBAz+X1F1SAJ82mD4KlI8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ AndValue.class
+SHA-256-Digest: uSrse/mzUUdi/Sg0Ul+T3uRFj/3bUhr8/wlf7qzRtDE=
+
+Name: com/mrcrayfish/backpacked/client/renderer/blockentity/BackpackDock
+ Renderer.class
+SHA-256-Digest: 0tB49o71vJ21+X7q3OCbxf9YgAs6qElOhzHOj1iqG3s=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/RecallMenu$ShelfStat
+ us$Status.class
+SHA-256-Digest: U2c43IF0/kg5874KJ4nZN9AdVUeZV+B73E4CXd7mZbE=
+
+Name: assets/backpacked/blockstates/crimson_backpack_shelf.json
+SHA-256-Digest: vXJexBoZsIsr4y9LTabAEOHew6Jnb/mcZkxt0DTGN9I=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/BackpackScre
+ en$AugmentIcon.class
+SHA-256-Digest: oRBGUCmqxn6OlDb6+kRoU+josA2esQGXxFFcBs6SWEs=
+
+Name: assets/backpacked/lang/zh_cn.json
+SHA-256-Digest: Y99QRk0njcUjcohgfCdqCcj9Usczi7bG+1i03APj/f4=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithEntity
+ Challenge$Serializer.class
+SHA-256-Digest: WY+ET3UigyFvMvqKxz1AjZG2s1VKw4s+Fna1Lcl+y1U=
+
+Name: assets/backpacked/models/block/jungle_backpack_shelf.json
+SHA-256-Digest: 4S7PcgiLh8I+jc2CVX9BKzfKN1h7Nn0WYePAgTiAE8A=
+
+Name: assets/backpacked/backpacked/end_crystal.json
+SHA-256-Digest: Pzu+eodcPxDxferVbNftoQtOofbGvSnsYej8Rd6LYpE=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/BreedAnimalChallen
+ ge$Tracker.class
+SHA-256-Digest: 4SFSQjC2BOU7po1nOQ62f+u07R0AlJYv7gd/QB6C/h8=
+
+Name: com/mrcrayfish/backpacked/inventory/container/slot/BackpackSlot.cl
+ ass
+SHA-256-Digest: 5UMQ1KV3aiwtrwqLp6D9K+S4m/Kli9KYqdHMxU5y+QU=
+
+Name: com/mrcrayfish/backpacked/item/ForgeBackpackItem.class
+SHA-256-Digest: EWbCJzj6yuvuqp/KyLkvCuly071qkBTkp1VEmyKwbow=
+
+Name: com/mrcrayfish/backpacked/Backpacked.class
+SHA-256-Digest: NgFylzeP7y8zHsXQktVBTaqtSuK5sTO/wHLFrcuT1YQ=
+
+Name: com/mrcrayfish/backpacked/datagen/CommonLootTableGen.class
+SHA-256-Digest: aljuqV5FbK/jm+4hJr8AXXoW7GQNF9f5y/6fJ691sOw=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/ReforgeAugment.class
+SHA-256-Digest: PellwwnO6Nh/pplratpOpvH5JKMw15f/babzj+ICiRg=
+
+Name: com/mrcrayfish/backpacked/blockentity/IOptionalStorage.class
+SHA-256-Digest: 1jDnC1TjrMUFRZniL8ktsIKLaooMgvNRaSvHb10fM4g=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/BreedAnimalChallen
+ ge$Serializer.class
+SHA-256-Digest: bFDiGO4SwArYceQHSyQOVDhiXDt1cn51FXygX4Op/nA=
+
+Name: com/mrcrayfish/backpacked/Constants.class
+SHA-256-Digest: At2wtXSu5bynGf38wQWCDX/PJuGePtIh5UVhTEHSfmg=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncAugmentChange
+ .class
+SHA-256-Digest: x4KI/yHofRN0CDfgPhGdscPq7ZSEAhGDRg468HmP0vg=
+
+Name: assets/backpacked/models/backpacked/bamboo_basket_straps.json
+SHA-256-Digest: 9J0o7uhJ7m+8eHr680oJmTZhVpO+4LarfTWV3gZoxm0=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/ImmortalMenu$Cooldow
+ nStatus.class
+SHA-256-Digest: ZKdpIESZeog83lp9TZh0a6ZVsmnaqZZFl7RX/NyPXKk=
+
+Name: com/mrcrayfish/backpacked/platform/ForgeEntityHelper.class
+SHA-256-Digest: rLjwbtT9nKmRSAcUwQ6YrWUxR/V6qkMFHaIzpq4cbNc=
+
+Name: assets/backpacked/models/block/acacia_backpack_shelf.json
+SHA-256-Digest: PxikO9LlqI8YFoCDyOgrOOUHlv/N7dBrQ0Q7PvxodGE=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$Equipable.class
+SHA-256-Digest: +fbMqVD7POZVpuvP05yupQXl1z6AHX1Ifpi5b2gmbjQ=
+
+Name: assets/backpacked/textures/gui/icons.png
+SHA-256-Digest: kGStac+qJlx4y2pCt2YRBuZqwcLWV3yA9OjU18i/j+U=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/RecallMenu$ShelfStat
+ us$Key.class
+SHA-256-Digest: SQ8qeT80jkefakVU3ZUOXY1QIsbOVn2UMAkG5fI3tyU=
+
+Name: com/mrcrayfish/backpacked/common/BackpackEvents.class
+SHA-256-Digest: cRHZcYH0m084BO63lsEyoY+/W3nYEnAtOLlGCzbzvKM=
+
+Name: com/mrcrayfish/backpacked/core/ModBlockEntities.class
+SHA-256-Digest: 3sr8jU6h8o7O8albQEwBYzZvkSGsjKaZOkycI9FWyDY=
+
+Name: data/backpacked/recipes/dark_oak_backpack_shelf.json
+SHA-256-Digest: Rr4aiPwSApk53KD9CeByu78HioJCwDxENoIBibh32wc=
+
+Name: com/mrcrayfish/backpacked/common/PointOfInterest.class
+SHA-256-Digest: 9PGy2tA62mKF2v/ME8vGJ3PjAkJy/qxElt4yDrPY0cA=
+
+Name: assets/backpacked/backpacked/piglin_pack.json
+SHA-256-Digest: Ka2ej+lN79ylCK8nC9tlYkAs157Jm4EM+D17iypXcJQ=
+
+Name: assets/backpacked/models/backpacked/turtle_shell_straps.json
+SHA-256-Digest: 7Z0+o0CDwmlSBNNDOx086hwvv5OLgOk1OJWIArunaPc=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ EntityDataValue$Data.class
+SHA-256-Digest: sK2H7EMM3td2I+1GrxHM7obo0FRJTgns0G5YW/LgObU=
+
+Name: com/mrcrayfish/backpacked/common/backpack/CosmeticProperties.class
+SHA-256-Digest: /bD30Abo1x/zROPljV31goq+ODzmIFDNcwMke9rv1Xk=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/CraftItemChallenge
+ $Serializer.class
+SHA-256-Digest: 60jYPwiw97k6FQ+zL25WO9PcFyFv6IJwQlnR8/kZBsM=
+
+Name: com/mrcrayfish/backpacked/common/predicates/BlockPositionPredicate
+ .class
+SHA-256-Digest: N92An09nyshztV8QYRg9SNGBGo2SinQdkf1J1fRMI2Y=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/ExploreBiomeChalle
+ nge$Serializer.class
+SHA-256-Digest: nFCkFZ6JXZAjEpOGnmKZphsoUKx+ouhecdpY6/3kcw8=
+
+Name: pack.mcmeta
+SHA-256-Digest: n6r/N4VEqxFYdoGuW5dC0YqX1pF0jKVwiuaC8MFH2Yc=
+
+Name: assets/backpacked/models/backpacked/standard.json
+SHA-256-Digest: s9RD1I6obcAnQIHCJnRbZ4fjgzvCiy0ZE2xAqE8TVXo=
+
+Name: com/mrcrayfish/backpacked/core/ModItems.class
+SHA-256-Digest: b64mXMHni3ETkUCTleMVUOA5VrBm5H+aKYfb0vGYbgk=
+
+Name: com/mrcrayfish/backpacked/common/MovementType.class
+SHA-256-Digest: 9n3pBXtvYSKBQ6FmI33qJ6bgSHsUSg8pzMhVIsdGPm0=
+
+Name: com/mrcrayfish/backpacked/common/UnlockableSlotMode.class
+SHA-256-Digest: V1yQZ2Tdtr6IgGSjRFTDkwjwyFHRbZT1q0rsRmvu2h8=
+
+Name: com/mrcrayfish/backpacked/common/tracker/IProgressTracker.class
+SHA-256-Digest: JQsbzRYtqnalCeS8uNf689jZLvdj7xTg8QzKckCiud4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/SpawnParticleFunction$Vector.class
+SHA-256-Digest: NRxvuFRBuPhKd2OWXzHkQwqiQvgxgDG+xnrok9XQSLA=
+
+Name: data/backpacked/backpacked/standard.json
+SHA-256-Digest: RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o=
+
+Name: assets/backpacked/sounds.json
+SHA-256-Digest: 150+iZIb3Zk5zhVu1ZxKxLMAoPw/0XqTl8wAkDgB05w=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$AugmentBays.class
+SHA-256-Digest: ElpC9ifPY0F6MHAh3KtwBoRuD9g0XXI641Jzo2iIc4o=
+
+Name: assets/backpacked/models/backpacked/sheep_plush_straps.json
+SHA-256-Digest: uZX4z80Nv0IdGrQGPTr7TBPEcrcaAUZcnfyptQFIP80=
+
+Name: assets/backpacked/sounds/item/backpack/place.ogg
+SHA-256-Digest: DROCSXMk1Awy/bqbccHN72uPt4LRsL1PwVg5nh91g/s=
+
+Name: com/mrcrayfish/backpacked/core/ModCreativeTabs.class
+SHA-256-Digest: mOACPVd/zBDJe8MxX8TtJ77RizQ5tmGvqQSv2EC39Bw=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/Stepper$Builder
+ .class
+SHA-256-Digest: +0qq2E+hMjdeJMNfqB3yYBaHEBvb1gIYR7TnBDcewfo=
+
+Name: com/mrcrayfish/backpacked/client/gui/particle/ScreenParticles.clas
+ s
+SHA-256-Digest: GAaSAteOoYi5+ClKTvnvbVzrvUSSp6onpocpNQw/z+U=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/FunctionTypes.class
+SHA-256-Digest: o6cDvfrk7qQybSp6NAWlO/3IUNu7Y5SdvQTXcEr7GO8=
+
+Name: com/mrcrayfish/backpacked/client/gui/particle/Particle2D.class
+SHA-256-Digest: 3um/LXWjdNT+ILZW2j3e7JRAXgzDQWkcJ9NpvPkwnRc=
+
+Name: com/mrcrayfish/backpacked/common/tracker/impl/UniqueCraftingProgre
+ ssTracker.class
+SHA-256-Digest: IqS5wntUl4HmVMiVymx7IJn8TPaNSTukA5lhPRTNyeE=
+
+Name: com/mrcrayfish/backpacked/block/ShelfBlock.class
+SHA-256-Digest: iEMmYVOPhpfE7kpsaj4SrACii6zlYwMncU3zbipLRE0=
+
+Name: data/backpacked/recipes/oak_backpack_shelf.json
+SHA-256-Digest: SjEV2e8E3sHR/PqHPRjDiRCxyoK2aYU8xO4MS/26tas=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/BaseCondition$Type.class
+SHA-256-Digest: P0K7ZcqO27vk+MRjFsVjAb1/GqWcHKIwUhkMuizkTS0=
+
+Name: data/backpacked/backpacked/vintage.json
+SHA-256-Digest: RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o=
+
+Name: assets/backpacked/models/backpacked/end_crystal_frame.json
+SHA-256-Digest: XcuFv/N8J4NhD0WgpnIoS5mPcXAcsPekX5MNsVJCdq8=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/QuiverlinkMenu.class
+SHA-256-Digest: j4BOR0OZqokIQxuEMjQX/DSo4D/ZvPMu9SgXwqYW0sE=
+
+Name: com/mrcrayfish/backpacked/common/command/FlushRecallQueueCommand.c
+ lass
+SHA-256-Digest: y7BeRVPyw93mI//niJyAJaT7VoAWb9uQJ7WOPq7ns9Q=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/FarmhandAugment.clas
+ s
+SHA-256-Digest: 1/QPqeM22oiO2TiqRFAX4y9VxZ2IK4owxvaIA79RkEQ=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageUnlockSlot.class
+SHA-256-Digest: DY3loj27bqDVDa89EP1dq6o4NqVU2MpE+hs79VZ/Jew=
+
+Name: com/mrcrayfish/backpacked/client/augment/AugmentMenuFactory.class
+SHA-256-Digest: tWXsBVCqwaXBzdbjRVLgcLqKAEo5Y6t6h80KqHGcZWA=
+
+Name: backpacked.refmap.json
+SHA-256-Digest: V4nivnhKt2NYDrzf1QG80zaPh0xM4oynvCAkePWpZ40=
+
+Name: com/mrcrayfish/backpacked/client/Keys.class
+SHA-256-Digest: e38izIen7Gu8hFZ4fnq2zHdap8S/R/QniFL1yVUaSR8=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/TravelDistanceChal
+ lenge$Tracker.class
+SHA-256-Digest: lsqNs+EZxXiOgVvOCWuQD6D6CqbIGkJWxIfGFXfy/Oc=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack.class
+SHA-256-Digest: GfaHlrnXGb5S9tSeoksv5F5h2hSP3GksfhnLlGTn28s=
+
+Name: data/backpacked/advancements/recipes/decorations/dark_oak_backpack
+ _shelf.json
+SHA-256-Digest: mMma734JDe0pHhpj8C8bPMJLqHHU1M1G1754lLyg/A4=
+
+Name: com/mrcrayfish/backpacked/common/command/ForceRecallCommand.class
+SHA-256-Digest: UO/gT5j8rezCK7aLuwzDiY2UupjBypBgwCpKqpnCauA=
+
+Name: com/mrcrayfish/backpacked/platform/Services.class
+SHA-256-Digest: TbtmF2bDhGq1My9LIoc+FguNH+vX1cqWkEsLtVuRHng=
+
+Name: com/mrcrayfish/backpacked/datagen/LootTableGen$BlockProvider.class
+SHA-256-Digest: 9iPLHZmY1+8SyHHZRYN/Pm1GWdjZ1Okh2mysSaO4Hfc=
+
+Name: data/backpacked/recipes/cherry_backpack_shelf.json
+SHA-256-Digest: 6p42U0DkdtBRx4EZ7MLcCp9uMMhyWNTaizBExVnv+uU=
+
+Name: META-INF/services/com.mrcrayfish.backpacked.platform.services.IBac
+ kpackHelper
+SHA-256-Digest: zUs2+YVoGyhAuT/dqIeXfwBupB7l/aQ8iTKrPgsm/QI=
+
+Name: com/mrcrayfish/backpacked/Config$Augments$Funnelling.class
+SHA-256-Digest: ojm9XKNKl9n4ta/iu8VvzotaVYFksCLk5y8lERxoLX8=
+
+Name: com/mrcrayfish/backpacked/mixin/common/PlayerMixin.class
+SHA-256-Digest: xXh/Vr7MnJAoUfH5LHYaJVwAOTfmKbTNH7R1WIASwSA=
+
+Name: com/mrcrayfish/backpacked/common/Navigate.class
+SHA-256-Digest: o9aOFns7tV9KaSvotl9o0p7d2vSJRb7ZgcHkcHYsxXM=
+
+Name: com/mrcrayfish/backpacked/inventory/BackpackedInventoryAccess.clas
+ s
+SHA-256-Digest: YXp+yjlMXLwnhMD3GiEk1A6Fe2N4uvJyxado94wyxmI=
+
+Name: assets/backpacked/textures/backpack/trash_can.png
+SHA-256-Digest: Dz0G9L1FjxMd/6aOE/UufVbt2tQt8vqgqlvCpE/vW9c=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MineBlockChallenge
+ $Tracker.class
+SHA-256-Digest: EPUx/b4L2l1v6+LLr1+cxIu8qKZ6VdD8GbCP8LZdXqQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/ItemGrid$Builde
+ r.class
+SHA-256-Digest: W9Rkj2b+2nrWN6grA16g6wOhwvvLwvBV2BmEoLU4E3U=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/UnlockableCo
+ ntainerScreen.class
+SHA-256-Digest: d0xkB/iffqcAZwKHaEIpN2ckDSrFtwJvAYbDiDwjObU=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageShelfPlaceAnimati
+ on.class
+SHA-256-Digest: irWsN4UY/yV81py2HmH+lyWM5h1kgUvB8BLy4UdVLPU=
+
+Name: data/backpacked/loot_tables/blocks/warped_backpack_shelf.json
+SHA-256-Digest: ALEMSdlK3woyHG14hIaO49k1MBVrLo0EsITJD36+tbo=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/EnumButton.clas
+ s
+SHA-256-Digest: ItQhNmPok91CU3uPBbuJIVnYfaxUOSU0aNBVy4kkgeY=
+
+Name: com/mrcrayfish/backpacked/client/particle/FarmhandPlantParticle.cl
+ ass
+SHA-256-Digest: Pu6tS0/fFbsbFbkscyqE2B+jK575s8HosV4Bgz6w5Ak=
+
+Name: assets/backpacked/textures/backpack/standard.png
+SHA-256-Digest: i6CLFczTDw8OqhK+NNDYh3agEpjueTtB9QNEP77IsHQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/BackpackShel
+ fScreen.class
+SHA-256-Digest: Tz8cFeYdqi9npb2l8SPcJ/2gKC4TAF/G2qqZ6KqIFhY=
+
+Name: com/mrcrayfish/backpacked/mixin/common/AbstractArrowMixin.class
+SHA-256-Digest: 2TrY82LQHuv/CCsqv8l9uCIw51lhzP8ZO+kQHHmbz0s=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$Inventory.class
+SHA-256-Digest: SDVk9R2p93y3D4kCD6PKg8OoziveXgxFVQ/6ZGpT6As=
+
+Name: com/mrcrayfish/backpacked/mixin/common/PlayerInventoryMixin.class
+SHA-256-Digest: 3yc9PWqKOdqfZjHlrql7LKGEIhyChhFQxb9xrO/+M7k=
+
+Name: data/backpacked/recipes/birch_backpack_shelf.json
+SHA-256-Digest: easapYANSrsth5wguq7RrueikiYEvGslrNpHo35VSgc=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/ScrollBar.class
+SHA-256-Digest: jgPgPPnFGO1fDCwBjansf9O8oqUXSGZbzHP1xBe9VkU=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/TravelDistanceChal
+ lenge$Serializer.class
+SHA-256-Digest: hbPNiogDqxVn19QNnSsmZp3wXs5ps3b+CN/T+QCSgcQ=
+
+Name: assets/backpacked/models/backpacked/sheep_plush.json
+SHA-256-Digest: a8/p/xXbHbbhPfY/eUHfwQIes07/VbKcTDIpZweNlNw=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/DummyChallenge.cla
+ ss
+SHA-256-Digest: UOOlY1YAfrdQgmdLQooO8USogFRY5v14d6sHpRGgAYg=
+
+Name: data/backpacked/loot_tables/blocks/dark_oak_backpack_shelf.json
+SHA-256-Digest: kGvyzGJueOr5NnAfXMPWJ/84j7Ctus/UnaLa8X2q8Y0=
+
+Name: com/mrcrayfish/backpacked/client/augment/AugmentSettingsMenu.class
+SHA-256-Digest: kk1Ybn0V8lGjBLbBcOI/mmpJC2Uf68WZV5ntB/pW4Vg=
+
+Name: com/mrcrayfish/backpacked/mixin/common/PackDetectorMixin.class
+SHA-256-Digest: U8KBhsGWfGVG1RFErsLX5m3JKtaNupzhLQbttqA9phc=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackContainerMen
+ u.class
+SHA-256-Digest: fjeLWqKngm822HvijbPoDWFCyva36T7mxV2qS+L9JOw=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageShowEquipHint.cla
+ ss
+SHA-256-Digest: PF4gGP0KyopPdwAgnKZFoyGIjCcCzAx0TaRtscsXjXo=
+
+Name: com/mrcrayfish/backpacked/Config$Server$WanderingTrader$Pickpocket
+ ingChallenge.class
+SHA-256-Digest: mpI6yL3UTsNYDeu+zYWOBwUiEzQdh88rjFQkkwdMMKQ=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/FeedAnimalChalleng
+ e$Tracker.class
+SHA-256-Digest: 1UETGbDE1szqvarD8opQsmY9CKoZvKzDNin07JhhZvY=
+
+Name: com/mrcrayfish/backpacked/common/InterpolateFunction.class
+SHA-256-Digest: f9aWOHdLLDDA96WrA8SkGlyARoevhtRy5mOhEE8u+Eo=
+
+Name: assets/backpacked/lang/vi_vn.json
+SHA-256-Digest: iKBaF8oyaL+JkZqgE6FnIZBC1VYmwsba759YX/SX9Nc=
+
+Name: com/mrcrayfish/backpacked/common/augment/SavedAugments.class
+SHA-256-Digest: I6CpOe8AhojRyw+5+VyRRV6bwh5QW2n33DRKoVqEQgQ=
+
+Name: com/mrcrayfish/backpacked/packs/AddonMetadata.class
+SHA-256-Digest: ts8x3erRyk6g81Y9HcpGx3itJCmy9YoL4sMnPKiZ0Ac=
+
+Name: assets/backpacked/textures/backpack/wandering_bag.png
+SHA-256-Digest: rT6pZQ60DQUC/G6j7F27Qyt+VyUWREuc2vbGwG5ARg4=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/Alignment
+ .class
+SHA-256-Digest: e3uXPh+qa9QuBeJXWwHcljfOhehvk1ppyBI+jlmsLyo=
+
+Name: com/mrcrayfish/backpacked/common/PaymentItem.class
+SHA-256-Digest: gmF/4TkxLJQC5wALjtf0vUAn0BW8sRfw3RF6mnv/7oM=
+
+Name: com/mrcrayfish/backpacked/mixin/common/LivingEntityMixin.class
+SHA-256-Digest: vWqaBLW7azhsKaFmkO4HQmdaTFvAR5RHnRjD/Ekc31o=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageNavigateBackpack.
+ class
+SHA-256-Digest: H5B57ry8wL2Ll+uy1zKNu8n21hFyC7r1l5OZ9iHYYgA=
+
+Name: com/mrcrayfish/backpacked/integration/jei/BackpackManagementScreen
+ Handler.class
+SHA-256-Digest: MRwUlYL801DVVsP4mkbRFifb4uh07sc6BYF29s1AMJM=
+
+Name: com/mrcrayfish/backpacked/common/backpack/BackpackManager.class
+SHA-256-Digest: PGa8MjnSG7RAbpV8Phr228yA3rhsIRijpBt0rOn8ZSc=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSortBackpack.clas
+ s
+SHA-256-Digest: 5cUL76jDlU4zREmPH2d1UZjoFuZFLOjM9s/ijUnnbiU=
+
+Name: com/mrcrayfish/backpacked/common/backpack/UnlockableSlots.class
+SHA-256-Digest: rIVl7RwoipwLRdxvnQ/lyXTLyV0CdFMXgzvvbW7bbCk=
+
+Name: com/mrcrayfish/backpacked/client/gui/ButtonAlignment.class
+SHA-256-Digest: HiMDx56n9G71m06gWOv48qFdrQHNx35Qc7RXKxHCAZE=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/RecallAugment.class
+SHA-256-Digest: P2xY5TTkjV6nAKnw43zBOMsVNgJTrO+N+7oHbYV58l4=
+
+Name: assets/backpacked/models/item/acacia_backpack_shelf.json
+SHA-256-Digest: eGr8tdVSrw0f33lcGAltTcvfN8HxIpddZt+oT4BHSfM=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ServerPlayerMixin.class
+SHA-256-Digest: MgMqf8OmRxzLHH6YtNJbiNV31gv8oYQVgoj+Cgs1lS4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ Value.class
+SHA-256-Digest: 1HxTrt+ORM/6FBMTYQv3eKuTv1CyLyB+I30BeqnNAiM=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/CraftItemChallenge
+ $Tracker.class
+SHA-256-Digest: oc96SsScswPhVACHB7XyDiMhVQbVkSVeMsoT1FC1uXU=
+
+Name: com/mrcrayfish/backpacked/blockentity/BackpackDockBlockEntity.clas
+ s
+SHA-256-Digest: QY0bF2SoUXy6NtdPBTMvD9yIrDN1ZeUkSiiHTizUzoU=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/CustomCon
+ tainerScreen.class
+SHA-256-Digest: lm27J9P3oHqncV27M2VhW7Od7ePunRmlku8kxjA6ho8=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/GiantAugment.class
+SHA-256-Digest: Fc1WNWqayc04uXvosAaDQ+kej78/SzfbUOLMqLxLae8=
+
+Name: com/mrcrayfish/backpacked/event/entity/FeedAnimal.class
+SHA-256-Digest: 4zEtlushkwnpVwn1g5JW5TiuBUxsjkNiJ4UmFQIjgDM=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/TextWidget.clas
+ s
+SHA-256-Digest: 5VZT8b2JN8eB9ZFhs8r8WNFp0yPa9nMecKRZmrKk+gw=
+
+Name: assets/backpacked/models/backpacked/honey_jar.json
+SHA-256-Digest: My1z2GQhADfFbRm/Rdq9hGf51FN3Jgi4VGUMDAb708s=
+
+Name: data/backpacked/backpacked/mini_chest.json
+SHA-256-Digest: CyLos9W1WtNACDLAvo6ZL5v0c2KqJDVMgXCcByXf9lU=
+
+Name: com/mrcrayfish/backpacked/common/FilterableItems.class
+SHA-256-Digest: PmyuZWCQ5pyzcoxwcSPUVkt2cby+nTrk9MVWNm1iKRw=
+
+Name: com/mrcrayfish/backpacked/Config.class
+SHA-256-Digest: MA2LN3+ZkyCdAFhISgrkys4jc2oS7FWsK8R6NF8EcWY=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/CustomiseBackpackScree
+ n.class
+SHA-256-Digest: ZxlOMivfTy9lhL5A0N9pVeLeObHEOUeGREwtOTWWMSM=
+
+Name: com/mrcrayfish/backpacked/common/BackpackedCodecs.class
+SHA-256-Digest: UjLYcEXrC6JlObTEsK1D1cPDxTSpoDsS4GJR//DhE24=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/FunnellingAugment$1.
+ class
+SHA-256-Digest: 8wgBZN4O+XBZtTBY/aYr/Z3nkpzeHpFRChTbAtzCJrU=
+
+Name: META-INF/services/com.mrcrayfish.backpacked.platform.services.IPla
+ tformHelper
+SHA-256-Digest: MslFaN/fiJe7/avHNLhaBC7d8SoRQ9GWgppSXeYgHQg=
+
+Name: com/mrcrayfish/backpacked/Config$Client.class
+SHA-256-Digest: kYX8Tv+rOG8A6TSyHTUmWpH7RByIZy9yIPl+j0dC6FA=
+
+Name: assets/backpacked/models/block/cherry_backpack_shelf.json
+SHA-256-Digest: XTjbnoV04269tHYjjuo/Pzq3XFLKbCAFjTSuVggCHEE=
+
+Name: data/backpacked/backpacked/bamboo_basket.json
+SHA-256-Digest: gfXazCcBoNfIA3Jow9lz6CP+Lxx12bDEwnJ2QE0g/aw=
+
+Name: backpacked.forge.mixins.json
+SHA-256-Digest: tbv393wAc1t0sX0hqQUyybpecYyzemmfckR+4pyUoI0=
+
+Name: com/mrcrayfish/backpacked/Config$Augments$HopperBridge.class
+SHA-256-Digest: BXGHjnXGXPonOHzDHbeyW43OXP9OD7K71gMkDnsEBrk=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageCheckShelfKey.cla
+ ss
+SHA-256-Digest: RZI0vMZbj2kAlQWExvY9VtfPFUGyfveEMdAxXgc4nvg=
+
+Name: assets/backpacked/models/item/backpack_dock.json
+SHA-256-Digest: JezMR3S8sW+aSh+h7gb2fg7L9azUEI4rx8301iX1al0=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/SeedflowMenu.class
+SHA-256-Digest: 5DMmfwsICddJXHFQrOeHm5wVJcGNFI5JN/xniAr9nTs=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ EntityDataValue.class
+SHA-256-Digest: wFBXcPN7BuPpnsLcu1wceSTX6CbDVlq/DmbCmIXA2JI=
+
+Name: assets/backpacked/models/backpacked/cardboard_box_straps.json
+SHA-256-Digest: 8jiZ/JmcZ57ELjS8VVfCazYlcbB+Gc8HU//ONxIjQ5Y=
+
+Name: assets/backpacked/backpacked/classic.json
+SHA-256-Digest: Ka2ej+lN79ylCK8nC9tlYkAs157Jm4EM+D17iypXcJQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/BackpackScre
+ en$1.class
+SHA-256-Digest: ll3wW5zrO36FoSrgJnB6PmDOtbqDUPy+XGcfAwKV4Fw=
+
+Name: backpacked.common.mixins.json
+SHA-256-Digest: PKGoKiOFNCS3e4AH6FJeOf5QUqjwhTWZ72PF6RNaELk=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncVillagerBackp
+ ack.class
+SHA-256-Digest: cE/nutKp+tSxW7YOdKMFckyLJDVrKTcymhXAGki9+yc=
+
+Name: assets/backpacked/backpacked/bamboo_basket.json
+SHA-256-Digest: RM4GzvjLzPCbxWqIMqzr40SFzK3GQ/Y7v5nDx5hiJF4=
+
+Name: assets/backpacked/models/backpacked/piglin_pack.json
+SHA-256-Digest: /LWXkO/qsso4F+AvkMWxEFzsf0UjP71AQxAdEQIRdpM=
+
+Name: com/mrcrayfish/backpacked/common/augment/SavedAugments$View.class
+SHA-256-Digest: BykUwdOzdfE0ylkvnUq3mH6Xtgmtrjy9uG0NXGF9zjM=
+
+Name: data/backpacked/backpacked/honey_jar.json
+SHA-256-Digest: qGQLXsEJ6zip9sEQp7pLlUWuwzDol1ER/AC6fYk7FDM=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/ImmortalAugment.clas
+ s
+SHA-256-Digest: u7UznYNWQeiHdYS9GhGkKCaoZIsxQXg4fNGSJOGe0/c=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/MiniButton.clas
+ s
+SHA-256-Digest: IKCSi648AidEMqF1LTYzQayHXmGk0ovEca+pk/NE+c0=
+
+Name: com/mrcrayfish/backpacked/client/renderer/entity/layers/VillagerBa
+ ckpackLayer.class
+SHA-256-Digest: m118G5bB3th0UGdXAHvNFV1zT8J36mwEGi79A/idiRA=
+
+Name: com/mrcrayfish/backpacked/client/augment/AugmentSettingsFactories.
+ class
+SHA-256-Digest: cASGmUqWViwRCpPomzD4EUvuLi6NCeqKleOUZRB5orA=
+
+Name: assets/backpacked/backpacked/rocket.json
+SHA-256-Digest: l8c6uaaLKpxJwilxSCQnpapvi6GAOmCrX+zRa7JHKkM=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/Divider$Orienta
+ tion.class
+SHA-256-Digest: zK2W78Nf5GJ2KGRV8U4merYqse0OVeT4NdcGxjfFl5M=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageOpenBackpack.clas
+ s
+SHA-256-Digest: 0+ejK3If31LoDKILsnmhHrlg62Gt6rxYYdhZXbW3sBQ=
+
+Name: assets/backpacked/font/icons.json
+SHA-256-Digest: 3GRO3OSUHM3My1dltZhqWfKOqXLBuDIYLQaZjrYl90g=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/HopperBridgeAugment$
+ FilterMode.class
+SHA-256-Digest: sL/Kh32cN0zXdnfdgvFrm3prwUTPJxrtoUw+24SjSIY=
+
+Name: assets/backpacked/lang/uk_ua.json
+SHA-256-Digest: qYQ1S51qnWYvDvoFjLt+4PZR/aZcgbs/Zthk6dqxwXg=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageBackpackCosmetics
+ .class
+SHA-256-Digest: 16H0IR7C9/7l0+hjVqnT9r3Pe/B0W/CsdgnNiP0reFY=
+
+Name: assets/backpacked/textures/backpack/mini_chest.png
+SHA-256-Digest: 4nTrFyKF2ef0D07TMRAeWa83eccytXd/kPg3xaZyzJo=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/PopupMenu
+ .class
+SHA-256-Digest: Kz2Y8tcWCFSwDAfOyYmYDHu+ItvVcgPaJIQOhVc7N+g=
+
+Name: com/mrcrayfish/backpacked/client/renderer/BakedModelRenderer.class
+SHA-256-Digest: C0w1eBLTpTbN5dZUarTfDrH2JLGvvuUEb4zk5pLTb3I=
+
+Name: assets/backpacked/models/backpacked/vintage.json
+SHA-256-Digest: SgiKH0L3jJm+TG0N0zN9hzodCkovbLCerMCy9K6/RQ8=
+
+Name: assets/backpacked/models/backpacked/rocket.json
+SHA-256-Digest: h5N3MR9sIKwsRMmSx/xyJHVxyxYmeUtWZy7adrMfJ3w=
+
+Name: com/mrcrayfish/backpacked/common/SelectionFunction.class
+SHA-256-Digest: Lpp6nCDKfqGKVEDSCtShNMM7nvYQUp1fH2RAciYiHyc=
+
+Name: com/mrcrayfish/backpacked/util/PickpocketUtil.class
+SHA-256-Digest: ENLdofZ/KUIEFgTNfeWvcOLZWeKmBVvhTBDFY3p8/eA=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/RecallMenu.class
+SHA-256-Digest: M8BTDk54d/czer54nSIt6vKp74iF8bhSbeVg1FuhO1Y=
+
+Name: assets/backpacked/backpacked/cogwheel.json
+SHA-256-Digest: 6TsZSMHiFkBcUywOUAhljuN+riHcVpetk2pRH2PQkF8=
+
+Name: com/mrcrayfish/backpacked/data/pickpocket/TraderPickpocketing.clas
+ s
+SHA-256-Digest: eZQWcNjqiI9g6/6UNK0W5FqYHiQJwLdCzdw67juksiQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/AugmentPopupMen
+ u.class
+SHA-256-Digest: dRXpT2IScWIw7ezrfLPHJDOkjMcM9bTAyRwmorw5/8E=
+
+Name: com/mrcrayfish/backpacked/Config$ResourceLocationValidator.class
+SHA-256-Digest: rcCOE/9sew8+JLfkt/qcouCRFAJ7GmVwi+kkc2dgYLY=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithEntity
+ Challenge$Tracker.class
+SHA-256-Digest: P4QrZB0MdioumL00JcvyMIufnoXnWYJzr+k8k1tiVvs=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/TravelDistanceChal
+ lenge.class
+SHA-256-Digest: DDzVSBV79JQMpz8A7qEagRMybPfC4GB8OnuZAkD/ii4=
+
+Name: com/mrcrayfish/backpacked/Config$Augments$Immortal.class
+SHA-256-Digest: hngNrVNoPWxX1j/Dm4w4jgIVQbgtvBA33REGARTRNMA=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/EmptyAugment.class
+SHA-256-Digest: R6ZQlEmtOnJWDtvegfmNV5u0vaohMHmSPP0sEJ8kOCM=
+
+Name: assets/backpacked/models/backpacked/piglin_pack_straps.json
+SHA-256-Digest: m9GFZHJ9LQFDUBp8RIIGqve3mqfvb8RfztPauYU28cQ=
+
+Name: com/mrcrayfish/backpacked/common/command/arguments/BackpackArgumen
+ t.class
+SHA-256-Digest: YI3jDdDdNHxcKqMxr0O2jM6gS+COpnNbst8APH2BXh8=
+
+Name: com/mrcrayfish/backpacked/client/backpack/ModelMeta.class
+SHA-256-Digest: XGzmg9gO63uG5Ut/lkAdkwq1hDjnDamtGV8g6evRb7o=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ForgeEntityMixin.class
+SHA-256-Digest: A1QE51zCx9WRkNT9mUFKWzmVyjavtJ6hDIt6EOmf3Vg=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MerchantTradeChall
+ enge$Serializer.class
+SHA-256-Digest: /EwH25ImRMEcHv8xoSyiYUaDwowSh0wGzsywKe21CDw=
+
+Name: com/mrcrayfish/backpacked/inventory/container/slot/UnlockableSlot.
+ class
+SHA-256-Digest: lzq/0w/h8WbQsJIV160z9m3uep4IVKCP3h2pPx1lP1k=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageLootboundTakeItem
+ .class
+SHA-256-Digest: YSCk7x7foGXv0Ki/RAgHiPo+SsbrAGrBEf72KgMmCug=
+
+Name: com/mrcrayfish/backpacked/util/InventoryHelper.class
+SHA-256-Digest: GNgAIm8nmfMD0iDTXxKOe6TTA2dfLSX7VpMKDzTnzEU=
+
+Name: com/mrcrayfish/backpacked/client/ForgeDebugClientEvents.class
+SHA-256-Digest: eb9XaSyX/bF455giTkINak81zzKPEY19CIxpTZUJaOo=
+
+Name: com/mrcrayfish/backpacked/event/block/InteractedWithBlock.class
+SHA-256-Digest: LKQoBHHfspg6yqtCx/VAWm0KnAzI3jQxv9HQD/yyKHQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/Stepper.class
+SHA-256-Digest: /Eq6IN4UQow73RPVXBDtbjK/W2mQDHShriu1NcSYF3U=
+
+Name: com/mrcrayfish/backpacked/platform/services/IEntityHelper.class
+SHA-256-Digest: 5pOwrIS2qrdmFjULzbCa6Q7mhkvfVzymretDUbK1G8k=
+
+Name: com/mrcrayfish/backpacked/common/BlockSnapshot.class
+SHA-256-Digest: 0hBki3wryJ9qNuKdoT5+dbxXx0Puei05bEpZWiiIAwE=
+
+Name: com/mrcrayfish/backpacked/event/entity/BredAnimal.class
+SHA-256-Digest: 044NV5gqfO1jw0QthfpbfAatmOymbMNgTO3nLKEyE8M=
+
+Name: com/mrcrayfish/backpacked/event/block/MinedBlock$CaptureTag.class
+SHA-256-Digest: mG7Nk083PqJ6hutUa67A4B5iV0ek4RJtjLVHFgk59Rg=
+
+Name: com/mrcrayfish/backpacked/block/BackpackDockBlock.class
+SHA-256-Digest: fTa1Hw7O5yVSiaF5cf6q+aMCbpj9On8FPGfm3xaqGCk=
+
+Name: com/mrcrayfish/backpacked/event/block/InteractedWithBlock$CaptureT
+ ag.class
+SHA-256-Digest: xdsH02x7BSbwonDw/uvJyx4rEIY2fu8iflrVFDYIUWQ=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Recall.class
+SHA-256-Digest: Tx5Lhp+TKKcjqVX8RdaXx4zbqFmMd1h42VajVGVH1Kw=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/FunnellingMenu.class
+SHA-256-Digest: reYL93bQ5qHbUOK0SaWiorfbLLS1yJye/VWhU+OpDvc=
+
+Name: com/mrcrayfish/backpacked/client/gui/MouseRestorer.class
+SHA-256-Digest: LJF9TgPGlufUEq1KuEYufBkVlE/Kq/k1Qa1URi5LVR0=
+
+Name: assets/backpacked/lang/zh_tw.json
+SHA-256-Digest: E4wsot09rwZgUtolhCi+KEzM0+nSohmyZJJeXs8UlFY=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MerchantTradeChall
+ enge.class
+SHA-256-Digest: 6CwUaDIv42t0ytvwznqUK6LgiIaBWHFaDpi3LmXU+Jo=
+
+Name: com/mrcrayfish/backpacked/common/tracker/impl/CountProgressTracker
+ .class
+SHA-256-Digest: k04SDPUm6gaSI4SrdpRFFz88ng4XCDFqP8dhR0EMsSQ=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ForgeLivingEntityMixin.clas
+ s
+SHA-256-Digest: SMj6yTygz968dE3CtRWI0q8qYvCkQ5bZXLtk9DlwGJQ=
+
+Name: assets/backpacked/models/backpacked/honey_jar_straps.json
+SHA-256-Digest: inCPYnjPxDfE6CRY9x6If49E+V/vmJ2DOegcUw9m4TY=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ForgeBlockMixin.class
+SHA-256-Digest: SWDvNnY1PMyRXX4BcKoyJjzUKVjRIvyx4D2kHBs2C94=
+
+Name: com/mrcrayfish/backpacked/mixin/common/HopperBlockEntityMixin.clas
+ s
+SHA-256-Digest: InD7xVgLyp9WjpVA6FsWhyOcQyxq0VUD+vysAgcDoX4=
+
+Name: data/backpacked/loot_tables/blocks/birch_backpack_shelf.json
+SHA-256-Digest: xY21DRaSNwqys4b9Kx1lzaLeMXZexILKBOhCsYAwcD4=
+
+Name: assets/backpacked/blockstates/warped_backpack_shelf.json
+SHA-256-Digest: qgzZcE+zBG0rwxogMUkeEAfyl3pvRLSX2ePn8joW+TM=
+
+Name: assets/backpacked/models/item/dark_oak_backpack_shelf.json
+SHA-256-Digest: Q6ASQE1KrJMpxS7q4i3QX64q4/OjGjBz1QJ2JynEUhk=
+
+Name: com/mrcrayfish/backpacked/packs/AddonMetadata$AddonMetadataSection
+ .class
+SHA-256-Digest: mocYh3380ebbXuhjzqfEZa0XQAMurWdloOg5mVzx8Hs=
+
+Name: data/backpacked/loot_tables/blocks/acacia_backpack_shelf.json
+SHA-256-Digest: lwVebAkt7NUmHvaUZ4uy8Dw4MowvUiiUSSJCCd5YZZA=
+
+Name: com/mrcrayfish/backpacked/client/renderer/BackpackItemSpecialRende
+ rer.class
+SHA-256-Digest: ADQ2svqAHCa6I02Uo/HM1oeLQmsdpB+NNnJXLBdecGE=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/SeedflowAugment.clas
+ s
+SHA-256-Digest: qGO5iLDaGfisqABiQdUm3pXZtj2ZO5yICpNYyHyBk3E=
+
+Name: assets/backpacked/lang/es_mx.json
+SHA-256-Digest: Y7ikgjnW+htZJnWR6Pqo3PQTVUviYibPi+VikFDPLrk=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/RotateMatrixFunction.class
+SHA-256-Digest: /NuTAEPnPeQXSax+bDHfta3YRm3j3JT4eqR0vcbTyBo=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/HopperBridgeMenu.cla
+ ss
+SHA-256-Digest: uQlELqjJZ1F0aeSr3UETtw5+aH4JUGMauIYlEWdx1Ig=
+
+Name: data/backpacked/backpacked/trash_can.json
+SHA-256-Digest: vhTRz7uu5ylh9dcJHxXH5RA9FuMoOtMnPzSm4uZ4mB8=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageUnlockAugmentBay.
+ class
+SHA-256-Digest: RRPH7TpmxKV+8GlPwKEojQwEx7aTDtiYXYY3c3NvSyc=
+
+Name: assets/backpacked/textures/backpack/cardboard_box.png
+SHA-256-Digest: fnhrolAn1gCnSV/2XXvW6H/KbRNBLc9mFFGKWw4eVKs=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/ItemGrid$Row.cl
+ ass
+SHA-256-Digest: ulCuifIkBZ+pmqdnkGlmRoFRyDdSY9ojRMs+QOFBD7c=
+
+Name: assets/backpacked/models/backpacked/turtle_shell.json
+SHA-256-Digest: 1GRr6Qrdh1Wea59PllhVGQVQpyYvuoDsIwdTaJV6LOA=
+
+Name: com/mrcrayfish/backpacked/blockentity/ShelfBlockEntity$ShelfContai
+ ner.class
+SHA-256-Digest: esUgq08vz9EZxxLGvEvPX+auab2A9eNtjeME+3E7E60=
+
+Name: com/mrcrayfish/backpacked/common/challenge/ChallengeManager.class
+SHA-256-Digest: j/2BEdmnnSBmK/JmUAy8Fr1ZHhPpiOgIkK1c1cRWUMw=
+
+Name: com/mrcrayfish/backpacked/data/unlock/UnlockManager.class
+SHA-256-Digest: bsInm56D3Y8J7pzwaNYuV6texaRb7kFj73dlZyYOpc4=
+
+Name: com/mrcrayfish/backpacked/util/ScreenUtil.class
+SHA-256-Digest: GXulF19v0QF0tIRj2biJtimR45nJmx4BOjGeuUJ5b6M=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/BaseFunction$Type.class
+SHA-256-Digest: bTFmU3YjjjnKuDoNODTtGWZ3tOXHnI/bZLiXKn6yBMw=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ServerPlayerGameModeMixin.c
+ lass
+SHA-256-Digest: BzV9bhEA+wKlPPWaPyUNUnorH+Q9GEn5Jbid6/3YkpQ=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackContainerMen
+ u$AugmentUnlockableController.class
+SHA-256-Digest: JYXYt+Vr/kSDzQtvHL3sWHkNIAbQo4Zn6qfBxDjyac0=
+
+Name: com/mrcrayfish/backpacked/common/CustomDataSerializers$1.class
+SHA-256-Digest: boV/CVX5hZmlisPQnGYi9bP53bd3lIU5kstJh8SJB/I=
+
+Name: com/mrcrayfish/backpacked/network/play/ServerPlayHandler$1.class
+SHA-256-Digest: 4JuRdK4JtZTguJekyuIvA28O30shI/FyYcH1IDXq360=
+
+Name: data/backpacked/advancements/recipes/decorations/acacia_backpack_s
+ helf.json
+SHA-256-Digest: pvG4JlCdaLgK0Ax30w977oHCKcQ3YIvx6O5mTOP+3UI=
+
+Name: backpacked_logo.png
+SHA-256-Digest: fuNGiqVtIzbgELOl+wHkM8IWcPA1lcPqzmFLCgUOE5w=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ ExpressionValue$Operation.class
+SHA-256-Digest: VvxOm+YsEN9uuOKT88Zy1NNwQQfi71HgkLK/RM2fSUo=
+
+Name: assets/backpacked/models/backpacked/wandering_bag.json
+SHA-256-Digest: R5bOFHsabnY4BUnu4/Ujp8sV7t4aShS7fAC1u6NkBuk=
+
+Name: assets/backpacked/textures/backpack/turtle_shell.png
+SHA-256-Digest: emhkQiRtyVSX4M6wOkfkXQj/E7gNC1kECMWds0byOXQ=
+
+Name: data/backpacked/backpacked/end_crystal.json
+SHA-256-Digest: euD0ipDWqIsILtL583K0FNqcmS3LcUqhs1S0j/hZBsA=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/DefaultRenderer
+ .class
+SHA-256-Digest: es40Cy51tWryX4Vg4pyCYEjDzGx5bDPP85Ugmk8gIbA=
+
+Name: com/mrcrayfish/backpacked/common/backpack/loader/BackpackLoader.cl
+ ass
+SHA-256-Digest: qBhaCJO5x8Qwn3D/oy6px735M4Uo6YkBUjp4rEV2DZ0=
+
+Name: com/mrcrayfish/backpacked/common/CustomDataSerializers$2.class
+SHA-256-Digest: 6BbmZ9oHIPEvob6ntFE1JeGuCYYWnkZCIdpLnF5TJck=
+
+Name: data/backpacked/recipes/jungle_backpack_shelf.json
+SHA-256-Digest: e2/ZVR49Bc2jRkIO0OkIivRDCqrKh5ts9ET6DU+7wu8=
+
+Name: assets/backpacked/blockstates/backpack_dock.json
+SHA-256-Digest: 2oK+CK/Zln+4CGJM2nmuVIAarfYzuTN9TLMRn4GzafQ=
+
+Name: assets/backpacked/models/block/crimson_backpack_shelf.json
+SHA-256-Digest: gusJaHSVA26ViJrrISQ4ZdY+m1ENSMEDp5chhCpXnWE=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Farmhand.class
+SHA-256-Digest: 9TXc5f9GQqPlCG3gTIX/o1yMeeTFx7yj7FjX133T22Y=
+
+Name: com/mrcrayfish/backpacked/client/renderer/FirstPersonEffectsRender
+ er.class
+SHA-256-Digest: QMUbcr2aPVN1xJ1q+IKyJTnbjH621m319xLFov5K5/o=
+
+Name: data/backpacked/advancements/recipes/decorations/birch_backpack_sh
+ elf.json
+SHA-256-Digest: UaEqr+d8lSm+8t/10/i4pskuneUMrsvSEKdRdl6DRto=
+
+Name: com/mrcrayfish/backpacked/common/augment/Augments.class
+SHA-256-Digest: SLvFFGCv48dJbExeNB7tZrT1xT29nfjtK97Hx5xuwQ8=
+
+Name: assets/backpacked/lang/es_ar.json
+SHA-256-Digest: Y7ikgjnW+htZJnWR6Pqo3PQTVUviYibPi+VikFDPLrk=
+
+Name: com/mrcrayfish/backpacked/mixin/common/MobMixin.class
+SHA-256-Digest: gaW5IH5HukaTPJf9yeDIqM63lGp03yuB5n4OQ3EGlok=
+
+Name: data/backpacked/advancements/recipes/decorations/cherry_backpack_s
+ helf.json
+SHA-256-Digest: bu5DcdI//G2JI6vylJsVU1OxRIv8rIIZbu0rYLvFye8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/BaseFunction.class
+SHA-256-Digest: 3Cj67jkTomagEMHOOllwJALYxh4nED09Rw6i2B93sv0=
+
+Name: com/mrcrayfish/backpacked/datagen/BlockTagGen.class
+SHA-256-Digest: +cuM9MuGk6ZcyKjnicd8EWi4TRBdXyQdh5PmVvpdRyk=
+
+Name: assets/backpacked/models/backpacked/bamboo_basket.json
+SHA-256-Digest: K7PfdnUKLKl3Z0RSz53QGV12fsBSkZLp/D2mHRC3CLQ=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Recall$Access.class
+SHA-256-Digest: 7nGjwl++VyuHSRd2N/kx6ixD85wBGfByxwB8BG+JEZ4=
+
+Name: assets/backpacked/backpacked/wandering_bag.json
+SHA-256-Digest: VX4g1vSF+2P9OnVWyOHW04I7Vdv10K5QHj7tiNzLDYg=
+
+Name: assets/backpacked/models/item/cherry_backpack_shelf.json
+SHA-256-Digest: tzUPV2IAT0wzwJMaE8DuVnruvbLJONZG/WHj6duzWvY=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackManagementMe
+ nu$ManagementUnlockableController.class
+SHA-256-Digest: RRS/WnPijirdcpKZy2Ebu7NNLO/QWQMDzJx417WxoQs=
+
+Name: com/mrcrayfish/backpacked/common/CustomDataSerializers$3.class
+SHA-256-Digest: Tzf3TnliAOncEnFfNjJU8fdcyUQ6JwKyPax9iosUYQ8=
+
+Name: com/mrcrayfish/backpacked/mixin/common/BlockItemMixin.class
+SHA-256-Digest: EUHUS3LEITx7hOQWD+HfXFvsDdp0fEtbSTuxj0uqf7c=
+
+Name: data/backpacked/backpacked/sheep_plush.json
+SHA-256-Digest: LHdSNfj2nCFl680ogvBpyvFX05wAVrfqIunFbzAiBYs=
+
+Name: com/mrcrayfish/backpacked/common/challenge/Challenge.class
+SHA-256-Digest: x5sZToGvrA2OguCfLYkZoUX6gjnd5IIYhuWKkpY+1X0=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/HopperBridgeAugment.
+ class
+SHA-256-Digest: nQY06lJpEIzLGCBjDytM6hYHr48s3wwRrkOA5+tc0QM=
+
+Name: com/mrcrayfish/backpacked/platform/ForgeBackpackHelper.class
+SHA-256-Digest: fux6A+ebYJJHSZrn1IKz0+ix9zpJG+GgaNRWpofj778=
+
+Name: assets/backpacked/lang/cs_cz.json
+SHA-256-Digest: Czka5T2pl8WRtGxZXJP9HDjzzHbtZh+3oaRGJ8+0jJ0=
+
+Name: com/mrcrayfish/backpacked/common/augment/AugmentHandler$FunnelResu
+ lt.class
+SHA-256-Digest: G83wK5HRzMtUKCPZYV1XfNrs1iQfZkhvFF5OoI1av28=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/LightweaverMenu.clas
+ s
+SHA-256-Digest: xbigLq95IpmauKySLl0vOuIxfzWz3e3W5H6hHvxFL6k=
+
+Name: com/mrcrayfish/backpacked/inventory/container/data/BackpackContain
+ erData.class
+SHA-256-Digest: p0qjonDC2TGjVHObuF6lI0n6k2WmrpXFN5Y4SQDt1uE=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/CustomiseBackpackScree
+ n$BackpackModelItem.class
+SHA-256-Digest: C5PnxaV41s8jzDeti7joGnIhuXCQ64xpXDrf4+BFc8s=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/CustomiseBackpackScree
+ n$CosmeticItem.class
+SHA-256-Digest: voHxEk2SjIJoilPWdRIUPjOazuQElE3/bsZo9lEdz2Y=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncUnlockAugment
+ Bay.class
+SHA-256-Digest: e+oT0cVdaPJMJY8eHbhTqxpdJQERzJK5O+ZiuqwhAek=
+
+Name: com/mrcrayfish/backpacked/event/block/MinedBlock.class
+SHA-256-Digest: qEsaRGt+fnehzzqGmPhw9Ypyq1xVqrjBSH4RQnX8zaU=
+
+Name: com/mrcrayfish/backpacked/common/challenge/ChallengeSerializer.cla
+ ss
+SHA-256-Digest: Bm1G3GPmjUMCkg1U0QfA0pOFSr1ARTXDxy3WXYZaNkg=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncBackpacks.cla
+ ss
+SHA-256-Digest: t+4LqBxEcP0/z11ssx3HHVyTPaPuDP0NKzJkyhVXyRo=
+
+Name: com/mrcrayfish/backpacked/core/ModSyncedDataKeys.class
+SHA-256-Digest: l48TvcMVNAsAzbruHtEzE6Yu+ayXznLdTVzYldyaXhw=
+
+Name: com/mrcrayfish/backpacked/util/BlockEntityUtil.class
+SHA-256-Digest: 9VdpHhD3PwzoYfBC2yLvJoZ4/NAvQ1FCXHkd3dWN14Y=
+
+Name: com/mrcrayfish/backpacked/network/Network.class
+SHA-256-Digest: xkk9Bb0Z06s2PY9wRm+HKD4cAA7nOE/eW3otvViAUwA=
+
+Name: com/mrcrayfish/backpacked/core/ModContainers.class
+SHA-256-Digest: 84+W8c92tt+oL3FQETVM25/GzyVt/JPZPp6jk4WSvVI=
+
+Name: com/mrcrayfish/backpacked/common/CostModel.class
+SHA-256-Digest: 1ieNoYkBEPnN7g3NeNzST18E0N9RLKb5aNofwoGJ6dQ=
+
+Name: assets/backpacked/models/backpacked/mini_chest_straps.json
+SHA-256-Digest: In4w2nW6uUDqwTvBwudj2FqpZ90zBCOlCnQTMjAP01Y=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/RecallMenu$ShelfStat
+ us.class
+SHA-256-Digest: NuldVP3+CjuqJz3yV9GbO/A+ONwGh6R3Zm2fsyo70rk=
+
+Name: backpacked_icon.png
+SHA-256-Digest: 4G1rRVJtVV2Bxa8MKIngTP5y0xlf7yfdt+SHwAcu8I8=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/Divider.class
+SHA-256-Digest: 3O+n+qm3ks7FddSQjhS0EtU8aCtFSYN7XMEgK3x5JH4=
+
+Name: com/mrcrayfish/backpacked/inventory/container/UnlockableContainer.
+ class
+SHA-256-Digest: Nhuet50jKC6n++uMFpfIDeU4OIO7GODzQwy2jH8MVJU=
+
+Name: assets/backpacked/blockstates/jungle_backpack_shelf.json
+SHA-256-Digest: 2t1p/FgJOXVmAitsoDNP8bRoWt3ESLoquJmdZtt0J9c=
+
+Name: assets/backpacked/backpacked/vintage.json
+SHA-256-Digest: hiV5SagoAhcqX1Sixyv5+tvMS3mqlG+hCywbEoZdbLo=
+
+Name: com/mrcrayfish/backpacked/inventory/container/UnlockableController
+ .class
+SHA-256-Digest: g5eq+rZ90UHD6/dZgIZX2lBoWHjmcKHXFEJgCwp2dIg=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageResponseShelfKey.
+ class
+SHA-256-Digest: +yrCHLpMZ1p1UAfJ+3UVTRLCG/3ToKRaa4Dqc3qh3Vk=
+
+Name: com/mrcrayfish/backpacked/platform/ForgePlatformHelper.class
+SHA-256-Digest: kFn/Vy/DBQltaRpAZhXtSdX6frUvZvPHNv7lRAlcL6o=
+
+Name: assets/backpacked/textures/block/backpack_dock.png
+SHA-256-Digest: HkW0JTVt4stRKI+YJTmTvcgiymaDLLp0/Gf5zzxHaiY=
+
+Name: assets/backpacked/models/backpacked/cogwheel.json
+SHA-256-Digest: vlg8qM73Vy1bMTCuW8nHH58d8WzbemjA6UdZyGGGEG0=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Farmhand$Access.clas
+ s
+SHA-256-Digest: QWOIAiAi90pMtSDLhCXHm2vOg/1TkJ/63Zsf/qmRoEQ=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/KillMobChallenge.c
+ lass
+SHA-256-Digest: 7o4vmn707YD971vNP7bjORL1QeZqCwKApyT9tSAfMKA=
+
+Name: com/mrcrayfish/backpacked/client/backpack/ClientBackpack.class
+SHA-256-Digest: j7qc37X3QwqJ2Q+yoEvk92e4hjpLBuxl/IeOLGe5piI=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageRequestCustomisat
+ ion.class
+SHA-256-Digest: ziO+xu0klkLeoMaMupWSdgbK7V+fTR33xX0ejMktZys=
+
+Name: com/mrcrayfish/backpacked/integration/jei/Plugin.class
+SHA-256-Digest: O82vzJav+9PnUKXB9oFVUoLcH52HczQrdaUwRqUkuo8=
+
+Name: com/mrcrayfish/backpacked/client/TextureDefinitions.class
+SHA-256-Digest: LBzUDtrBKu2r8pIToWbt1WV+Y0zpchgeIF92egHYtsU=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithBlockC
+ hallenge$Serializer.class
+SHA-256-Digest: sgvJSmTs3aMNIQ2SDoKHeBAbJyQaBBxTtUJKDHQr/jw=
+
+Name: com/mrcrayfish/backpacked/core/ModPointOfInterests.class
+SHA-256-Digest: ydeztillt0OZANbCjK+LjwQu1EORbAzK2WnG6hNNnVE=
+
+Name: data/backpacked/advancements/recipes/decorations/spruce_backpack_s
+ helf.json
+SHA-256-Digest: Q1c1Dv6FP58C6oa6B6ClM6odeaLFc/PTu1TOj8NrvHk=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/ImmortalMenu.class
+SHA-256-Digest: vHxREw36k9fQg7Rfq864ArNHRz/2Lug/imPK29G/Yq0=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ DropdownMenu.class
+SHA-256-Digest: BIu/te75+mJK38gyFTU5ujteC89x+G+juqQtoE9MU2I=
+
+Name: data/backpacked/loot_tables/blocks/cherry_backpack_shelf.json
+SHA-256-Digest: v7WQzHbwJA0WxtsdGSUg3KCR5CXOhZBjoO9MUvTeHKM=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/DynamicIcon.cla
+ ss
+SHA-256-Digest: XE4qAvge3A1UCySr4qyEAvopVwFER+DBTPXqIhlLptE=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithBlockC
+ hallenge$Tracker.class
+SHA-256-Digest: Ee4GWoRnb2uyXywc+ecVlEWHBg8+l+YQKMfwYSMrU3Y=
+
+Name: com/mrcrayfish/backpacked/client/ClientHandler.class
+SHA-256-Digest: GEdfk+tOuTaJtBxqojZ/7Qg/fLPLsdTYHxVLoZ2Exs8=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/FunnellingAugment$Mo
+ de.class
+SHA-256-Digest: HVzIQaYbeKoCa5a2OsaR1bkBDyCvBq0qtHPiOHDkMMg=
+
+Name: assets/backpacked/lang/kk_kz.json
+SHA-256-Digest: lsWdy+KN2v8PTld89QZslwtQqve+G2xT4dizSct78Hc=
+
+Name: assets/backpacked/models/item/backpack.json
+SHA-256-Digest: XazKKH06k5xz2K5ukhErgbSqlKsf6DYb8kLlS7A09E8=
+
+Name: assets/backpacked/blockstates/birch_backpack_shelf.json
+SHA-256-Digest: 3pHmldzjm6jd95TA1yLTUaLbe6TmGg7yhccktQ7GFAA=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MerchantTradeChall
+ enge$Tracker.class
+SHA-256-Digest: vuXEscS/fGMfKG146oRP5Zu1bL9BxjBM01KNbt82S1E=
+
+Name: assets/backpacked/lang/pt_br.json
+SHA-256-Digest: YpPU/cTcBx3/vd6PWBQKFKvAaF3zW830/b4FEs8FJgk=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/BackpackRendere
+ r.class
+SHA-256-Digest: F+AptfqfQgOk0aPm1Xh20Z3dlgTrHWIOjvbUnMW73Os=
+
+Name: com/mrcrayfish/backpacked/inventory/container/CustomContainerMenu.
+ class
+SHA-256-Digest: ids9ssctUss8X2H+LrP/KkVL4F5g+Jg0Fr+FzpFKXqE=
+
+Name: com/mrcrayfish/backpacked/inventory/container/data/ManagementConta
+ inerData.class
+SHA-256-Digest: xwWhfF+agdBwYaBYjQ8qCp2ULl9i/fdz2aDv2/ZL1qI=
+
+Name: assets/backpacked/models/backpacked/wandering_bag_straps.json
+SHA-256-Digest: tm+ov1cTOxh8/Uyfz9ZaStKBleCSdNeIN7V2JhI4yn0=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/RenderMode.clas
+ s
+SHA-256-Digest: GFEaU/G+zdwPSyxYoeOyVzEmaR5ofCuwE1mz8ztBEHk=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ WaveformValue$Waveform.class
+SHA-256-Digest: qfxG1i3pSP1VzrTw6YN4IOCpZv4rQ4LqX7ep8I4MFT8=
+
+Name: com/mrcrayfish/backpacked/common/augment/Augments$1.class
+SHA-256-Digest: IOd+JuWk1rUW/7uGEqpNYY4FUwY6+tJ+i0WNf8ULpkc=
+
+Name: com/mrcrayfish/backpacked/datagen/LootTableGen.class
+SHA-256-Digest: v6WWeOCQ51ToeyIMObPCBIWONbKLD2m3M3ULN8uzf5Y=
+
+Name: assets/backpacked/models/backpacked/rocket_straps.json
+SHA-256-Digest: rm/I9KEsYN5uaiB9jTd4b/eB5cDLtw0pFtO+gzu6cZo=
+
+Name: com/mrcrayfish/backpacked/client/ClientEvents.class
+SHA-256-Digest: NnzKMQZzDXJHjBgJN1w9vVgdB92hWDpAlxFF5jqq390=
+
+Name: com/mrcrayfish/backpacked/core/ModAugmentTypes.class
+SHA-256-Digest: udII7ytWL9IyiSE1Z5hzFBgtabjz5UGKE9k+KVhL6DQ=
+
+Name: com/mrcrayfish/backpacked/core/ModSounds.class
+SHA-256-Digest: z8l3YN5Ey7F8ZY0MUCERag6+AqcNt83sC688cTmMydw=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Recall$ShelfQueue.cl
+ ass
+SHA-256-Digest: aPpAOL3TcWYyJt2Y+QoXYOWKbsT5FfGZfnoX5yHQm4s=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ item/PopupItem.class
+SHA-256-Digest: wqnAkrvwXaZ6tiR4ktY298q19lGXtdzL20gYDiToi+E=
+
+Name: com/mrcrayfish/backpacked/inventory/container/SyncUnlockableSlots.
+ class
+SHA-256-Digest: 4jxgbmmXMBeKxsrDbkItYIiVRWuZDf7q4TNtmhftXcU=
+
+Name: com/mrcrayfish/backpacked/common/Pagination.class
+SHA-256-Digest: V7+QQ+6fF/G5h57a7hsHFFmG2KSiSflpTsJJ7D6GrNE=
+
+Name: com/mrcrayfish/backpacked/common/augment/AugmentType.class
+SHA-256-Digest: hvr/3+tSICGpQopn/tHJvm5CCQcE9a9YDbovWIPoz0g=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MineBlockChallenge
+ .class
+SHA-256-Digest: GwN2T5tN6UiJx3BMV8X7wN3N9nsLbCjgigl1fVe0FaI=
+
+Name: com/mrcrayfish/backpacked/common/challenge/PredicateUtils.class
+SHA-256-Digest: Twtebez8Oq3fhElwneErLIsHkufzrSnmHpMYQjmaaVo=
+
+Name: com/mrcrayfish/backpacked/common/CreativeCategorySort.class
+SHA-256-Digest: xM4GrERjhwJdLfD/F3FNdSSieeCVXKVSVFO48lVE780=
+
+Name: com/mrcrayfish/backpacked/common/UseItemOnBlockFaceContext.class
+SHA-256-Digest: K7pabR8GcXiwMrgmlllwgzcRYdRJRuRMl1MhJRTITrY=
+
+Name: com/mrcrayfish/backpacked/event/BackpackedEvents.class
+SHA-256-Digest: iU+F/zDqe15tC0ZYgDFCB4E4K7+dG0c2zet8mnwyYpY=
+
+Name: assets/backpacked/models/item/unlock_token.json
+SHA-256-Digest: 07QOI6VF9OTWhtfkJ1sRZsBONG1s6RHphZv9WzBDCYY=
+
+Name: com/mrcrayfish/backpacked/platform/services/IClientHelper.class
+SHA-256-Digest: DLKoG8YqwtSCH41q1Z2H6VOUnr/kQQzfmzvNc4yua70=
+
+Name: data/backpacked/recipes/spruce_backpack_shelf.json
+SHA-256-Digest: TaFyslywEL2Ugr40TY0dI0uoThMfkQYycvvvUsPYxC4=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Farmhand$DelayedPlan
+ tTask.class
+SHA-256-Digest: DYbU0IAfmUGI34a4vnHQZSkd8L4/e33f/T8ZKsUxHW4=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/FunnellingAugment.cl
+ ass
+SHA-256-Digest: QA1ttbBipwUGkauJlCL9VQAxfuKVp/UwbmRk0zfdNoQ=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSyncUnlockTracker
+ .class
+SHA-256-Digest: O6aDGpOAyXfx68LouurQHuQJUEnlkjJESRWmdvpzv7A=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/ExploreBiomeChalle
+ nge$Tracker.class
+SHA-256-Digest: G2C/DHG+9VqgN75Yr8dzigP30y+788TTKofOkrGDlPg=
+
+Name: com/mrcrayfish/backpacked/common/CustomDataSerializers.class
+SHA-256-Digest: n8pO9J5JzMkaaZFOatdk+mvwbOJmnazGoAq2nCHpWdE=
+
+Name: com/mrcrayfish/backpacked/common/predicates/CraftedItemPredicate.c
+ lass
+SHA-256-Digest: pq6UYOXo4g+oecCG7MaMenSZMGx3+0+ibWu4jfMbK9M=
+
+Name: com/mrcrayfish/backpacked/mixin/common/PackMixin.class
+SHA-256-Digest: eeo9FRKAbBaCdEAaeH/08Vt//sEnowaBr5RrEQqiCC8=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/FeedAnimalChalleng
+ e$Serializer.class
+SHA-256-Digest: CM+VadykXQOHSvwKdbCWYs1+CusXgZFgDGWpqEvWMkE=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: GsS5dBbv64RpAJOoD9aXOUsjCaAS3i+GuJDJxIO3SoM=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ ValueTypes.class
+SHA-256-Digest: GSuxDtTFJR2D53QP65Nb+OdxrZDQIc7vp+4/lXaMWIU=
+
+Name: assets/minecraft/atlases/blocks.json
+SHA-256-Digest: G2PJEyALUGXcJHV5qjMx31JNON1u3iSVdHzM9Lr8PkE=
+
+Name: com/mrcrayfish/backpacked/client/gui/ExperienceCostTooltip.class
+SHA-256-Digest: 6QouZ/5IycJc39o3O7ZjDk0eIhSe8+64CluU9GPoFTc=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ TickCountValue.class
+SHA-256-Digest: rtMdNXLGcM4NVLvhpswc0pfxxHHlQFEQb18zT14HrY0=
+
+Name: com/mrcrayfish/backpacked/common/augment/Augments$Position.class
+SHA-256-Digest: aOkbYqkAU+E4ZDg9N63Yww1JE72V0jGkbCojSWtskdw=
+
+Name: data/backpacked/advancements/recipes/tools/backpack.json
+SHA-256-Digest: ocU0tYKGLQ+cpwuYZAdumt0EJi5pCjWE5uTq3S8cxCE=
+
+Name: com/mrcrayfish/backpacked/packs/AddonMetadata$1.class
+SHA-256-Digest: ZjmEFSlB37yJZUlz0c5TcvLXMoQActIFcl6EhszzwLY=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/DummyChallenge$Ser
+ ializer.class
+SHA-256-Digest: 67pkOdZsMhQu+IaI5dwyzAaidBkS1lZlM3ihczpLiOg=
+
+Name: com/mrcrayfish/backpacked/mixin/common/BlockPredicateAccessor.clas
+ s
+SHA-256-Digest: ZnoxyOpeIuauX7VmZLriZLKWKk5tuxERnydFujkBo3A=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ ExpressionValue.class
+SHA-256-Digest: Eov2j0oSqaW9yaT871eYJ/tX8dhGP33RoOB+uiHXqxY=
+
+Name: com/mrcrayfish/backpacked/common/backpack/UnlockableSlots$View.cla
+ ss
+SHA-256-Digest: wTvHGaatGdY94nh8jT7Tjbt9Uz3CwxwxBnoB6SY74r0=
+
+Name: assets/backpacked/lang/it_it.json
+SHA-256-Digest: LvDnjMphReMIPCpyCCK/BfdPbI93Js48QYIgUDVOcCk=
+
+Name: com/mrcrayfish/backpacked/event/entity/ExploreUpdate.class
+SHA-256-Digest: wip9+dFv5oh5/OTURTz+NgD4cnMgkX5cuyA7dvZmf5s=
+
+Name: com/mrcrayfish/backpacked/client/AugmentIcons.class
+SHA-256-Digest: wGpNwPGCqAXuq4ak/0GiCJ8gnSG65ILAW3wzBFqQjpE=
+
+Name: com/mrcrayfish/backpacked/common/augment/AugmentHandler.class
+SHA-256-Digest: SUCln8ngegz9v/ojDGwp/FQ1n/EhrXxGWJ9ezMQqD/M=
+
+Name: assets/backpacked/lang/en_gb.json
+SHA-256-Digest: fCC9M5ILNVhpSse3jRfBYq8rJPksxXWKVfWOBD7e2aw=
+
+Name: assets/backpacked/models/block/warped_backpack_shelf.json
+SHA-256-Digest: tDFK+jNrC/jJcCoeuFXHldyA1pUpG7ym3/jV2M3/F+I=
+
+Name: data/minecraft/tags/blocks/mineable/axe.json
+SHA-256-Digest: tnOOz+xijA/SsKCmowGcZCW/1Fz7j9Mc9YHyeLBA89s=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/PopupMenu
+ Controller.class
+SHA-256-Digest: Xv0TsDTyyWRH+tH3RHc+nOg6wg1aNpRzFRr+1YsZd4o=
+
+Name: com/mrcrayfish/backpacked/inventory/ManagementInventory.class
+SHA-256-Digest: +VYjGGdMucOAgcY+f23tWb/YzgQdgkIzLl2K3oyWelY=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$Inventory$Slots.class
+SHA-256-Digest: P+4jlMIiZVkMwULOx/w7qFy7wpVU858k+I8ViNez5u0=
+
+Name: com/mrcrayfish/backpacked/blockentity/ShelfBlockEntity$BackpackShe
+ lfContainer.class
+SHA-256-Digest: nH+ftDy1NYiYYGLztbjJ20FgWHt7uwo/I9NnGuv4rTo=
+
+Name: data/backpacked/recipes/backpack.json
+SHA-256-Digest: yFnnbsqGJVXqACQdQp81GZh3dcRwGFjtciE25jxyFOs=
+
+Name: data/backpacked/backpacked/classic.json
+SHA-256-Digest: RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o=
+
+Name: assets/backpacked/models/backpacked/trash_can.json
+SHA-256-Digest: H8ZRRjdaEIcjPnOF4AZ15w07Kt7hEzJhWs1QKHi9ams=
+
+Name: com/mrcrayfish/backpacked/core/ModCommands.class
+SHA-256-Digest: YYQmYtPcDx1iyue9LdBwRxs+8zGWCO+p89xYbnQjY+k=
+
+Name: assets/backpacked/lang/fr_fr.json
+SHA-256-Digest: Tgp3289b7yguSkYI+2WBscLngmw9q60Yiv+HX3vvSI8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/RendererTypes.c
+ lass
+SHA-256-Digest: jHDryaOprVxBsaIdstFRZP3ZPoxoSU4l6tLRLj/wd+0=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/ConditionalFunction.class
+SHA-256-Digest: qOkR1poJClIxOce0OudDZYohnNtmxkVxfvRHsvC21Mc=
+
+Name: com/mrcrayfish/backpacked/util/Serializable.class
+SHA-256-Digest: uewz5HNZou6mzxbLM7XJg9WTg70kQGU3jaXU0fOyozI=
+
+Name: data/backpacked/backpacked/cogwheel.json
+SHA-256-Digest: snLHBUByMeKf2bMHj0TiHKzxCHXxRNcV/RwYA6/USc4=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/FeedAnimalChalleng
+ e.class
+SHA-256-Digest: hYAA6DugiSvLa92B8zVThmq8LE0As036V7zROoFnofQ=
+
+Name: assets/backpacked/models/backpacked/cogwheel_wheel.json
+SHA-256-Digest: GptmqurnZquxHf8WBK/kn76ckrnWFY5M09aXVSlX6mI=
+
+Name: assets/backpacked/textures/backpack/rocket.png
+SHA-256-Digest: OR4ThxszurOwAPpkGVIHilfRBafQO3IK5iE81PCDh9Y=
+
+Name: assets/backpacked/models/block/birch_backpack_shelf.json
+SHA-256-Digest: jSCAB8pblF2c7Met1ZUit6x0rHnsIQmu6m/ESXAYqL0=
+
+Name: assets/backpacked/blockstates/spruce_backpack_shelf.json
+SHA-256-Digest: nHCrIZ2EEtV+BrIk1/cdlvVTWE/7GcuPv6lyxTfHVlg=
+
+Name: com/mrcrayfish/backpacked/event/entity/PlayerTravel.class
+SHA-256-Digest: 3nvbGlbHYkxcTA7sxUTqa9XjjolUgVMGr7o2snVRdfo=
+
+Name: com/mrcrayfish/backpacked/common/IMovedAccess.class
+SHA-256-Digest: N/XKH1gs73MYmofOImFWAylLq9SLjUWbTpmGoo9U9wY=
+
+Name: META-INF/services/com.mrcrayfish.backpacked.platform.services.ICli
+ entHelper
+SHA-256-Digest: RjuFrn5nbjHaEorMu3V4DVT+ULQhxQ0SW0+31lGi0FI=
+
+Name: com/mrcrayfish/backpacked/inventory/container/slot/ConditionalSlot
+ .class
+SHA-256-Digest: 9fVwyrWSZ553soHzFfVEtV+6ZEVk3QEnq2wP7Vwy8ks=
+
+Name: assets/backpacked/lang/de_de.json
+SHA-256-Digest: 8rCW1DsSpr1KRKRxIPnCKgdNzZPxbo3BagUxof/bnt8=
+
+Name: com/mrcrayfish/backpacked/common/CreativeModeTabAccess.class
+SHA-256-Digest: U796ikC+ZzsccEL8Lb+UVwrYmGiewQZn09XUUjYyC48=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/AndCondition.class
+SHA-256-Digest: 6B5zN1AATLdO2VQddhC2itLx/MWTZ9Y8lrZ9tnBaRGI=
+
+Name: com/mrcrayfish/backpacked/common/ShelfKey.class
+SHA-256-Digest: MdidhugoXIrLFvTxj874veTwzJHZM9twaYO4jdOwae8=
+
+Name: assets/backpacked/models/block/dark_oak_backpack_shelf.json
+SHA-256-Digest: gsD2fskmmnBDbor2iR1znFwpkcglWdu/B7+xSEKfg7A=
+
+Name: assets/backpacked/textures/backpack/end_crystal.png
+SHA-256-Digest: px2ag66SRzoqBYMapHRSK0Fun2CrD6z0I/mAVzcBjX8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ LevelDataValue$Property.class
+SHA-256-Digest: mqLelR5ItM4Q4uUANasbYXCdZF7oR+xq7mXjS+zs3Dk=
+
+Name: com/mrcrayfish/backpacked/common/WanderingTraderEvents.class
+SHA-256-Digest: Bo6RdWzMhHNqkUfhuWSHLFKx1SPrdDmzfqVr067UQIo=
+
+Name: com/mrcrayfish/backpacked/event/entity/MerchantTrade.class
+SHA-256-Digest: suSp+80P8AYzvM+vY4u6fwQvTU1xnArDCQBxT49GUy8=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/QuiverlinkAugment.cl
+ ass
+SHA-256-Digest: xScFyC/LVi91p8g2yXL8JLc/kQKkk194+5hjYY7p3Ag=
+
+Name: data/backpacked/advancements/recipes/decorations/oak_backpack_shel
+ f.json
+SHA-256-Digest: SzizXbc+Qk3RNF8ytEnOI+qo8ybCMbT4kYsOBsePArM=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageSetAugmentState.c
+ lass
+SHA-256-Digest: /m2XshK0VrOkYajCk1NVO/4JPPl7lntZaP80kXonRzQ=
+
+Name: com/mrcrayfish/backpacked/blockentity/ForgeShelfBlockEntity.class
+SHA-256-Digest: NI0oMMB4NtUtw4mXZe2wCZz8NBTCt7D/nAJcnjSn+ko=
+
+Name: assets/backpacked/models/backpacked/classic_straps.json
+SHA-256-Digest: YiDxAm+GKLuU/JRKfb4EQKbZfdSNrdoocUDdzI8wZwc=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ Operator.class
+SHA-256-Digest: t32aCrHLoW377Q6RCxSHNWTUhzSWN0JkRZO7AdpjBNc=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/BreedAnimalChallen
+ ge.class
+SHA-256-Digest: AaeDVUL/XVaj7HdxN1K+kESg6rn1lMt7QqiVWrrkkgs=
+
+Name: com/mrcrayfish/backpacked/common/command/UnlockBackpackCommand.cla
+ ss
+SHA-256-Digest: Z4j/6tpabXgLtTTB1Gi2lXKcLbNOQVXXSzoXaxu1iPc=
+
+Name: com/mrcrayfish/backpacked/Config$Server$Pickpocketing.class
+SHA-256-Digest: VfJuWkj9kT69a3y9mPuKGsbMZxaa3j7AAe6QkrIJy8g=
+
+Name: com/mrcrayfish/backpacked/client/gui/StateSprites.class
+SHA-256-Digest: I/iVWuZIl/Nvqo+AP+r/FXC9wbx1+otkpXMwndQ67v8=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/MineBlockChallenge
+ $Serializer.class
+SHA-256-Digest: AGf/xvlvtQgK0xtILK4dT1HnvLsLDqjHvFfsAAIvG/c=
+
+Name: com/mrcrayfish/backpacked/network/message/MessagePickpocketBackpac
+ k.class
+SHA-256-Digest: ulUSPuKp3zqHHYRk4Hcpg+pVdlgiqqyX0jGZy0G90JM=
+
+Name: com/mrcrayfish/backpacked/platform/services/IBackpackHelper.class
+SHA-256-Digest: v+DxkdzmZANqnVfag/rpMqCDZ6dtWsnNkUI+pibqpJY=
+
+Name: assets/backpacked/models/item/oak_backpack_shelf.json
+SHA-256-Digest: RYOQzXZwbOAdBjnP3qPMggkWpVxkZOBjUER5pftW+A4=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithBlockC
+ hallenge.class
+SHA-256-Digest: c4WKwU0ewiAsa0HFmq71N1yE2uAWvBZBue7CPXb6w40=
+
+Name: assets/backpacked/models/backpacked/end_crystal_inner.json
+SHA-256-Digest: ed9pVwdU/flpbGrPu380Ena6v8go+8l/yugUATQYYkA=
+
+Name: assets/backpacked/models/backpacked/vintage_straps.json
+SHA-256-Digest: JM+GVtKBdebmSkQIliTVcPSzfBI0y1jQB4jKRRg3qzw=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/texture/TiledTe
+ xture.class
+SHA-256-Digest: NUqeOXq60KnrRvZ9qBXcka8gL/9RfLRXnUYuMJ6sdFY=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/TitleWidget.cla
+ ss
+SHA-256-Digest: 8iuZrY8gI5jvsAoyTlEiotyCtHHWsqKfdKeOwnw0o0A=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$UnlockCost.class
+SHA-256-Digest: 8CEyPcVPEKmhdskshkmbHfPxudlIfNZg8zzaaL/mTew=
+
+Name: data/backpacked/recipes/acacia_backpack_shelf.json
+SHA-256-Digest: Dq5rrLB4avtyQTpZcI3HVwUPM6OYbDYcpvcPoPqEUhc=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/LootboundMenu.class
+SHA-256-Digest: Ct46hGGNAldkPdvKNw+ccweOD5WR/d1SnL4jY07phC0=
+
+Name: assets/backpacked/models/item/birch_backpack_shelf.json
+SHA-256-Digest: R/QyQDm7xXiZAVBuTdNElUGCoRfbI6IDSZU1c4EJFWI=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/CraftItemChallenge
+ .class
+SHA-256-Digest: Azk///loTMZbg2d1Vx/zDESTztpaSoLciqKpjcD0NRw=
+
+Name: com/mrcrayfish/backpacked/core/ModArgumentTypes.class
+SHA-256-Digest: KnV+CsQgktMN5IVbbyZmkJb+fjnXF8Nq/s6NRuG2ICQ=
+
+Name: com/mrcrayfish/backpacked/mixin/common/MerchantResultSlotMixin.cla
+ ss
+SHA-256-Digest: YRtexYj1rdPaz1MZvceDNGIDCeTWCrKByFY09kQYl9Q=
+
+Name: com/mrcrayfish/backpacked/platform/services/IPlatformHelper.class
+SHA-256-Digest: FbQbJhce9Ub8iB+6KQMnmL6ut2PfXl5zcNegXYzQ6oc=
+
+Name: assets/backpacked/blockstates/cherry_backpack_shelf.json
+SHA-256-Digest: PwBF4YC9qD6q2tzzZX7sITzTtpmYLOgUBHqngTE/Bac=
+
+Name: com/mrcrayfish/backpacked/common/backpack/UnlockableSlots$2.class
+SHA-256-Digest: FxsItJQ+UX4Lawv7PkoQqorGT0oNlDAySEzX7bkx4S0=
+
+Name: com/mrcrayfish/backpacked/data/unlock/UnlockTracker$Serializer.cla
+ ss
+SHA-256-Digest: sA5Hr7rIopDT0/04Efkc64ikgfWfm052CBLfpx4odoM=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/PushMatrixFunction.class
+SHA-256-Digest: 54j3i/zbybEm/ewSG5ifoskvKVX8YwmthcrwBF+tULc=
+
+Name: com/mrcrayfish/backpacked/common/WanderingTraderEvents$PickpocketL
+ ookAtPlayerGoal.class
+SHA-256-Digest: 3YYb7PRSEG+enmFuccydAhZKLZjciS8IJiBxeWDIxlk=
+
+Name: data/backpacked/loot_tables/blocks/backpack_dock.json
+SHA-256-Digest: Kl9thiJa4pKdKmbK3paELibuu/vdZK/RN5TDJNb2u+M=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/BackpackButtons
+ .class
+SHA-256-Digest: qU7xuipwDbk5COFLt31ZSuUXYjCNMUCnow+MU9u5Ek4=
+
+Name: com/mrcrayfish/backpacked/common/augment/Augments$Cached.class
+SHA-256-Digest: S3rlsX4yg+k+7tnu4iLRjvrCV/h09hMn0PEiZUdSWTc=
+
+Name: com/mrcrayfish/backpacked/common/InventoryAugmentSnapshot$Two.clas
+ s
+SHA-256-Digest: zAy41a2q4eLTpoqWBXRXJnW+qEsbAEnJx6prZYHP+p4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/ManyCondition.class
+SHA-256-Digest: SsEVRGeHyx+rxHqhB1CKbFKp8kYCBut9PEXegxhVhgw=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ LevelDataValue.class
+SHA-256-Digest: EAY0Vwrh3uiXJoZYK9u+3l1oEFF9amRoVUMH8MZVu5I=
+
+Name: assets/backpacked/textures/backpack/sheep.png
+SHA-256-Digest: A+2CRJe5WlKq0HIKy1rsqPc+Cr0JB9PLwpz5WGPKBzo=
+
+Name: com/mrcrayfish/backpacked/common/ItemCollection.class
+SHA-256-Digest: HnvUwjgJVxEO7rB8ikzM4WyREqG17J96n8Oog7e1sic=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageFarmhandPlant.cla
+ ss
+SHA-256-Digest: JiYw1sUQSl2vGmmT6+j+85ipGziyziNmG5jpZevWZnI=
+
+Name: assets/backpacked/models/backpacked/cogwheel_straps.json
+SHA-256-Digest: sG7nsy4p4uoEbbMGlTvzDQUJ96EB778dQRai/jV9zyk=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ item/CheckboxItem.class
+SHA-256-Digest: gOnGEJWNdogKZhlOFQCszdvWDg53wnOwQSavs3lAA7U=
+
+Name: data/backpacked/backpacked/cardboard_box.json
+SHA-256-Digest: Ehbi1KyvphH6k7UIGCJkm25IcEXKAMAENTDSM5Ioezg=
+
+Name: com/mrcrayfish/backpacked/Config$Server.class
+SHA-256-Digest: L4Rx3y4D+d9O1rrjnPv5ue1llDMKV/tK1yEDqPRu1Ps=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/BackpackMana
+ gementScreen.class
+SHA-256-Digest: GkGo6GtukV+E4R4EfVQuzMyJs3mRhD0OeCjyHKW47Vs=
+
+Name: com/mrcrayfish/backpacked/platform/ClientServices.class
+SHA-256-Digest: harbncy+IL6b0u+lnOJeGMUeIO7sDlqWAoRNoHZKa5Y=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/SpawnParticleFunction.class
+SHA-256-Digest: A5NR9FrgUbuipmy7XEsrUoCFk4EPqa5S0mdmZxli12s=
+
+Name: assets/backpacked/lang/ru_ru.json
+SHA-256-Digest: FUgvlNct0881y5Yu1Gak/kh3vJR5h2HtWh7krp2uVl4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/InvertedCondition.class
+SHA-256-Digest: kwXnRyb6MDHHpzrl7GY4KcLNecJhgJDsmar8oPlv4f0=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/KillMobChallenge$T
+ racker.class
+SHA-256-Digest: O7kTfxNkJo2HxsOIpROfM24zSVDeL9AdFkWFCZ70lic=
+
+Name: assets/backpacked/blockstates/oak_backpack_shelf.json
+SHA-256-Digest: JQNeczzmqo/IAX8rog3llEmZ7k7IjvjFihRhDPz9Azs=
+
+Name: com/mrcrayfish/backpacked/mixin/common/PlayerInteractTriggerMixin.
+ class
+SHA-256-Digest: NIbyIlnmyTmmo0hQGMQHfDtZ1ZPRC+0IsTZaVRPkzjA=
+
+Name: com/mrcrayfish/backpacked/client/gui/toasts/UnlockBackpackToast.cl
+ ass
+SHA-256-Digest: 9fRzypXEFs+Kx7Y3frPKeL+cVF+LxJ3C6+j/pPnxK/I=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/ScaleMatrixFunction.class
+SHA-256-Digest: phSymutsFCdnCUzmwfmccHStQOnAnDH+a+wrYhexC8Q=
+
+Name: com/mrcrayfish/backpacked/Config$Augments.class
+SHA-256-Digest: z//AFR9Nw3YhMjalu9+JC2ENYJDNXr3s1g3OKDbgXL8=
+
+Name: com/mrcrayfish/backpacked/common/tracker/impl/CraftingProgressTrac
+ ker.class
+SHA-256-Digest: Y9DSAMYP8tSTIL2utiZlPKmfAj31QC3uX47SL7I2ySo=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/ImbuedHideAugment.cl
+ ass
+SHA-256-Digest: 44QQL50/vJU8RZUe0Tg64TSQYjc6Zq8Ti+RdkzTgPhI=
+
+Name: assets/backpacked/models/item/crimson_backpack_shelf.json
+SHA-256-Digest: upF5B25W3/B5GNJLC+fIZV65eiUM4egE1g9oc1mOPdw=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/BackpackRendere
+ r$Type.class
+SHA-256-Digest: JEV6chNn/fEA8KncW9/4PIEVmsKiJgEjNd/PvernW/s=
+
+Name: com/mrcrayfish/backpacked/client/gui/ItemCostTooltip.class
+SHA-256-Digest: tdC1EL60i6RcBOjz0RiOBg6SA9P/iYpRFPxwuzf+vwY=
+
+Name: com/mrcrayfish/backpacked/client/backpack/loader/ModelMetaLoader.c
+ lass
+SHA-256-Digest: k0Chof0QaX144z821Um5v3U0WWBjnaWskNxSo98Mtjc=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/layout/PaddedGridLayou
+ t.class
+SHA-256-Digest: w88ziElv19u5iuHNp4+cF9a6yNjykZ8ANO4v13uuwQ8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/condit
+ ion/BaseCondition.class
+SHA-256-Digest: Mew6UWuglNuZDO7+tadCs95vu/ViKAbYq3FZvFZwnkA=
+
+Name: com/mrcrayfish/backpacked/common/augment/data/Recall$QueuedItem.cl
+ ass
+SHA-256-Digest: TwOQSaZEfqoVlv3gcqpXUo/uA64B3zpw8jSUw78DX6Q=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/LightweaverAugment.c
+ lass
+SHA-256-Digest: c8SYQMBLZdt2kHKUnc+/tbAOJ0HJNFdtckm3kjwGj28=
+
+Name: com/mrcrayfish/backpacked/common/ItemSorting.class
+SHA-256-Digest: h8j+mcWNN4yryUYWUBRCbV4A3nW0V17ChXlM7sNr5zY=
+
+Name: com/mrcrayfish/backpacked/common/backpack/CosmeticProperties$View.
+ class
+SHA-256-Digest: 8v+W+5kGeXMG7+k3noZD6vNDfVfz3T+HexmUEB71Gck=
+
+Name: data/backpacked/advancements/recipes/decorations/warped_backpack_s
+ helf.json
+SHA-256-Digest: 0yzLXQyP0IcRIMZ5+YPwKYon5qWVDP3OuDl3c2O7P3k=
+
+Name: com/mrcrayfish/backpacked/item/BackpackItem.class
+SHA-256-Digest: mKgv0c+ykEj70fu3pVWcKpy3gLgpO3E7rmjh6Rgajnk=
+
+Name: com/mrcrayfish/backpacked/mixin/common/EntityMixin.class
+SHA-256-Digest: Y28xgTkNEbnjAFqALbwENvtO2w5TvMtWDl5XybgvSPw=
+
+Name: assets/backpacked/models/backpacked/end_crystal.json
+SHA-256-Digest: 91mvaoNFIhuPlfwRlzsrblLJlu08YAslrv+HSh9bDkg=
+
+Name: assets/backpacked/backpacked/mini_chest.json
+SHA-256-Digest: 5rFbG8h64f/KBjWCPEBT/ateQbe56IMMhkb1rCUJ2jQ=
+
+Name: assets/backpacked/textures/item/backpack.png
+SHA-256-Digest: RtTfs8jnAQqnn+nkr2iO32QU7RHc4saosTSoLGZ8wuE=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/BackpackRenderC
+ ontext.class
+SHA-256-Digest: 7uf1VbaBjSSt50vl86c7CWOxpYr34RuWVSo9OCVTdNY=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/LootboundAugment.cla
+ ss
+SHA-256-Digest: /NJgxH3YUfhZxi0BY+XlQcv+BBy9AJWZt4SZxq7R4Q0=
+
+Name: META-INF/accesstransformer.cfg
+SHA-256-Digest: QqTs0rVeXMwe97QC359cBRrpICQPwDeyT5O7/Ymh6JU=
+
+Name: assets/backpacked/backpacked/sheep_plush.json
+SHA-256-Digest: tcUJ792idrOoCdSLunCMgnaQcc+SDfkPU/u3UakPXDs=
+
+Name: assets/backpacked/textures/backpack/cogwheel.png
+SHA-256-Digest: MfpsPhit8qkA9lmjYBZRjvil1BpTJ9yi0utRPzT8TGU=
+
+Name: assets/backpacked/backpacked/standard.json
+SHA-256-Digest: oAr2XAo71nVS/OpzTcYxmJEtzSM0AVSLLP2Qns6HEgY=
+
+Name: com/mrcrayfish/backpacked/mixin/common/IntegerPropertyMixin.class
+SHA-256-Digest: GIa5r0iZqUjNi3Wj9uDe9IDknniBJB4RUWc5x9+kl/4=
+
+Name: assets/backpacked/blockstates/dark_oak_backpack_shelf.json
+SHA-256-Digest: 600sw+xy3vDeame/tsbUZs+ARpG9ANZNAQYhtUNy76I=
+
+Name: com/mrcrayfish/backpacked/platform/ForgeClientHelper.class
+SHA-256-Digest: vz6g+Iv38Gjow7e30SRuo3Yuj8l9TSrKykxQZ1ia1BY=
+
+Name: com/mrcrayfish/backpacked/common/tracker/ProgressFormatter.class
+SHA-256-Digest: h4wmkaWfEkcq5pJNP0O+kvDv3vijhPjfeFtCyHS/bvc=
+
+Name: com/mrcrayfish/backpacked/mixin/common/BredAnimalsTriggerMixin.cla
+ ss
+SHA-256-Digest: s/Rd4xumC3LyM9rw33B8kvmXPopzVb5BZwPf5tA+QeA=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/KillMobChallenge$S
+ erializer.class
+SHA-256-Digest: +IcyCyr/BSehN4dv4eDaUSpRQTmlzHJmu4mpfMOit/Y=
+
+Name: assets/backpacked/backpacked/turtle_shell.json
+SHA-256-Digest: Y6EpI326xiAhGq6OejOPKIFiBhEi6gu+Q8cB2E0mRL8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ ConstantValue.class
+SHA-256-Digest: lr3k5ThloAuak3JnMT7ir/v65fSdVtmVnOTyYRDwDAU=
+
+Name: com/mrcrayfish/backpacked/common/backpack/UnlockableSlots$1.class
+SHA-256-Digest: G+2LTbuMu66qw5lvIy1ENvFe7pRLAKFfgUpCijHiBvE=
+
+Name: com/mrcrayfish/backpacked/mixin/client/GuiMixin.class
+SHA-256-Digest: +Vast+YS7KTyGs+u1HAVkk9qLUKZJgJKIGyq0LgKsEc=
+
+Name: com/mrcrayfish/backpacked/Config$Backpack$Cosmetics.class
+SHA-256-Digest: IN9eSiUGzYIl+S0IOcVW2p5zi4prgs/50OdsSZ+ikmo=
+
+Name: com/mrcrayfish/backpacked/client/ClientRegistry.class
+SHA-256-Digest: S7EpOG9Djq3Fk+mNPZKpfYQmNngWeW/Cm4wTOsil54I=
+
+Name: data/backpacked/advancements/recipes/decorations/jungle_backpack_s
+ helf.json
+SHA-256-Digest: zEWxBYTFmIFmzOOwT+lolt1nYIge1/qxIr8Sbu/h56I=
+
+Name: com/mrcrayfish/backpacked/event/BackpackedInteractAccess.class
+SHA-256-Digest: jd8sqBMoVdbwfCeYcqfGb06ULpie1O5PfnarFkxQfUs=
+
+Name: data/backpacked/recipes/warped_backpack_shelf.json
+SHA-256-Digest: ieki83OYEDLRMZ1nZCUeEnTvYTmJO4TCCaNVja2ZQUg=
+
+Name: com/mrcrayfish/backpacked/event/entity/InteractedWithEntity.class
+SHA-256-Digest: Zv0saIDHm4UVfm4fsjMVKCtEBPIN+9piZfgjzF1d2ok=
+
+Name: data/backpacked/backpacked/rocket.json
+SHA-256-Digest: JFMXQRFh5BGd28npzsVbkYKkQZvGC6kNZUdk0UCutOM=
+
+Name: data/backpacked/loot_tables/blocks/jungle_backpack_shelf.json
+SHA-256-Digest: baEhjKe35wUF1veCE6cT22WPQotBHz5Q7fjPxVNgiwk=
+
+Name: assets/backpacked/backpacked/trash_can.json
+SHA-256-Digest: 5XRzbJ8M1ecertbE+DS1jXgi4biIDX3oiz+JDSNcuVg=
+
+Name: assets/backpacked/textures/item/unlock_token.png
+SHA-256-Digest: VHajLAPsEv5BoozU6XDNh7+cIzFuR+Ws/d+lu/KtR0M=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/functi
+ on/DrawModelFunction.class
+SHA-256-Digest: XuaIM0G0UCgeFXLcELwzMbiF0S+QOfwIUkH5AnWiyQA=
+
+Name: com/mrcrayfish/backpacked/client/BackpackClientItemExtensions.clas
+ s
+SHA-256-Digest: k3M26RU2h3iFx8dNySHGK7U28yuYiGEZpV3+TTAzPVw=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ItemEntityMixin.class
+SHA-256-Digest: +atfqZ42fVsPdolLiFqH+CpM0Y20uUdwcgOE8ajmhvA=
+
+Name: assets/backpacked/models/item/jungle_backpack_shelf.json
+SHA-256-Digest: t+PSfE/YgnC9c3gGpUS3Gz7yAxbqzwaoHYYCK+pgIuc=
+
+Name: com/mrcrayfish/backpacked/data/unlock/UnlockTracker.class
+SHA-256-Digest: kLQrOKYHg9p7K8E1XnnQLpbiio7+iRVn8kpl5Bi4YNQ=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/layout/PaddedLayout.cl
+ ass
+SHA-256-Digest: TRAg9CTTj8bLgqM/KbWEXm0+886hKniMGDeUqD2zPcg=
+
+Name: data/backpacked/backpacked/piglin_pack.json
+SHA-256-Digest: 4wTJInTb8SF0lvb5XcdahpdKPgBWLCfZBkd7RfzeJLM=
+
+Name: assets/backpacked/models/backpacked/cardboard_box.json
+SHA-256-Digest: v2Jr7suAD1RWksO0KCZ8/b+42SaIEHICErvF1rYGL/Y=
+
+Name: assets/backpacked/textures/backpack/bamboo_basket.png
+SHA-256-Digest: 3c7Y4bbZxtTm8Jz2OjihT3frce7Tyaz02C2d5EMK/1o=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/PlayerDisplay.c
+ lass
+SHA-256-Digest: KvB4YylmepnCVoTxREgR5xjV4AbksUVqTx4EVwDcf8Q=
+
+Name: com/mrcrayfish/backpacked/mixin/common/BlockItemInvoker.class
+SHA-256-Digest: SxG74FuV29IUviMl9qNCFe7NOL9IfFrs8iL8sCTI428=
+
+Name: com/mrcrayfish/backpacked/client/ClientBootstrap.class
+SHA-256-Digest: iwDzsNQwt6lfiIoLsVuh8AXCIaGODy758yTbBOxVMM4=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackShelfMenu.cl
+ ass
+SHA-256-Digest: r/4XbqYZD+RSx9Sq+Kq3coFkFSxmaNFb44CWB+zMj60=
+
+Name: com/mrcrayfish/backpacked/common/augment/impl/QuiverlinkAugment$Pr
+ iority.class
+SHA-256-Digest: G071fTRhAwZ+bWAjCh2yo8jHCAugIbWRI11MX1jCMng=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/PopupMenu
+ Handler.class
+SHA-256-Digest: vngQVD7/bC8FCFpcqeg9Fi1tPJ2/97ZjCIqjhXJiSB4=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/ExploreBiomeChalle
+ nge.class
+SHA-256-Digest: ecCfpsbN2ef0y2sgL7xS1Ysv3gLEAZb++utVxUK5xlg=
+
+Name: assets/backpacked/models/block/spruce_backpack_shelf.json
+SHA-256-Digest: nurOQkzMloZRq88tG1i3JwN6Q/pXuLNk3wo6dTLQl8k=
+
+Name: com/mrcrayfish/backpacked/inventory/container/WanderingTraderConta
+ iner.class
+SHA-256-Digest: OFFeqLYF9QJ/OLmN5YSxXu7b1Gsu0JEVdZtos7BE0eE=
+
+Name: data/backpacked/recipes/crimson_backpack_shelf.json
+SHA-256-Digest: Ad57bJas7mVc0cz9c/kUKvRHvcxOh8mIpV7wz4V00Tk=
+
+Name: com/mrcrayfish/backpacked/mixin/client/ForgeBitmapProviderDefiniti
+ onMixin.class
+SHA-256-Digest: 4OilyTbVMoyvTaYn+SzdXnmmxo1uGQIPzmVTugg4RAA=
+
+Name: com/mrcrayfish/backpacked/event/entity/InteractedWithEntity$Captur
+ e.class
+SHA-256-Digest: FA1j1dlP8EOBQh3HJGRrFhk/3lEiSNNls2hQpuz7GKY=
+
+Name: com/mrcrayfish/backpacked/inventory/BackpackInventory.class
+SHA-256-Digest: JGtkiOfl/+LFItZ7hX6GvcPhXV9vopELvxmDlBFtVl8=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/advanced/value/
+ WaveformValue.class
+SHA-256-Digest: jn5iTfmTkrAiUGVv37HQulqfl333W9RobUFeypoW/eA=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageOpenCustomisation
+ .class
+SHA-256-Digest: e9ECFfiRiN5SDDPrj6/4uxUIjSL7dlD8TmzGbWkLq4w=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/CustomiseBackpackScree
+ n$GuideItem.class
+SHA-256-Digest: Q2YyFx6Ith0EJ6yOE/b/GUXpTKy5L+8QblMo7fIGPvI=
+
+Name: com/mrcrayfish/backpacked/common/backpack/Backpack.class
+SHA-256-Digest: p4dK9CwXqRNDGorATQt4Gp6iT3Q3PWlsz1pB+tnMY1Q=
+
+Name: com/mrcrayfish/backpacked/mixin/common/CreativeModeTabMixin.class
+SHA-256-Digest: 7PqmkK28EBPOOKEUKXtAoXM4WdwHjKkyLbhHFCkkluc=
+
+Name: com/mrcrayfish/backpacked/BackpackHelper.class
+SHA-256-Digest: ZiFGIzG3mvaubbvaOOO8FqS9KN/XIitNNwj9es67YDs=
+
+Name: com/mrcrayfish/backpacked/common/PaymentType.class
+SHA-256-Digest: rKr5um0wGYwKGV7KcU5t3TtgmmOqeHSOYKbi8gsSrnc=
+
+Name: com/mrcrayfish/backpacked/data/pickpocket/TraderPickpocketing$Seri
+ alizer.class
+SHA-256-Digest: DPStjTqguh+n2huQSMISQBQlM7apXGc6uksrssg2C7Y=
+
+Name: com/mrcrayfish/backpacked/Config$Augments$ImbuedHide.class
+SHA-256-Digest: FyGLjYXvD1t634DLOWNG4Q4RxRZMA9GHZa17c2PaYGE=
+
+Name: com/mrcrayfish/backpacked/blockentity/ShelfBlockEntity.class
+SHA-256-Digest: 1yPtTw0soWPsjdmLVONIIKFHLVETA1FeVE3BQBBW2LE=
+
+Name: com/mrcrayfish/backpacked/mixin/common/ServerLevelMixin.class
+SHA-256-Digest: sQgEKIJPcq9yGmY2K2+gh2Tvw7j2rBmXu6/f0jhhETM=
+
+Name: assets/backpacked/blockstates/acacia_backpack_shelf.json
+SHA-256-Digest: NLbtLY2cqpLRXFo/PO2Fs2Kv9RaYILNRkd9CszzKhDs=
+
+Name: com/mrcrayfish/backpacked/client/augment/AugmentHolder.class
+SHA-256-Digest: rVwyFYj26XHjgjTpsZV429THLjIpyRNPetD0ZQdLH1Y=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ item/ButtonItem.class
+SHA-256-Digest: F3sKOB2SOjB5HEeI3woprkD38FTOzHo9f7M8WaEZpZM=
+
+Name: com/mrcrayfish/backpacked/common/challenge/impl/InteractWithEntity
+ Challenge.class
+SHA-256-Digest: h//i34kEuW0T5yjRx8jPnZloVq0eaONXhnfQiN0pV5c=
+
+Name: com/mrcrayfish/backpacked/core/ModRegistries.class
+SHA-256-Digest: Ri+KKp1GoMzDxQab5U0AuMrqnUGiqSxn9H58XCxIASY=
+
+Name: com/mrcrayfish/backpacked/client/augment/menu/RecallMenu$1.class
+SHA-256-Digest: YxIeHQgoecOLBdjW9icLR042gaFV71PHwu5q80zSCPM=
+
+Name: com/mrcrayfish/backpacked/mixin/common/LevelMixin.class
+SHA-256-Digest: ncFI/6+dyw3oxbDgrDBvN3DvQwRkb4cNpK0h2kI81ZE=
+
+Name: LICENSE_Backpacked
+SHA-256-Digest: oaMxgNApYKscXeNs8gsaLw/piI2DgmrSY9pdtS8bGDs=
+
+Name: com/mrcrayfish/backpacked/common/InventoryAugmentSnapshot.class
+SHA-256-Digest: hdpMnPkC9+KWCYFrjtFqXAUAfkIXabEQ5WYN4dZqI7o=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageUpdateAugment.cla
+ ss
+SHA-256-Digest: TQccECrqRimQJZ7Vy8FFY5kUhVr6hIHWx8U2Bg5E4C4=
+
+Name: com/mrcrayfish/backpacked/inventory/container/BackpackContainerMen
+ u$BackpackUnlockableController.class
+SHA-256-Digest: dwDqpb+H7uV+ZvD+7QAAvndyW742ACRcqvgDeuErQn4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/blockentity/ShelfRendere
+ r.class
+SHA-256-Digest: 5QJlJb8ixZfEjpQqTJsOWIuxT7adPae6Gb9SzKmmIdo=
+
+Name: com/mrcrayfish/backpacked/common/WanderingTraderEvents$LootAtDetec
+ tedPlayerGoal.class
+SHA-256-Digest: ZVd1vQxhc/bAeVvvFZB7/tjmx5SkL5Afar9X4SQ6Qt4=
+
+Name: data/backpacked/advancements/recipes/decorations/crimson_backpack_
+ shelf.json
+SHA-256-Digest: 1Uf9JCqAnojGcUvSp0krPR5ZyI8BRZIifc9fECQ8k94=
+
+Name: assets/backpacked/textures/gui/backpack_assets.png
+SHA-256-Digest: 5GMaVSeSIDwb8gQJpsyj7RIAePivvCKtgD6rLcuG0xs=
+
+Name: assets/backpacked/models/item/spruce_backpack_shelf.json
+SHA-256-Digest: D4SyhF68I3+rcBJ0ZpA3sEmU9MyAuDMPRioUdysM+AU=
+
+Name: assets/backpacked/models/backpacked/mini_chest.json
+SHA-256-Digest: 3gQMG+Z6nM6o35Wbx10l7NI+x6Ggt910D6Vz2RVl7Qg=
+
+Name: assets/backpacked/models/block/backpack_shelf.json
+SHA-256-Digest: GPqzMTtjS76ygmS1No4bozIit+Tu+fnwnc5SECZoK+0=
+
+Name: com/mrcrayfish/backpacked/common/augment/Augment.class
+SHA-256-Digest: 0PlSquVPHphT6EH3wDO7g5uFv8Hqbhv6aJQ6KoNmelc=
+
+Name: data/backpacked/loot_tables/blocks/oak_backpack_shelf.json
+SHA-256-Digest: NZ8iU//9SXBYMFCGX1am6EWbhvBPe3Vy0rSFdzx3N/c=
+
+Name: data/backpacked/recipes/backpack_dock.json
+SHA-256-Digest: vZHuaXcY/vXGTU3obaEYOUItwD8k61uDEklq4UF5amM=
+
+Name: com/mrcrayfish/backpacked/network/play/ClientPlayHandler.class
+SHA-256-Digest: m/v2SlkyHHRcRVs7W1Y1ze2a20GKcLYhti/ehrvokW4=
+
+Name: com/mrcrayfish/backpacked/client/renderer/backpack/Scene.class
+SHA-256-Digest: s2m+GeLJ7FzKoRYrahnNO9bujSxKB2HI4K8hwU78kro=
+
+Name: com/mrcrayfish/backpacked/client/renderer/entity/layers/BackpackLa
+ yer.class
+SHA-256-Digest: t5xXppj3HhYktKCsE+kPGDe2RVMXNkQiUJYR/1Rr30w=
+
+Name: assets/backpacked/textures/item/empty_backpack_slot.png
+SHA-256-Digest: 6iawY4AZcLQ0FoLudZn3+mGRgFtYPyRisXRbR+RMhz8=
+
+Name: com/mrcrayfish/backpacked/network/play/ServerPlayHandler.class
+SHA-256-Digest: y2TaTplYd0pqDJ/3OLhK3/KlszBQ8btOxBZ9PkNAv8g=
+
+Name: assets/backpacked/backpacked/cardboard_box.json
+SHA-256-Digest: pzpO3xMiO7w1FU/WaVcgM7XLk3OcdNdTWa7Xouoh/vg=
+
+Name: data/backpacked/backpacked/turtle_shell.json
+SHA-256-Digest: jT23LsgEalHK6VnvvnKeA0uwFREufwrxoQWyZuyHjS8=
+
+Name: assets/backpacked/sounds/augment/lootbound/take_item.ogg
+SHA-256-Digest: hwn8dH6OeUWMJK1Ffi9QjzD9Ev20CLQ0IzzdJj9ogI4=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/widget/popup/dropdown/
+ MenuItem.class
+SHA-256-Digest: a1okuO7gDvZgxbRagEQcdiCWyMxwSdFtTdHC1Rem3M4=
+
+Name: assets/backpacked/backpacked/honey_jar.json
+SHA-256-Digest: +pJfw8wswyEND6N6UrmzDEIbd5aeZAdpJNdwsR2gFhs=
+
+Name: META-INF/services/com.mrcrayfish.backpacked.platform.services.IEnt
+ ityHelper
+SHA-256-Digest: rYwXq4y6aCJZduWQqLK2byVQe6adQEGMC17Dqe1J6W0=
+
+Name: com/mrcrayfish/backpacked/integration/jei/BackpackScreenHandler.cl
+ ass
+SHA-256-Digest: iuyifBJJjy56AOc0KNMtBH0mHhecnWalQPEkIfSRfI0=
+
+Name: assets/backpacked/models/block/backpack_dock.json
+SHA-256-Digest: PbSgMuJCgY9y5juqbmdLMREYYzEYmNyjevVy/yVyhyg=
+
+Name: assets/backpacked/lang/en_ud.json
+SHA-256-Digest: +sX3r2NJJsRKqJ4bmEFEsDrKi7D2zh381LcUweY2SjU=
+
+Name: com/mrcrayfish/backpacked/common/challenge/UnlockChallenge.class
+SHA-256-Digest: PSbt/RRWu5+qPNM9cqAl6GfnBrwehvvK+bOuFmID928=
+
+Name: com/mrcrayfish/backpacked/client/gui/screen/inventory/UnlockableCo
+ ntainerScreen$1.class
+SHA-256-Digest: jv0tUn+8LVgi20oY8OeKonUEQx+FE9vUWucOqM1aN+o=
+
+Name: assets/backpacked/models/backpacked/trash_can_straps.json
+SHA-256-Digest: Ig398I+R05XZddaK0tWu7Pd710l9AZ7QVD7l0vc7c44=
+
+Name: com/mrcrayfish/backpacked/network/message/MessageChangeAugment.cla
+ ss
+SHA-256-Digest: kIZSqi68NlG2Ou5kenz2GKdvImjLdExHvYmgwpwvmzQ=
+
+Name: assets/backpacked/models/backpacked/end_crystal_straps.json
+SHA-256-Digest: QvPYZMXTShbmEMKn3uIii/T9g+WvTq7NlfkXXbTsRhI=
+
+Name: com/mrcrayfish/backpacked/util/Utils.class
+SHA-256-Digest: IT+sKd8oSHRWI65iBW3EHMXL8359duQVC36XXRQGwfY=
+
+Name: assets/backpacked/textures/backpack/classic.png
+SHA-256-Digest: 8G3HkbLwmEPT/Bp3RdJyouaBaWrjDnbuJ8Wl56evoZU=
+
+Name: assets/backpacked/textures/backpack/vintage.png
+SHA-256-Digest: dKAhsmVJYPPitrdyjeNcEy9uIRL/UW6uR/JP5bhlIx0=
+
+Name: com/mrcrayfish/backpacked/common/InventoryAugmentSnapshot$One.clas
+ s
+SHA-256-Digest: xrmt366FCWJxxUaWE3vIpMTihAs0Vn4PxMEkVmvZaoM=
+
+Name: assets/backpacked/textures/backpack/honey_jar.png
+SHA-256-Digest: CNYyo/y937Mi6GSyuju/jXaZiYu+niRrAFrSwV9LJd4=
+
+Name: com/mrcrayfish/backpacked/common/backpack/BackpackState.class
+SHA-256-Digest: d4BaqBg+4oyMCnCXEztoOwmQ89Rn2Tow0+5YFgMAFdA=
+

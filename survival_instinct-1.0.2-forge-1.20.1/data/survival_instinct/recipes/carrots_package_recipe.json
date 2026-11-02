@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "survival_instinct:carrots_package",
+    "count": 1
+  }
+}

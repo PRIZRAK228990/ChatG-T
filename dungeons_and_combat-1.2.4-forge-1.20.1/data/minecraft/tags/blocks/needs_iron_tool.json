@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:raw_silver_block",
+    "dungeons_and_combat:blessed_gold_block",
+    "dungeons_and_combat:silver_block",
+    "dungeons_and_combat:silver_deepslate_ore",
+    "dungeons_and_combat:silver_ore",
+    "dungeons_and_combat:sacrificial_table"
+  ]
+}

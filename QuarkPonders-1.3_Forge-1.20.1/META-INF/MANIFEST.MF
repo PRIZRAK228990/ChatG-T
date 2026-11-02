@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: quark_ponders
+Specification-Vendor: LeoBeliik
+Specification-Version: 1
+Implementation-Title: quarkponders
+Implementation-Version: 
+Implementation-Vendor: LeoBeliik
+Implementation-Timestamp: 2025-11-09T11:26:51-0300
+

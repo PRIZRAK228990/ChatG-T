@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:tialloy"
+    },
+    "b": {
+      "item": "trol_armor:cable"
+    }
+  },
+  "result": {
+    "item": "trol_armor:exo_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "dungeons_and_combat:horus_klauen"
+    }
+  ],
+  "result": {
+    "item": "dungeons_and_combat:divine_stew",
+    "count": 1
+  }
+}

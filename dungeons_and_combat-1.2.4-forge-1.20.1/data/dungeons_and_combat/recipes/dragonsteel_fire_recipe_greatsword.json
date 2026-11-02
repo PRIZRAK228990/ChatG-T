@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " aa",
+    "aaa",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    },
+    "b": {
+      "item": "iceandfire:witherbone"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:dragonsteel_fire_greatsword",
+    "count": 1
+  }
+}

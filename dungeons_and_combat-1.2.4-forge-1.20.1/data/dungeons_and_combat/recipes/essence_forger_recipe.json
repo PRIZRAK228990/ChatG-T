@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blackstone"
+    },
+    "b": {
+      "item": "minecraft:furnace"
+    },
+    "c": {
+      "item": "dungeons_and_combat:cursed_soul"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:forging_of_essences",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butchersdelightfoods:goatrack"
+    },
+    "nutrientsCost": 1,
+    "processingTime": 140,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 3,
+                "min": 1
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 6,
+                "min": 2
+            },
+            "item": "biomancy:bone_fragments"
+        }
+    ]
+}

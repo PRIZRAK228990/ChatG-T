@@ -1,0 +1,37 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "create_connected:feature_enabled",
+          "feature": "create_connected:kinetic_bridge"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "category": "misc",
+        "key": {
+          "b": {
+            "item": "create:brass_casing"
+          },
+          "c": {
+            "item": "create:clutch"
+          },
+          "s": {
+            "item": "create:shaft"
+          }
+        },
+        "pattern": [
+          " b ",
+          "scs",
+          " b "
+        ],
+        "result": {
+          "item": "create_connected:kinetic_bridge"
+        },
+        "show_notification": true
+      }
+    }
+  ]
+}

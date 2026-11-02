@@ -1,0 +1,18 @@
+filename = 'ParCool-1.20.1-4.0.1.5.jar'
+name = 'ParCool!'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-4.0.1.5'
+
+[download]
+hash = '357d530fe511131adf627d6b00fbb2c3b944605cdd3cc51a47a1f9a9f4066a4fc297f0829d53d6da7fb06f65c5166f619411c4bdd269ba50414d3df31107eb65'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Fsvx2bdR/versions/oDzhBzEH/ParCool-1.20.1-4.0.1.5.jar'
+
+[update.modrinth]
+mod-id = 'Fsvx2bdR'
+version = 'oDzhBzEH'

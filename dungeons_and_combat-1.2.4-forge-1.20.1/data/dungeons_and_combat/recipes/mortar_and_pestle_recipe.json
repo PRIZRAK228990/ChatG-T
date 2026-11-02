@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:mortar_and_pestle",
+    "count": 3
+  }
+}

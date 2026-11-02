@@ -1,0 +1,53 @@
+filename = 'l2weaponry-2.6.3.jar'
+name = 'L2 Weaponry'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.3'
+
+[download]
+hash = 'ad169a3e9bc85fa93d0b51d6738ee73d30cbb70c67cf69956c96d354c3376d742793acf4d4a5f0108aaf54b8ee6fc48a3c512d6c9e2681b599b2ff28184037c1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7q7kOZix/versions/lEskBqzd/l2weaponry-2.6.3.jar'
+
+[update.modrinth]
+mod-id = '7q7kOZix'
+version = 'lEskBqzd'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LVnvHVBp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TKB6INcv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5sy6g3kz'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4Vh3BQ3F'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EO27GKs1'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oPrh2Lz3'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ejfl5qDL'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hvaVU41U'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gtGDlsAD'
+type = 'OPTIONAL'

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:dragon_greatsword_bone"
+    },
+    "b": {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:dragon_greatsword_lightning",
+    "count": 1
+  }
+}

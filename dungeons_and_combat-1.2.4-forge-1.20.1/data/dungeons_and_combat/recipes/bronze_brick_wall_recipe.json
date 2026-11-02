@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bronze_brick"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_brick_wall",
+    "count": 6
+  }
+}

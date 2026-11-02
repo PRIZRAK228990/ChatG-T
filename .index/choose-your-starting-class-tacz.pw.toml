@@ -1,0 +1,18 @@
+filename = 'choose-your-starting-class-tacz-1.3.1.jar'
+name = 'Choose Your Starting Class [TaCZ]'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'choose-your-starting-class-tacz-1.3.1.jar'
+
+[download]
+hash = 'bad19489efb3075d37c8b5fbddc3022cb68fa002'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8738048
+project-id = 1666708

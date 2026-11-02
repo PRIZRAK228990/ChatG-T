@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:pan"
+    },
+    "b": {
+      "item": "trol_armor:fabric"
+    }
+  },
+  "result": {
+    "item": "trol_armor:lv_1c_helmet",
+    "count": 1
+  }
+}

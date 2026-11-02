@@ -1,0 +1,50 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:drained_turtle_corpse_item"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 15,
+                "min": 3
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 18,
+                "min": 7
+            },
+            "item": "biomancy:bone_fragments"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 19,
+                "min": 11
+            },
+            "item": "biomancy:elastic_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 35,
+                "min": 10
+            },
+            "item": "biomancy:tough_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 22,
+                "min": 10
+            },
+            "item": "biomancy:mineral_fragment"
+        }
+    ]
+    }

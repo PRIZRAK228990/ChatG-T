@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:crimson_tiles"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:crimson_tiles_wall",
+    "count": 6
+  }
+}

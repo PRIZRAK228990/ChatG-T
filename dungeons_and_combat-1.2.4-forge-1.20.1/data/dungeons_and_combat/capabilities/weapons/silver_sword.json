@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "common": {
+      "impact": 0.8,
+	  "speed_bonus": 0.1,
+	  "max_strikes": 2
+    }
+  },
+  "collider": {
+    "center": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "number": 5,
+    "size": [
+      0.3,
+      0.3,
+      0.8
+    ]
+  },
+  "type": "ba_tweaks:sword"
+}

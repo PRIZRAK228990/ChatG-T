@@ -1,0 +1,28 @@
+{
+  "type": "create:filling",
+  "conditions": [
+    {
+      "type": "create_connected:feature_enabled",
+      "feature": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_more_catalysts"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "amount": 1000,
+      "fluid": "create:chocolate",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "create_connected:fan_chocolate_coating_catalyst"
+    }
+  ]
+}

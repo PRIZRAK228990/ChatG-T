@@ -1,0 +1,39 @@
+{
+  "type": "create:item_application",
+  "conditions": [
+    {
+      "type": "create_connected:feature_enabled",
+      "feature": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "type": "forge:or",
+      "values": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "dndesires"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create_henry"
+        },
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create_dragons_plus"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "create_connected:empty_fan_catalyst"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_connected:fan_sanding_catalyst"
+    }
+  ]
+}

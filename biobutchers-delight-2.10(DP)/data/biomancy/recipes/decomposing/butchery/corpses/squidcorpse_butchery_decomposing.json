@@ -1,0 +1,35 @@
+{
+    "type": "biomancy:decomposing",
+    "ingredient": {
+        "item": "butcher:squidcorpse"
+    },
+    "nutrientsCost": 5,
+    "processingTime": 2400,
+    "results": [
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 12,
+                "min": 3
+            },
+            "item": "biomancy:flesh_bits"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 24,
+                "min": 8
+            },
+            "item": "biomancy:elastic_fibers"
+        },
+        {
+            "countRange": {
+                "type": "uniform",
+                "max": 32,
+                "min": 4
+            },
+            "item": "biomancy:bile"
+        }
+    ]
+
+}

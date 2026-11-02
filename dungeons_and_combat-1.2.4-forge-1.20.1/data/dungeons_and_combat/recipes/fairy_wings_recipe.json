@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:fairy_wing"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:fairy_wings",
+    "count": 1
+  }
+}

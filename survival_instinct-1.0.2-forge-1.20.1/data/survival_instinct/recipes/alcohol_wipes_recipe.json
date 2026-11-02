@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bb"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:alcohol"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "survival_instinct:alcohol_wipes",
+    "count": 3
+  }
+}

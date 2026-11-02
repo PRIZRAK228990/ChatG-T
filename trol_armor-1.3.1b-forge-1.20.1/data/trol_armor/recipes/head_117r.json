@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "trol_armor:carbonsteel"
+    },
+    "b": {
+      "item": "trol_armor:cable"
+    },
+    "c": {
+      "item": "trol_armor:bulletproofglass"
+    }
+  },
+  "result": {
+    "item": "trol_armor:armor_117_helmet",
+    "count": 1
+  }
+}

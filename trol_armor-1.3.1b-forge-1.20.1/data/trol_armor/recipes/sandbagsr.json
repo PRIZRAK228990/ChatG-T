@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "trol_armor:sandbags",
+    "count": 1
+  }
+}

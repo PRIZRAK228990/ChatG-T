@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:bronze_nugget"
+    },
+    "b": {
+      "item": "dungeons_and_combat:bottled_acid_fire"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:bronze_engine_core",
+    "count": 1
+  }
+}

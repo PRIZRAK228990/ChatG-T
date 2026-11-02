@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "dungeons_and_combat:sandstone_sickle",
+    "dungeons_and_combat:iron_axe",
+    "dungeons_and_combat:blessed_gold_sickle",
+    "dungeons_and_combat:sandstone_axe",
+    "dungeons_and_combat:ebony_axe",
+    "dungeons_and_combat:sandstone_twin_blade",
+    "dungeons_and_combat:iron_greataxe",
+    "dungeons_and_combat:blessed_gold_axe",
+    "dungeons_and_combat:bronze_hand_drill",
+    "dungeons_and_combat:molten_dark_steel_axe_ii",
+    "dungeons_and_combat:steel_axe_ii",
+    "dungeons_and_combat:bleesed_gold_axe",
+    "dungeons_and_combat:molten_dark_steel_axe",
+    "dungeons_and_combat:molten_dark_steel_greataxe",
+    "dungeons_and_combat:crimson_axe",
+    "dungeons_and_combat:titanium_axe",
+    "dungeons_and_combat:silver_axe",
+    "dungeons_and_combat:steel_axe",
+    "dungeons_and_combat:copper_axe",
+    "dungeons_and_combat:old_axe",
+    "dungeons_and_combat:steel_greataxe",
+    "dungeons_and_combat:executioner_axe",
+    "dungeons_and_combat:blessed_gold_twin_blade",
+    "dungeons_and_combat:copper_axe_war"
+  ]
+}

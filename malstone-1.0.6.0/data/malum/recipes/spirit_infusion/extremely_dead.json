@@ -1,0 +1,26 @@
+{
+  "type": "malum:spirit_infusion",
+  "extra_items": [
+    {
+      "count": 1,
+      "item": "malum:fused_consciousness"
+    },
+    {
+      "count": 16,
+      "item": "malum:twisted_rock"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "malstone:evil_engine"
+  },
+  "output": {
+    "item": "malstone:extremely_dead"
+  },
+  "spirits": [
+    {
+      "type": "infernal",
+      "count": 32
+    }
+  ]
+}

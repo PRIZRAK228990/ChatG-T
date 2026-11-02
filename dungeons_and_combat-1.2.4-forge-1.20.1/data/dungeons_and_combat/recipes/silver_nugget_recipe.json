@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dungeons_and_combat:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "dungeons_and_combat:silver_nugget",
+    "count": 9
+  }
+}

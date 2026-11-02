@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "butcher:turtlemeat"
+    },
+    "result": "butcher:cookedturtlemeat",
+    "experience": 0.5,
+    "cookingtime": 100
+  }

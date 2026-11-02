@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: l2weaponry
+Specification-Vendor: xkmc
+Specification-Version: 1
+Implementation-Title: L2Weaponry
+Implementation-Version: 2.6.3
+Implementation-Vendor: xkmc
+Implementation-Timestamp: 2026-08-05T21:19:19+0800
+MixinConfigs: l2weaponry.mixins.json
+
