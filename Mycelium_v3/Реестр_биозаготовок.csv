@@ -1,0 +1,12 @@
+﻿Item ID;Название;Способ получения;Роль
+kubejs:raw_mycelial_pulp;Сырая мицелиальная пульпа;Decomposer из заражённых блоков;Базовый реагент для Bio-Lab
+kubejs:tissue_concentrate;Концентрат биологических тканей;Bio-Forge из материалов Biomancy и Spore;Многокомпонентная заготовка для Bio-Lab
+kubejs:mycelial_biofilm;Мицелиальная биоплёнка;Bio-Lab;Реагент для сосудистых/нейронных смесей
+kubejs:vascular_bioreagent;Сосудистый биореагент;Bio-Lab;Для Living/Infested экипировки
+kubejs:neuroactive_bioreagent;Нейроактивный биореагент;Bio-Lab;Для Living/Mk2 и спецоружия
+kubejs:reinforced_biomass_laminate;Армированный биомассный ламинат;Bio-Forge;Тяжёлая броня и оружие
+kubejs:hematic_vascular_bioreagent;Кровенасыщенный сосудистый биореагент;Blood Altar;Продвинутая броня
+kubejs:hematic_neuroactive_bioreagent;Кровенасыщенный нейроактивный биореагент;Blood Altar;Mk2 и высокотехнологичное оружие
+kubejs:mk2_tissue_matrix;Тканевая матрица Mk2;Bio-Lab + Hematic Neuroactive Reagent;Все детали комплекта Mk2
+kubejs:compacted_mycelial_biomass;Уплотнённая мицелиальная биомасса;Bio-Forge;Хранилище/обратная переработка
+kubejs:infected_crust_fragment;Фрагмент заражённой корки;"Редкий побочный дроп при разрушении spore:infested_*; затем Decomposer";Источник малых количеств сырой мицелиальной пульпы

@@ -1,0 +1,32 @@
+{
+  "name": "Mycelium KubeJS Pack v2",
+  "minecraft": "1.20.1",
+  "loader": "Forge 47.4.23",
+  "base_mods": {
+    "spore": "2.2.0j",
+    "biomancy": "2.9.8.1-alpha.0",
+    "bloodmagic": "3.3.8-50",
+    "biofactory": "0.6.0"
+  },
+  "safe_mode": true,
+  "custom_items": [
+    "raw_mycelial_pulp",
+    "tissue_concentrate",
+    "mycelial_biofilm",
+    "vascular_bioreagent",
+    "neuroactive_bioreagent",
+    "reinforced_biomass_laminate",
+    "hematic_vascular_bioreagent",
+    "hematic_neuroactive_bioreagent",
+    "mk2_tissue_matrix"
+  ],
+  "custom_blocks": [
+    "kubejs:compacted_mycelial_biomass"
+  ],
+  "decomposer_block_recipes": 24,
+  "mixed_reagent_recipes": 7,
+  "equipment_overrides": 22,
+  "version": "3.0.0",
+  "notes": "Terrain infestation blocks yield normal vanilla blocks guaranteed; rare crust fragment is a separate KubeJS side drop.",
+  "release_notes": "Corrected infested terrain economy: guaranteed normal block drops are preserved; only a 0.3–0.8% side-drop yields the rare crust fragment."
+}

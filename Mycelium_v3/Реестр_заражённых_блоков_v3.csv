@@ -1,0 +1,24 @@
+﻿Block ID;Guaranteed normal drop;Rare bonus item;Bonus chance;Decomposer input
+spore:infested_dirt;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.30%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_sand;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.30%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_red_sand;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.30%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_gravel;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.30%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_clay;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.30%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_stone;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.40%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_deepslate;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.40%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_cobblestone;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.40%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_cobbled_deepslate;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.40%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_netherrack;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.50%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_soul_sand;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.50%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_end_stone;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.60%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_laboratory_block;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.80%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_laboratory_block1;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.80%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_laboratory_block2;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.80%;Нет: блок не попадает в Decomposer напрямую
+spore:infested_laboratory_block3;Да — обычный блок соответствующего типа;kubejs:infected_crust_fragment;0.80%;Нет: блок не попадает в Decomposer напрямую
+spore:biomass_block;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:sicken_biomass_block;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:calcified_biomass_block;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:membrane_block;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:rooted_biomass;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:gastric_biomass_block;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
+spore:brain_remnants;Предметный дроп самого блока по loot table;—;—;Да: отдельный сдержанный рецепт Decomposer
